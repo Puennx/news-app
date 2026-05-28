@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Brief</title>
+  <meta name="description" content="ข่าวดีไซน์ AI เทค เศรษฐกิจ หุ้น สรุปเป็นไทย อัปเดตทุกเช้า">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { font-family: 'IBM Plex Sans Thai', system-ui, -apple-system, sans-serif; }
+    .card-link:hover h2 { text-decoration: underline; }
+  </style>
+</head>
+<body class="bg-neutral-50 text-neutral-900 antialiased">
+  <div class="max-w-3xl mx-auto px-4 py-8 sm:py-12">
+
+    <header class="mb-8 sm:mb-10">
+      <h1 class="text-3xl sm:text-4xl font-bold tracking-tight">Daily Brief</h1>
+      <p id="updated" class="text-sm text-neutral-500 mt-2">กำลังโหลด...</p>
+    </header>
+
+    <div id="filters" class="flex flex-wrap gap-2 mb-6"></div>
+
+    <main id="news" class="space-y-3"></main>
+
+    <div id="empty" class="hidden text-center py-16 text-neutral-500">
+      <p>ยังไม่มีข่าวในหมวดนี้วันนี้</p>
+    </div>
+
+    <footer class="mt-16 pt-8 border-t border-neutral-200 text-center text-xs text-neutral-500">
+      <p>Daily Brief • อัปเดตอัตโนมัติทุกวัน 7:00 น.</p>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

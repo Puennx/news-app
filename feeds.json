@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Dezeen",
+    "url": "https://www.dezeen.com/feed/",
+    "category": "design"
+  },
+  {
+    "name": "It's Nice That",
+    "url": "https://www.itsnicethat.com/feed",
+    "category": "design"
+  },
+  {
+    "name": "Designboom",
+    "url": "https://www.designboom.com/feed/",
+    "category": "design"
+  },
+  {
+    "name": "Brand New",
+    "url": "https://www.underconsideration.com/brandnew/index.xml",
+    "category": "design"
+  },
+  {
+    "name": "TechCrunch AI",
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "category": "ai"
+  },
+  {
+    "name": "The Verge AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+    "category": "ai"
+  },
+  {
+    "name": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "category": "ai"
+  },
+  {
+    "name": "Anthropic News",
+    "url": "https://www.anthropic.com/news/rss.xml",
+    "category": "ai"
+  },
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "category": "tech"
+  },
+  {
+    "name": "Ars Technica",
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "category": "tech"
+  },
+  {
+    "name": "Hacker News",
+    "url": "https://hnrss.org/frontpage",
+    "category": "tech"
+  },
+  {
+    "name": "CNBC Top News",
+    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "category": "economy"
+  },
+  {
+    "name": "Reuters Business",
+    "url": "https://www.reutersagency.com/feed/?best-topics=business-finance",
+    "category": "economy"
+  },
+  {
+    "name": "ลงทุนแมน",
+    "url": "https://www.longtunman.com/feed",
+    "category": "economy"
+  },
+  {
+    "name": "The Standard Wealth",
+    "url": "https://thestandard.co/economic/feed/",
+    "category": "economy"
+  },
+  {
+    "name": "Brand Inside",
+    "url": "https://brandinside.asia/feed/",
+    "category": "economy"
+  }
+]
