@@ -10,6 +10,7 @@ import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+import time
 import feedparser
 from google import genai
 from google.genai import types as genai_types
@@ -136,27 +137,31 @@ def summarize_batch(entries):
 ข่าว:
 {items_text}"""
 
-    try:
-        resp = client.models.generate_content(
-            model=MODEL_NAME,
-            contents=prompt,
-            config=genai_types.GenerateContentConfig(
-                response_mime_type="application/json",
-            ),
-        )
-        raw = resp.text or ""
-        print(f"[DEBUG] Gemini response length: {len(raw)}, preview: {raw[:200]}", file=sys.stderr)
-        results = json.loads(raw)
-        filled = 0
-        for r in results:
-            idx = r.get("index")
-            if idx is not None and 0 <= idx < len(entries):
-                entries[idx]["summary_th"] = r.get("summary_th", "").strip()
-                if entries[idx]["summary_th"]:
-                    filled += 1
-        print(f"[INFO] Gemini filled {filled}/{len(entries)} summaries", file=sys.stderr)
-    except Exception as e:
-        print(f"[WARN] Gemini batch failed: {e}", file=sys.stderr)
+    for attempt in range(3):
+        try:
+            resp = client.models.generate_content(
+                model=MODEL_NAME,
+                contents=prompt,
+                config=genai_types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                ),
+            )
+            raw = resp.text or ""
+            results = json.loads(raw)
+            filled = 0
+            for r in results:
+                idx = r.get("index")
+                if idx is not None and 0 <= idx < len(entries):
+                    entries[idx]["summary_th"] = r.get("summary_th", "").strip()
+                    if entries[idx]["summary_th"]:
+                        filled += 1
+            print(f"[INFO] Gemini filled {filled}/{len(entries)} summaries", file=sys.stderr)
+            break
+        except Exception as e:
+            wait = 30 * (attempt + 1)
+            print(f"[WARN] Gemini attempt {attempt+1} failed: {e} — retrying in {wait}s", file=sys.stderr)
+            if attempt < 2:
+                time.sleep(wait)
 
     # เผื่อบางอันไม่ได้สรุป ใส่ค่าเริ่มต้น
     for e in entries:
