@@ -11,7 +11,8 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import feedparser
-import google.generativeai as genai
+from google import genai
+from google.genai import types as genai_types
 from dateutil import parser as date_parser
 
 # ---------- Config ----------
@@ -22,14 +23,14 @@ ARCHIVE_DIR = OUTPUT_DIR / "archive"
 
 LOOKBACK_HOURS = 24       # ดึงข่าวย้อนหลังกี่ชั่วโมง
 MAX_PER_FEED = 5          # จำนวนข่าวสูงสุดต่อแหล่ง
-MODEL_NAME = "gemini-1.5-flash"   # ฟรี 1,500 req/day
+MODEL_NAME = "gemini-2.0-flash"   # ฟรี 1,500 req/day
 
 # ---------- Init ----------
 api_key = os.environ.get("GEMINI_API_KEY")
 if not api_key:
     sys.exit("ERROR: GEMINI_API_KEY environment variable not set")
 
-genai.configure(api_key=api_key)
+client = genai.Client(api_key=api_key)
 
 
 # ---------- Fetch ----------
@@ -136,13 +137,13 @@ def summarize_batch(entries):
 {items_text}"""
 
     try:
-        model = genai.GenerativeModel(
-            model_name=MODEL_NAME,
-            generation_config=genai.GenerationConfig(
+        resp = client.models.generate_content(
+            model=MODEL_NAME,
+            contents=prompt,
+            config=genai_types.GenerateContentConfig(
                 response_mime_type="application/json"
             ),
         )
-        resp = model.generate_content(prompt)
         results = json.loads(resp.text)
         for r in results:
             idx = r.get("index")
