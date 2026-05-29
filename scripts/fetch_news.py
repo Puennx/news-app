@@ -23,7 +23,7 @@ ARCHIVE_DIR = OUTPUT_DIR / "archive"
 
 LOOKBACK_HOURS = 24       # ดึงข่าวย้อนหลังกี่ชั่วโมง
 MAX_PER_FEED = 5          # จำนวนข่าวสูงสุดต่อแหล่ง
-MODEL_NAME = "gemini-2.0-flash"   # ฟรี 1,500 req/day
+MODEL_NAME = "gemini-1.5-flash"   # ฟรี 1,500 req/day
 
 # ---------- Init ----------
 api_key = os.environ.get("GEMINI_API_KEY")
