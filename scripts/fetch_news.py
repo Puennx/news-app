@@ -142,14 +142,19 @@ def summarize_batch(entries):
             contents=prompt,
             config=genai_types.GenerateContentConfig(
                 response_mime_type="application/json",
-                thinking_config=genai_types.ThinkingConfig(thinking_budget=0),
             ),
         )
-        results = json.loads(resp.text)
+        raw = resp.text or ""
+        print(f"[DEBUG] Gemini response length: {len(raw)}, preview: {raw[:200]}", file=sys.stderr)
+        results = json.loads(raw)
+        filled = 0
         for r in results:
             idx = r.get("index")
             if idx is not None and 0 <= idx < len(entries):
                 entries[idx]["summary_th"] = r.get("summary_th", "").strip()
+                if entries[idx]["summary_th"]:
+                    filled += 1
+        print(f"[INFO] Gemini filled {filled}/{len(entries)} summaries", file=sys.stderr)
     except Exception as e:
         print(f"[WARN] Gemini batch failed: {e}", file=sys.stderr)
 
