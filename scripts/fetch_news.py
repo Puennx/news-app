@@ -137,7 +137,7 @@ def summarize_batch(entries):
 ข่าว:
 {items_text}"""
 
-    for attempt in range(3):
+    for attempt in range(4):
         try:
             resp = client.models.generate_content(
                 model=MODEL_NAME,
@@ -146,8 +146,7 @@ def summarize_batch(entries):
                     response_mime_type="application/json",
                 ),
             )
-            raw = resp.text or ""
-            results = json.loads(raw)
+            results = json.loads(resp.text or "[]")
             filled = 0
             for r in results:
                 idx = r.get("index")
@@ -158,9 +157,9 @@ def summarize_batch(entries):
             print(f"[INFO] Gemini filled {filled}/{len(entries)} summaries", file=sys.stderr)
             break
         except Exception as e:
-            wait = 30 * (attempt + 1)
+            wait = 60 * (attempt + 1)
             print(f"[WARN] Gemini attempt {attempt+1} failed: {e} — retrying in {wait}s", file=sys.stderr)
-            if attempt < 2:
+            if attempt < 3:
                 time.sleep(wait)
 
     # เผื่อบางอันไม่ได้สรุป ใส่ค่าเริ่มต้น
