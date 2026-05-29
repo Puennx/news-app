@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T16:23:31.882447+00:00",
+  "updated_at": "2026-05-29T16:43:44.488462+00:00",
   "date": "2026-05-29",
   "count": 38,
   "items": [
@@ -9,8 +9,8 @@
       "title": "Trump lays out Iran deal demands, says he's about to make 'final determination'",
       "link": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
       "summary_raw": "Trump's Truth Social statement left unclear which of his conditions are already part of a deal that negotiators are working on to pause the U.S.-Iran war.",
-      "published": "2026-05-29T16:19:04+00:00",
-      "summary_th": ""
+      "published": "2026-05-29T16:31:17+00:00",
+      "summary_th": "โดนัลด์ ทรัมป์ ได้กำหนดเงื่อนไขสำหรับข้อตกลงกับอิหร่านและระบุว่าเขากำลังจะ \"ตัดสินใจขั้นสุดท้าย\". แถลงการณ์บน Truth Social ของเขายังไม่ชัดเจนว่าเงื่อนไขใดบ้างที่เป็นส่วนหนึ่งของข้อตกลงที่กำลังเจรจาเพื่อยุติสงครามระหว่างสหรัฐฯ-อิหร่าน."
     },
     {
       "source": "TechCrunch AI",
@@ -19,7 +19,7 @@
       "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
       "summary_raw": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
       "published": "2026-05-29T16:13:47+00:00",
-      "summary_th": ""
+      "summary_th": "Scott Wu จาก Cognition ผู้สร้าง Devin ซึ่งเป็น AI coding agent ที่ประสบความสำเร็จมากที่สุดคนหนึ่ง ยืนยันว่า AI ดังกล่าวไม่ได้ถูกออกแบบมาเพื่อมาแทนที่โปรแกรมเมอร์ที่เป็นมนุษย์. เขาเน้นย้ำว่า AI ควรเป็นเครื่องมือช่วยเสริมประสิทธิภาพ ไม่ใช่ทดแทนแรงงานมนุษย์."
     },
     {
       "source": "CNBC Top News",
@@ -28,7 +28,7 @@
       "link": "https://www.cnbc.com/2026/05/29/trump-doj-fund-lawfare-blocked-judge.html",
       "summary_raw": "The DOJ has face strong criticism for the creation of a $1.8 Anti-Weaponization Fund which could compensate allies of President Donald Trump.",
       "published": "2026-05-29T16:00:07+00:00",
-      "summary_th": ""
+      "summary_th": "ผู้พิพากษาได้สั่งระงับกองทุน \"lawfare\" ของกระทรวงยุติธรรมสหรัฐฯ (DOJ) ในยุคทรัมป์ชั่วคราว ขณะที่คดียังคงดำเนินต่อไป. กองทุนมูลค่า 1.8 พันล้านดอลลาร์สหรัฐฯ นี้ถูกวิพากษ์วิจารณ์อย่างหนักว่าอาจถูกใช้เพื่อชดเชยพันธมิตรของอดีตประธานาธิบดีโดนัลด์ ทรัมป์."
     },
     {
       "source": "CNBC Top News",
@@ -37,7 +37,7 @@
       "link": "https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html",
       "summary_raw": "Dell reported its fastest pace of revenue growth since returning to the public market in 2018, with AI server revenue soaring 757% over last year.",
       "published": "2026-05-29T15:50:06+00:00",
-      "summary_th": ""
+      "summary_th": "หุ้น Dell พุ่งทะยานถึง 32% นับเป็นวันที่มีผลงานดีที่สุดเป็นประวัติการณ์ หลังบริษัทรายงานรายได้จาก AI server เพิ่มขึ้น 757% เมื่อเทียบกับปีก่อน. การเติบโตนี้ถือเป็นการเพิ่มขึ้นของรายได้ที่รวดเร็วที่สุดของ Dell นับตั้งแต่กลับเข้าตลาดหลักทรัพย์ในปี 2018 ซึ่งเป็นผลจากความต้องการเซิร์ฟเวอร์ AI ที่พุ่งสูง."
     },
     {
       "source": "CNBC Top News",
@@ -46,7 +46,7 @@
       "link": "https://www.cnbc.com/2026/05/29/spacex-skeptics-concerned-as-musk-comments-diverge-from-ipo-filing.html",
       "summary_raw": "In a post on X, Elon Musk offered details about SpaceX's deal with Anthropic that weren't included in the company's IPO prospectus.",
       "published": "2026-05-29T15:49:09+00:00",
-      "summary_th": ""
+      "summary_th": "ผู้ที่สงสัยใน SpaceX มีเหตุผลเพิ่มขึ้นที่จะกังวล หลังจาก Elon Musk ได้ให้รายละเอียดเกี่ยวกับข้อตกลงของ SpaceX กับ Anthropic บนแพลตฟอร์ม X ซึ่งไม่ได้ระบุไว้ในเอกสารเสนอขายหุ้น IPO ของบริษัท. ความคลาดเคลื่อนนี้สร้างคำถามเกี่ยวกับความโปร่งใสของข้อมูล."
     },
     {
       "source": "CNBC Top News",
@@ -55,43 +55,43 @@
       "link": "https://www.cnbc.com/2026/05/28/disney-fcc-broadcast-licenses-renewal.html",
       "summary_raw": "Disney said it filed renewals for eight broadcast station licenses \"under protest,\" after the FCC launched an early review years ahead of schedule.",
       "published": "2026-05-29T15:46:28+00:00",
-      "summary_th": ""
+      "summary_th": "ABC ของ Disney ได้ยื่นต่ออายุใบอนุญาตสถานีวิทยุกระจายเสียงแปดแห่ง \"ภายใต้การประท้วง\" หลังคณะกรรมการกลางกำกับดูแลกิจการสื่อสาร (FCC) เริ่มทบทวนก่อนกำหนดหลายปี. ประธาน FCC ยืนยันว่าจะ \"ดำเนินการตามข้อเท็จจริง\" ในการพิจารณาครั้งนี้ ซึ่งเป็นกรณีที่น่าจับตาในวงการสื่อสาร."
     },
     {
       "source": "Hacker News",
       "category": "tech",
       "title": "The Dead Economy Theory",
       "link": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "summary_raw": "Article URL: https://www.owenmcgrann.com/p/the-dead-economy-theory Comments URL: https://news.ycombinator.com/item?id=48324712 Points: 21 # Comments: 7",
+      "summary_raw": "Article URL: https://www.owenmcgrann.com/p/the-dead-economy-theory Comments URL: https://news.ycombinator.com/item?id=48324712 Points: 46 # Comments: 26",
       "published": "2026-05-29T15:46:24+00:00",
-      "summary_th": ""
+      "summary_th": "ทฤษฎีเศรษฐกิจที่ตายแล้ว (The Dead Economy Theory) ได้ถูกนำเสนอในบทความบน owenmcgrann.com โดยมีผู้สนใจแสดงความคิดเห็น 26 ครั้ง และได้รับคะแนน 46 คะแนนใน Hacker News. ทฤษฎีนี้กำลังเป็นที่ถกเถียงและสนใจในวงการเศรษฐกิจและเทคโนโลยี."
     },
     {
       "source": "Hacker News",
       "category": "tech",
       "title": "GTA 6 Developers Unionize",
       "link": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-      "summary_raw": "Article URL: https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/ Comments URL: https://news.ycombinator.com/item?id=48324499 Points: 49 # Comments: 24",
+      "summary_raw": "Article URL: https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/ Comments URL: https://news.ycombinator.com/item?id=48324499 Points: 95 # Comments: 40",
       "published": "2026-05-29T15:32:55+00:00",
-      "summary_th": ""
+      "summary_th": "ทีมผู้พัฒนาเกม Grand Theft Auto 6 (GTA 6) ได้ประกาศจัดตั้งสหภาพแรงงาน \"Rockstar Games Union\". ข่าวนี้ได้รับความสนใจอย่างมาก โดยมีผู้แสดงความคิดเห็น 40 ครั้งและได้รับคะแนน 95 คะแนนบน Hacker News ซึ่งสะท้อนถึงการเปลี่ยนแปลงสำคัญในอุตสาหกรรมเกม."
     },
     {
       "source": "Hacker News",
       "category": "tech",
       "title": "Danish Pension Blacklists SpaceX over 'Catastrophic Governance'",
       "link": "https://www.bloomberg.com/news/articles/2026-05-29/danish-pension-fund-blacklists-spacex-citing-governance-issues",
-      "summary_raw": "Article URL: https://www.bloomberg.com/news/articles/2026-05-29/danish-pension-fund-blacklists-spacex-citing-governance-issues Comments URL: https://news.ycombinator.com/item?id=48324097 Points: 46 # Comments: 17",
+      "summary_raw": "Article URL: https://www.bloomberg.com/news/articles/2026-05-29/danish-pension-fund-blacklists-spacex-citing-governance-issues Comments URL: https://news.ycombinator.com/item?id=48324097 Points: 74 # Comments: 27",
       "published": "2026-05-29T15:11:23+00:00",
-      "summary_th": ""
+      "summary_th": "กองทุนบำเหน็จบำนาญของเดนมาร์กได้ขึ้นบัญชีดำบริษัท SpaceX โดยอ้างถึงปัญหา \"ธรรมาภิบาลที่เลวร้าย\" (Catastrophic Governance). การตัดสินใจนี้เกิดขึ้นหลังจากการประเมินปัญหาด้านการกำกับดูแลของบริษัท ซึ่งส่งผลกระทบต่อความน่าเชื่อถือและการลงทุน. ข่าวนี้มีผู้แสดงความเห็น 27 ครั้งและได้รับ 74 คะแนนบน Hacker News."
     },
     {
       "source": "Hacker News",
       "category": "tech",
       "title": "Bijou64: A variable-length integer encoding",
       "link": "https://www.inkandswitch.com/tangents/bijou64/",
-      "summary_raw": "Article URL: https://www.inkandswitch.com/tangents/bijou64/ Comments URL: https://news.ycombinator.com/item?id=48323992 Points: 64 # Comments: 24",
+      "summary_raw": "Article URL: https://www.inkandswitch.com/tangents/bijou64/ Comments URL: https://news.ycombinator.com/item?id=48323992 Points: 77 # Comments: 34",
       "published": "2026-05-29T15:03:32+00:00",
-      "summary_th": ""
+      "summary_th": "Bijou64 เป็นวิธีการเข้ารหัสจำนวนเต็มความยาวผันแปรแบบใหม่ ซึ่งถูกนำเสนอในบทความจาก inkandswitch.com. เทคนิคนี้กำลังได้รับความสนใจในหมู่นักพัฒนา โดยมีผู้แสดงความคิดเห็น 34 ครั้งและได้รับ 77 คะแนนบน Hacker News."
     },
     {
       "source": "Dezeen",
@@ -100,16 +100,16 @@
       "link": "https://www.dezeen.com/2026/05/29/rehab-centre-young-people-florence-institute-of-design-international-schoolshows/",
       "summary_raw": "Dezeen School Shows: a rehabilitation centre for young people struggling with addiction is among projects from Florence Institute of Design International. Also featured is a recovery centre for victims of domestic abuse, and a creative community centre featuring biophilic design. Florence Institute of Design International Institution: Florence Institute of Design International School: Interior Design Course: The post Rehab centre with winding pathways among projects from Florence Institute of De",
       "published": "2026-05-29T15:00:56+00:00",
-      "summary_th": ""
+      "summary_th": "สถาบัน Florence Institute of Design International เผยโปรเจกต์เด่นด้านการออกแบบภายในหลายโครงการ อาทิ ศูนย์บำบัดผู้ติดยาเสพติดสำหรับเยาวชนที่มีทางเดินคดเคี้ยว, ศูนย์ฟื้นฟูผู้ถูกทำร้ายในครอบครัว และศูนย์ชุมชนสร้างสรรค์ที่เน้นการออกแบบชีวภาพ (biophilic design). โปรเจกต์เหล่านี้เน้นการสร้างสภาพแวดล้อมที่เอื้อต่อการฟื้นฟูและส่งเสริมคุณภาพชีวิต."
     },
     {
       "source": "Hacker News",
       "category": "tech",
       "title": "I Am Retiring from Tech to Live Offline",
       "link": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
-      "summary_raw": "Article URL: https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/ Comments URL: https://news.ycombinator.com/item?id=48323683 Points: 325 # Comments: 213",
+      "summary_raw": "Article URL: https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/ Comments URL: https://news.ycombinator.com/item?id=48323683 Points: 361 # Comments: 244",
       "published": "2026-05-29T14:40:47+00:00",
-      "summary_th": ""
+      "summary_th": "บทความเรื่อง \"I Am Retiring from Tech to Live Offline\" บน openpath.quest ได้รับความสนใจอย่างมากในชุมชนเทคโนโลยี. ผู้เขียนประกาศถอนตัวจากวงการเทคโนโลยีเพื่อใช้ชีวิตแบบออฟไลน์ ทำให้เกิดการอภิปรายอย่างกว้างขวาง โดยมี 244 ความคิดเห็นและ 361 คะแนนบน Hacker News."
     },
     {
       "source": "Dezeen",
@@ -118,7 +118,7 @@
       "link": "https://www.dezeen.com/2026/05/29/gehry-why-olin-getty-tram-los-angeles/",
       "summary_raw": "American architecture studios Gehry Partners, WHY Architecture and lanscape studio Olin have been announced as the project leads for renovations to the visitor sequence at the Getty Center in California, USA. As part of the effort, Gehry Partners will deliver a parametric glass canopy to cover the tram's lower staging area at the base of The post Gehry Partners, WHY Architecture and Olin to revamp Getty Center tram station in Los Angeles appeared first on Dezeen .",
       "published": "2026-05-29T14:32:59+00:00",
-      "summary_th": ""
+      "summary_th": "สตูดิโอสถาปัตยกรรมอเมริกัน Gehry Partners, WHY Architecture และสตูดิโอภูมิทัศน์ Olin ได้รับเลือกให้นำโครงการปรับปรุงสถานีรถรางและเส้นทางผู้เยี่ยมชมของ Getty Center ในลอสแอนเจลิส แคลิฟอร์เนีย. Gehry Partners จะออกแบบหลังคากระจกแบบพาราเมตริกเพื่อคลุมพื้นที่ขึ้นรถรางส่วนล่าง. การปรับปรุงนี้จะยกระดับประสบการณ์ของผู้มาเยือน Getty Center."
     },
     {
       "source": "Designboom",
@@ -127,7 +127,7 @@
       "link": "https://www.designboom.com/architecture/v-taller-forest-retreat-monolithic-stone-core-notahotel-japan/",
       "summary_raw": "inspired by traditional japanese carpentry, the project transforms rainwater, filtered daylight, and natural materials into the defining features of everyday inhabitation. The post V taller proposes forest retreat around monolithic stone core for NOT A HOTEL in japan appeared first on designboom | architecture &amp; design magazine .",
       "published": "2026-05-29T14:20:48+00:00",
-      "summary_th": ""
+      "summary_th": "V taller ได้นำเสนอแนวคิดรีสอร์ตในป่า \"NOT A HOTEL\" ในญี่ปุ่น โดยมีแกนกลางเป็นหินโมโนลิธขนาดใหญ่. การออกแบบนี้ได้รับแรงบันดาลใจจากงานไม้แบบญี่ปุ่นดั้งเดิม โดยเปลี่ยนน้ำฝน แสงธรรมชาติที่กรองเข้ามา และวัสดุธรรมชาติให้เป็นองค์ประกอบสำคัญของการใช้ชีวิตประจำวัน เพื่อสร้างประสบการณ์ที่กลมกลืนกับสิ่งแวดล้อม."
     },
     {
       "source": "TechCrunch AI",
@@ -136,7 +136,7 @@
       "link": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
       "summary_raw": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
       "published": "2026-05-29T14:15:00+00:00",
-      "summary_th": ""
+      "summary_th": "วันนี้เป็นวันสุดท้ายสำหรับการยื่นหัวข้อเพื่อร่วมเป็นวิทยากรในงาน TechCrunch Disrupt 2026. ผู้ที่สนใจสามารถสมัครเพื่อแบ่งปันข้อมูลเชิงลึกและร่วมกำหนดทิศทางการสนทนาในอุตสาหกรรมเทคโนโลยี. รีบยื่นใบสมัครก่อนหมดเขตเพื่อโอกาสสำคัญนี้."
     },
     {
       "source": "TechCrunch AI",
@@ -145,7 +145,7 @@
       "link": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
       "summary_raw": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
       "published": "2026-05-29T14:00:00+00:00",
-      "summary_th": ""
+      "summary_th": "เหลือเวลาอีก 24 ชั่วโมงสุดท้ายเท่านั้นในการซื้อบัตรเข้าร่วมงาน TechCrunch Disrupt 2026 ในราคา Early Bird ซึ่งสามารถประหยัดได้สูงสุดถึง $410. ราคาจะเพิ่มขึ้นหลังเวลา 23:59 น. PT ของคืนนี้. เข้าร่วมกับผู้นำเทคโนโลยีมากกว่า 10,000 คนในเดือนตุลาคมนี้."
     },
     {
       "source": "Ars Technica",
@@ -154,7 +154,7 @@
       "link": "https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/",
       "summary_raw": "A new crew launched to China's Tiangong space station, and one of the astronauts will stay for a year.",
       "published": "2026-05-29T13:03:46+00:00",
-      "summary_th": ""
+      "summary_th": "มีรายงานว่า Blue Origin เผชิญกับสถานการณ์ที่ย่ำแย่ ขณะที่กระทรวงกลาโหมสหรัฐฯ กำลังพิจารณาสถานที่ปล่อยจรวดแห่งใหม่. ในข่าวที่เกี่ยวข้อง ลูกเรือชุดใหม่ของจีนได้ถูกส่งขึ้นไปยังสถานีอวกาศ Tiangong โดยมีนักบินอวกาศหนึ่งคนจะประจำการอยู่เป็นเวลาหนึ่งปี."
     },
     {
       "source": "Dezeen",
@@ -163,7 +163,7 @@
       "link": "https://www.dezeen.com/2026/05/29/british-brands-uk-furniture-lighting-designers-dezeen-showroom/",
       "summary_raw": "Dezeen Showroom: London's Clerkenwell Design Week celebrates the best of British design. We've followed suit by detailing six designs by UK-based brands on Dezeen Showroom. From wallpapers and fabrics from the archive of William Morris to a gleaming red lamp informed by London's chimney pots, the following products are by makers and manufacturers based in The post Eight furnishings by British brands that show the diversity of UK design appeared first on Dezeen .",
       "published": "2026-05-29T13:00:02+00:00",
-      "summary_th": ""
+      "summary_th": "Dezeen Showroom นำเสนอ 8 ผลิตภัณฑ์ตกแต่งจากแบรนด์อังกฤษที่สะท้อนความหลากหลายของการออกแบบในสหราชอาณาจักร เนื่องในโอกาส Clerkenwell Design Week ในลอนดอน. ตัวอย่างเช่น วอลล์เปเปอร์และผ้าจากคลังของ William Morris รวมถึงโคมไฟสีแดงสดที่ได้แรงบันดาลใจจากปล่องไฟลอนดอน. ผลิตภัณฑ์เหล่านี้แสดงถึงความคิดสร้างสรรค์และคุณภาพของดีไซน์จากผู้ผลิตในอังกฤษ."
     },
     {
       "source": "TechCrunch AI",
@@ -172,7 +172,7 @@
       "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
       "summary_raw": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
       "published": "2026-05-29T13:00:00+00:00",
-      "summary_th": ""
+      "summary_th": "Kiwibit เปิดตัวเครื่องให้อาหารนกอัจฉริยะที่ขับเคลื่อนด้วย AI ซึ่งช่วยให้ผู้ใช้สามารถเชื่อมต่อกับธรรมชาติและระบุชนิดนกผ่านแอปพลิเคชันได้. อุปกรณ์นี้มอบประสบการณ์คล้ายการสะสมโปเกมอน แต่เป็นการสะสมข้อมูลนกจริง เหมาะสำหรับผู้ที่ต้องการสำรวจและเรียนรู้เกี่ยวกับนกในสวนหลังบ้าน."
     },
     {
       "source": "Ars Technica",
@@ -181,7 +181,7 @@
       "link": "https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/",
       "summary_raw": "\"I hope that it makes it far enough away from the pad that it does not cause pad damage.\"",
       "published": "2026-05-29T12:43:35+00:00",
-      "summary_th": ""
+      "summary_th": "ความล้มเหลวของจรวด New Glenn ของ Blue Origin ถูกระบุว่าเป็นหายนะครั้งใหญ่ โดยมีการแสดงความหวังว่าจรวดจะตกไกลจากฐานปล่อยเพื่อไม่ให้เกิดความเสียหายต่อแท่นยิง. เหตุการณ์นี้สร้างความกังวลอย่างมากต่อโครงการอวกาศของ Blue Origin."
     },
     {
       "source": "The Verge",
@@ -190,7 +190,7 @@
       "link": "https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors",
       "summary_raw": "I pondered the other day what's next for Microsoft's Surface PC lineup, and it looks like we're about to find out. Windows and Surface chief Pavan Davuluri has just teased \"something new is coming for developers,\" complete with a mysterious image of what looks like a curved display edge. Davuluri notes that whatever is coming [&#8230;]",
       "published": "2026-05-29T12:21:22-04:00",
-      "summary_th": ""
+      "summary_th": "Microsoft กำลังแย้มถึงฮาร์ดแวร์ Surface ใหม่และ \"ยุคใหม่ของ PC\" โดย Pavan Davuluri หัวหน้าทีม Windows และ Surface ได้โพสต์ภาพปริศนาที่แสดงขอบจอโค้ง พร้อมระบุว่า \"สิ่งใหม่กำลังจะมาถึงสำหรับนักพัฒนา\". รายละเอียดเพิ่มเติมคาดว่าจะเผยในเร็วๆ นี้ ซึ่งอาจพลิกโฉมกลุ่มผลิตภัณฑ์ Surface."
     },
     {
       "source": "TechCrunch AI",
@@ -199,7 +199,7 @@
       "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
       "summary_raw": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
       "published": "2026-05-29T12:00:00+00:00",
-      "summary_th": ""
+      "summary_th": "XCENA สตาร์ทอัพชิปจากเกาหลีใต้ ระดมทุนได้ 135 ล้านดอลลาร์สหรัฐฯ โดยเชื่อว่าปัญหาคอขวดที่ใหญ่ที่สุดของ AI ไม่ใช่พลังประมวลผล แต่เป็นเรื่องของหน่วยความจำ. การลงทุนนี้สะท้อนถึงความพยายามในการพัฒนานวัตกรรมด้านหน่วยความจำเพื่อปลดล็อกศักยภาพสูงสุดของเทคโนโลยี AI."
     },
     {
       "source": "The Verge",
@@ -208,7 +208,7 @@
       "link": "https://www.theverge.com/policy/939434/trump-ice-racial-profiling-dhs-mass-deportations",
       "summary_raw": "Border security czar Tom Homan keeps threatening to \"flood\" New York City with ICE agents. But a new investigation shows that ICE has been quietly ramping up arrests in the New York area already - and disproportionately targeting Latino neighborhoods. The City, a local nonprofit news organization, found 430 street arrests in the metropolitan area [&#8230;]",
       "published": "2026-05-29T11:00:00-04:00",
-      "summary_th": ""
+      "summary_th": "การเนรเทศหมู่ของทรัมป์จะเกิดขึ้นได้ก็ต่อเมื่อมีการเลือกปฏิบัติทางเชื้อชาติ. Tom Homan ขู่จะส่งเจ้าหน้าที่ ICE เข้าท่วม NYC ขณะที่การสอบสวนใหม่เผยว่า ICE เพิ่มการจับกุมในพื้นที่นิวยอร์กอย่างเงียบๆ โดยพุ่งเป้าไปที่ชุมชนลาตินอย่างไม่สมส่วน ซึ่งพบการจับกุมบนถนน 430 ครั้งในเขตเมือง."
     },
     {
       "source": "The Verge",
@@ -217,7 +217,7 @@
       "link": "https://www.theverge.com/gadgets/939842/lenovo-legion-go-s-windows-gaming-handheld-deal-sale",
       "summary_raw": "This week, the Steam Deck OLED with 512GB of storage went from $549 to $789, putting it even further out of reach for those who were considering getting one as they came back in stock after months of unavailability. I consider it a tiny consolation that there’s a decent PC gaming handheld that is currently [&#8230;]",
       "published": "2026-05-29T10:59:12-04:00",
-      "summary_th": ""
+      "summary_th": "Lenovo Legion Go S เครื่องเกมพกพาสำหรับ PC กลายเป็นตัวเลือกที่คุ้มค่าอย่างกะทันหัน ด้วยราคา $549 หลังจากที่ Steam Deck OLED รุ่น 512GB มีราคาเพิ่มขึ้นจาก $549 เป็น $789. การเปลี่ยนแปลงนี้ทำให้ Legion Go S เป็นทางเลือกที่น่าสนใจสำหรับผู้ที่มองหาเครื่องเล่นเกมพกพาประสิทธิภาพดีในราคาที่เข้าถึงได้."
     },
     {
       "source": "The Verge",
@@ -226,7 +226,7 @@
       "link": "https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale",
       "summary_raw": "If you’re looking for a fast iPhone or AirPods charger that’s easy to toss into your purse, backpack, or carry-on, Anker’s Zolo Magnetic Wireless Charger is a smart pick. It’s tiny and comes with a built-in USB-C cable, and you currently can buy two for $23.99 ($16 off) at Amazon and Anker (with code WS7DV2PK68EW), [&#8230;]",
       "published": "2026-05-29T10:46:58-04:00",
-      "summary_th": ""
+      "summary_th": "Anker เสนอโปรโมชั่นที่ชาร์จไร้สายแม่เหล็ก Qi2 รุ่น Zolo สองชิ้นในราคาเพียง $23.99 (ลด $16) บน Amazon และ Anker โดยใช้โค้ด WS7DV2PK68EW. ที่ชาร์จขนาดเล็กพกพาง่ายพร้อมสาย USB-C ในตัวนี้ เหมาะสำหรับผู้ใช้ iPhone หรือ AirPods ที่ต้องการการชาร์จที่รวดเร็วและสะดวกสบาย."
     },
     {
       "source": "Designboom",
@@ -235,7 +235,7 @@
       "link": "https://www.designboom.com/art/lisa-yuskavage-soft-bodies-studio-worlds-colorful-contemplation-painting-david-zwirner/",
       "summary_raw": "at david zwirner, the american artist's works become imaginative gatherings where time warps and folds back on itself, collapsing spatial and temporal boundaries. The post lisa yuskavage&#8217;s soft bodies and studio worlds are a colorful contemplation on painting appeared first on designboom | architecture &amp; design magazine .",
       "published": "2026-05-29T10:45:47+00:00",
-      "summary_th": ""
+      "summary_th": "ผลงานศิลปะของ Lisa Yuskavage ศิลปินชาวอเมริกันที่ David Zwirner เป็นการรำพึงถึงงานจิตรกรรมที่เต็มไปด้วยสีสัน. งานของเธอสร้างการรวมตัวกันของจินตนาการที่เวลาบิดเบี้ยวและพับทบกันเอง ทำให้ขอบเขตของพื้นที่และเวลาพังทลายลง สะท้อนความลุ่มลึกและแปลกใหม่ในโลกของการวาดภาพ."
     },
     {
       "source": "Ars Technica",
@@ -244,7 +244,7 @@
       "link": "https://arstechnica.com/health/2026/05/these-researchers-would-be-in-africa-fighting-ebola-but-trump-cut-their-funding/",
       "summary_raw": "US Infectious diseases centers launched during COVID have lost their funding under Trump.",
       "published": "2026-05-29T10:30:40+00:00",
-      "summary_th": ""
+      "summary_th": "ศูนย์โรคติดเชื้อของสหรัฐฯ ที่จัดตั้งขึ้นในช่วงการระบาดของ COVID-19 ได้สูญเสียเงินทุนภายใต้การบริหารของทรัมป์. ผลกระทบนี้ทำให้งานวิจัยและนักวิจัยที่ควรจะไปต่อสู้กับอีโบลาในแอฟริกาต้องหยุดชะงัก ซึ่งส่งผลเสียต่อการรับมือกับโรคระบาดทั่วโลก."
     },
     {
       "source": "Dezeen",
@@ -253,7 +253,7 @@
       "link": "https://www.dezeen.com/2026/05/29/silk-wood-playscape-gloucestershire/",
       "summary_raw": "UK architecture firms Pearce+, Invisible Studio and Lean Structures have completed the Silk Wood Playscape in Gloucestershire, using oak from the surrounding forest to create \"informal, unprogrammed\" play structures. Located within Westonbirt Arboretum's ancient Silk Wood, the playscape occupies a hollow that was once a stone quarry, taking advantage of its gradually sloping topography. Pearce+, The post Woodland playscape in Gloucestershire crafted from surrounding trees appeared first on Dezee",
       "published": "2026-05-29T10:30:35+00:00",
-      "summary_th": ""
+      "summary_th": "บริษัทสถาปัตยกรรม Pearce+, Invisible Studio และ Lean Structures จากสหราชอาณาจักร ได้สร้าง Silk Wood Playscape ใน Gloucestershire โดยใช้วัสดุจากไม้โอ๊กในป่ารอบๆ. โครงการนี้ตั้งอยู่ใน Silk Wood ของ Westonbirt Arboretum ซึ่งเคยเป็นเหมืองหินเก่า โดยออกแบบโครงสร้างการเล่นแบบไม่เป็นทางการและเปิดกว้าง เพื่อส่งเสริมการเล่นที่เชื่อมโยงกับธรรมชาติ."
     },
     {
       "source": "Brand Inside",
@@ -262,7 +262,7 @@
       "link": "https://brandinside.asia/big-c-partners-with-aws-to-launch-ai-powered-shopping-assistant/",
       "summary_raw": "Big C ร่วมมือกับ AWS เปิดตัว Shopping Assistant AI Chat เพื่อให้ลูกค้าสามารถค้นหา และสั่งซื้อสินค้าผ่านการสนทนาภาษาไทยแบบธรรมชาติได้โดยตรง The post AI กำลังเปลี่ยนวิธีซื้อของ? Big C จับมือ AWS เปิดผู้ช่วยชอปปิ้งผ่านแชท หวังดันยอดขายโต 5-10% first appeared on Brand Inside .",
       "published": "2026-05-29T10:20:16+00:00",
-      "summary_th": ""
+      "summary_th": "บิ๊กซี จับมือ AWS เปิดตัวผู้ช่วยช้อปปิ้ง AI Chat ที่ช่วยให้ลูกค้าค้นหาและสั่งซื้อสินค้าได้โดยตรงผ่านการสนทนาภาษาไทยธรรมชาติ. เป้าหมายคือการใช้ AI เข้ามาเปลี่ยนประสบการณ์การซื้อของ และคาดว่าจะช่วยผลักดันยอดขายให้เติบโตได้ 5-10% ซึ่งเป็นการปรับตัวสู่ยุคดิจิทัลเพื่อเพิ่มความสะดวกสบายให้ลูกค้า."
     },
     {
       "source": "Dezeen",
@@ -271,7 +271,7 @@
       "link": "https://www.dezeen.com/2026/05/29/backrooms-production-design-danny-vermette-interview/",
       "summary_raw": "Production designer Danny Vermette talks Dezeen through the exacting work of building liminal spaces for Backrooms, a new horror film that follows a frustrated architect-turned-furniture salesman. Produced and distributed by indie film powerhouse A24, Backrooms expands on the eerie universe created by director Kane Parsons in a series of YouTube shorts, themselves based on a The post Architects will \"cringe a bit\" at design horrors in Backrooms says production designer appeared first on Dezeen .",
       "published": "2026-05-29T10:00:54+00:00",
-      "summary_th": ""
+      "summary_th": "แดนนี่ เวอร์เมตต์ นักออกแบบฉากภาพยนตร์สยองขวัญ \"Backrooms\" เผยว่าสถาปนิกอาจจะ \"รู้สึกสะอิดสะเอียนเล็กน้อย\" กับความน่ากลัวของการออกแบบในภาพยนตร์เรื่องนี้. ภาพยนตร์เรื่องนี้สร้างจากจักรวาลหลอนที่กำกับโดย Kane Parsons ใน YouTube โดย A24 เป็นผู้ผลิตและจัดจำหน่าย. Vermette อธิบายถึงการสร้างพื้นที่แบบลิมินัล (liminal spaces) ที่ซับซ้อนและน่าขนลุก."
     },
     {
       "source": "Designboom",
@@ -280,7 +280,7 @@
       "link": "https://www.designboom.com/architecture/gehry-partners-why-architecture-sweeping-transformation-los-angeles-getty-center/",
       "summary_raw": "the cultural institution upgrades its hilltop campus with a redesigned arrival sequence, expanded public amenities, and a new tram system scheduled to debut after the center reopens in 2028. The post gehry partners and WHY architecture lead sweeping transformation of los angeles&#8217; getty center appeared first on designboom | architecture &amp; design magazine .",
       "published": "2026-05-29T10:00:45+00:00",
-      "summary_th": ""
+      "summary_th": "Gehry Partners และ WHY Architecture เป็นผู้นำการปรับปรุงครั้งใหญ่ของ Getty Center ในลอสแอนเจลิส. สถาบันวัฒนธรรมแห่งนี้จะยกระดับวิทยาเขตบนยอดเขาด้วยการออกแบบเส้นทางเข้าชมใหม่ ขยายสิ่งอำนวยความสะดวกสาธารณะ และระบบรถรางใหม่ ซึ่งมีกำหนดเปิดตัวหลังจากศูนย์กลับมาเปิดให้บริการในปี 2028."
     },
     {
       "source": "The Verge",
@@ -289,7 +289,7 @@
       "link": "https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple",
       "summary_raw": "For nearly 80 years, Ferrari occupied a unique cultural space where its cars were aspirational, even for people who resented those who could afford them. The price, the exclusivity, and the opacity of the buying process allowed Ferrari to sail above ordinary criticism. You might not be able to afford one, but you still wanted [&#8230;]",
       "published": "2026-05-29T10:00:00-04:00",
-      "summary_th": ""
+      "summary_th": "Ferrari เผยความผิดพลาดในการออกแบบรถยนต์ไฟฟ้าคันแรก (EV) ซึ่งอาจส่งผลกระทบต่อภาพลักษณ์แบรนด์ที่สร้างมายาวนานเกือบ 80 ปี. ตลอดมา Ferrari ยืนหยัดในฐานะรถในฝันด้วยราคาที่สูง ความพิเศษ และกระบวนการซื้อที่ซับซ้อน ทำให้หลุดพ้นจากเสียงวิจารณ์ทั่วไป. การออกแบบ EV ครั้งนี้จึงเป็นบททดสอบสำคัญสำหรับอนาคตของแบรนด์."
     },
     {
       "source": "Designboom",
@@ -298,7 +298,7 @@
       "link": "https://www.designboom.com/design/oscar-magnuson-building-brand-dna-resisting-fleeting-trends/",
       "summary_raw": "launching a new interview series with most studios, designboom talks to oscar magnuson on maintaining independence and a long-term horizon in design. The post oscar magnuson on building a brand DNA that resists fleeting trends appeared first on designboom | architecture &amp; design magazine .",
       "published": "2026-05-29T09:00:39+00:00",
-      "summary_th": ""
+      "summary_th": "Designboom เริ่มชุดบทสัมภาษณ์ใหม่กับ Oscar Magnuson โดยพูดคุยถึงการสร้าง DNA ของแบรนด์ที่ต้านทานกระแสแฟชั่นที่เปลี่ยนแปลงอย่างรวดเร็ว. Magnuson เน้นย้ำถึงความสำคัญของการรักษาความเป็นอิสระและวิสัยทัศน์ระยะยาวในการออกแบบ เพื่อสร้างสรรค์ผลงานที่มีคุณค่าและยั่งยืน."
     },
     {
       "source": "Designboom",
@@ -307,7 +307,7 @@
       "link": "https://www.designboom.com/technology/tamagotchi-nostalgic-y2k-casetify-collaboration/",
       "summary_raw": "featuring pixel graphics, bright colors, and customizable designs, the release taps into the growing resurgence of Y2K nostalgia. The post tamagotchi and casetify launch custom device and nostalgic y2k accessories collection appeared first on designboom | architecture &amp; design magazine .",
       "published": "2026-05-29T08:00:31+00:00",
-      "summary_th": ""
+      "summary_th": "Tamagotchi และ Casetify ได้ร่วมกันเปิดตัวอุปกรณ์สั่งทำพิเศษและคอลเลกชันอุปกรณ์เสริมธีม Y2K ที่ชวนให้หวนรำลึกถึงอดีต. คอลเลกชันนี้โดดเด่นด้วยกราฟิกพิกเซล สีสันสดใส และดีไซน์ที่ปรับแต่งได้ ตอบรับกระแสความนิยมยุค Y2K ที่กำลังกลับมาอีกครั้ง."
     },
     {
       "source": "Brand Inside",
@@ -316,7 +316,7 @@
       "link": "https://brandinside.asia/accessible-luxury/",
       "summary_raw": "The 1 Insight เปิดรายงานที่แสดงให้เห็นถึงเทรนด์การซื้อสินค้า Luxury ที่เปลี่ยนแปลงไปโดยเฉพาะในหมู่คนรุ่นใหม่ ดันกระแสของแบรนด์ Accessible Luxury ให้เติบโตอย่างรวดเร็วและต่อเนื่อง จนทำให้ยอดขายรวมของแบรนด์กลุ่มนี้เติบโตขึ้น 3 เท่า The post ยุคนี้ซื้อสินค้า ‘ลักซัวรี’ เลยอาจจะไม่ไหว คนรุ่นใหม่ หันซื้อแบรนด์ Accessible Luxury แทน ดันแบรนด์กลุ่มนี้โต 3 เท่า first appeared on Brand Inside .",
       "published": "2026-05-29T05:06:13+00:00",
-      "summary_th": ""
+      "summary_th": "The 1 Insight เผยรายงานเทรนด์การซื้อสินค้าลักซัวรีที่เปลี่ยนไป โดยเฉพาะในกลุ่มคนรุ่นใหม่ที่หันมานิยมแบรนด์ Accessible Luxury มากขึ้น. กระแสนี้ทำให้ยอดขายรวมของแบรนด์กลุ่มดังกล่าวเติบโตขึ้นถึง 3 เท่า แสดงให้เห็นว่าผู้บริโภคยุคใหม่มองหาความหรูหราที่เข้าถึงได้ง่ายขึ้นและตอบโจทย์ไลฟ์สไตล์ที่เปลี่ยนไป."
     },
     {
       "source": "Ars Technica",
@@ -325,7 +325,7 @@
       "link": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
       "summary_raw": "New Glenn was due to play a starring role in NASA's Artemis Program.",
       "published": "2026-05-29T02:21:08+00:00",
-      "summary_th": ""
+      "summary_th": "เกิดเหตุระเบิดของจรวดที่น่าตื่นตาตื่นใจที่สุดนับตั้งแต่จรวด N1 ขึ้นในฟลอริดา. จรวด New Glenn ซึ่งมีบทบาทสำคัญในโครงการ Artemis ของ NASA ถูกคาดหมายว่าจะเป็นกุญแจสำคัญ แต่กลับเกิดเหตุไม่คาดฝันขึ้น."
     },
     {
       "source": "Hugging Face Blog",
@@ -334,7 +334,7 @@
       "link": "https://huggingface.co/blog/torch-profiler",
       "summary_raw": "",
       "published": "2026-05-29T00:00:00+00:00",
-      "summary_th": ""
+      "summary_th": "บทความนี้เป็นคู่มือสำหรับผู้เริ่มต้นใช้งาน 'torch.profiler' ซึ่งเป็นเครื่องมือสำหรับทำ Profiling ใน PyTorch (ตอนที่ 1). เนื้อหาจะช่วยให้ผู้ใช้เข้าใจวิธีการวิเคราะห์ประสิทธิภาพของโมเดลและการดำเนินงานใน PyTorch ได้อย่างมีประสิทธิภาพ เพื่อระบุจุดคอขวดและนำไปปรับปรุงโค้ดให้ทำงานได้รวดเร็วและมีประสิทธิภาพยิ่งขึ้น."
     },
     {
       "source": "Ars Technica",
@@ -343,7 +343,7 @@
       "link": "https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/",
       "summary_raw": "Audi has developed an entirely new electric torque-vectoring rear differential.",
       "published": "2026-05-28T22:01:02+00:00",
-      "summary_th": ""
+      "summary_th": "Audi RS5 รุ่นปี 2027 ได้เปิดตัวให้ทดลองขับครั้งแรกในฐานะรถยนต์ Plug-in Hybrid Electric Vehicle (PHEV) สมรรถนะสูงที่มีบุคลิกหลากหลาย. Audi ได้พัฒนาระบบเฟืองท้ายด้านหลังแบบ Electric Torque-Vectoring ใหม่ทั้งหมด เพื่อเพิ่มประสิทธิภาพการขับขี่."
     }
   ]
 }
