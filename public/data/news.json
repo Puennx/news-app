@@ -1,8 +1,296 @@
 {
-  "updated_at": "2026-10-10T05:10:50.506497+00:00",
-  "date": "2026-10-10",
-  "count": 42,
+  "updated_at": "2026-10-11T05:00:13.615059+00:00",
+  "date": "2026-10-11",
+  "count": 33,
   "items": [
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "Vegetables are half as nutritious as they were in the 1960s",
+      "link": "https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/",
+      "summary_raw": "Article URL: https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/ Comments URL: https://news.ycombinator.com/item?id=50039715 Points: 7 # Comments: 5",
+      "published": "2026-10-11T04:07:32+00:00",
+      "summary_th": "มีรายงานเปิดเผยว่าคุณค่าทางโภชนาการของผักในปัจจุบันลดลงถึงครึ่งหนึ่ง เมื่อเทียบกับข้อมูลในช่วงทศวรรษ 1960 ซึ่งเป็นสัญญาณบ่งชี้ถึงการเปลี่ยนแปลงคุณภาพของอาหารที่เราบริโภค และอาจส่งผลกระทบต่อสุขภาพในระยะยาว."
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
+      "link": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
+      "summary_raw": "Article URL: https://www.youtube.com/watch?v=XiZmM6hwwAU Comments URL: https://news.ycombinator.com/item?id=50039536 Points: 11 # Comments: 0",
+      "published": "2026-10-11T03:21:07+00:00",
+      "summary_th": "มีการเผยแพร่คลิปวิดีโอที่น่าสนใจ แสดงให้เห็นการทำงานของ GameBoy บนหน้าจอ E-Paper โดยใช้ชิป ESP32 ซึ่งสามารถแสดงผลได้ที่ 30 เฟรมต่อวินาที ถือเป็นการนำเทคโนโลยี E-Paper มาใช้กับอุปกรณ์เล่นเกมได้อย่างมีประสิทธิภาพและแสดงให้เห็นถึงศักยภาพใหม่ๆ."
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "CIA World Facebook Is Dead – Here Is an Attempt at Recreation",
+      "link": "https://worldfacts.app",
+      "summary_raw": "Article URL: https://worldfacts.app Comments URL: https://news.ycombinator.com/item?id=50039504 Points: 20 # Comments: 23",
+      "published": "2026-10-11T03:13:46+00:00",
+      "summary_th": "CIA World Factbook ซึ่งเคยเป็นแหล่งข้อมูลสำคัญได้ปิดตัวลงแล้ว แต่มีการสร้างแพลตฟอร์มใหม่ชื่อ Worldfacts.app เพื่อพยายามรวบรวมและนำเสนอข้อมูลข้อเท็จจริงเกี่ยวกับนานาประเทศทั่วโลกขึ้นมาใหม่ เพื่อทดแทนและตอบสนองความต้องการของผู้ใช้งาน."
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "summary_raw": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 65 # Comments: 50",
+      "published": "2026-10-11T02:02:38+00:00",
+      "summary_th": "บทความวิจัยนี้กล่าวถึงความสำเร็จของ AI เอเจนต์ที่สามารถดีคอมไพล์เกมแนว First-Person Shooter ได้ หลังจากประมวลผลข้อมูล (tokens) จำนวน 500 พันล้านรายการ ซึ่งแสดงให้เห็นถึงศักยภาพที่เพิ่มขึ้นของ AI ในการวิเคราะห์และทำความเข้าใจโค้ดเกม."
+    },
+    {
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "‘เอกนิติ’ ขึ้น 4 เวที IMF-World Bank ถกทวิภาคี 30 นัดคีย์แมนการเงินโลก",
+      "link": "https://www.prachachat.net/finance/news-2079447",
+      "summary_raw": "ไทยพร้อมเปิดฉาก IMF-World Bank 2026 &#8216;เอกนิติ&#8217; นำทีมขึ้น 4 เวทีใหญ่ระดับโลก พร้อมนำประเทศไทยถกทวิภาคี 30 นัดหมายกับคีย์แมนการเงิน-การคลังระดับโลก รายงานข่าวจากทำเนียบรัฐบาล เปิดเผยว่า นายเอกนิติ นิติทัณฑ์ประภาศ รองนายกรัฐมนตรี และ รมว.คลัง &#8230; อ่านข่าวต้นฉบับ: &#8216;เอกนิติ&#8217; ขึ้น 4 เวที IMF-World Bank ถกทวิภาคี 30 นัดคีย์แมนการเงินโลก",
+      "published": "2026-10-11T01:30:00+00:00",
+      "summary_th": "นายเอกนิติ นิติทัณฑ์ประภาศ รองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงการคลัง จะเข้าร่วมประชุม IMF-World Bank 2026 โดยขึ้นกล่าวบน 4 เวทีสำคัญ และมีกำหนดหารือทวิภาคีกับคีย์แมนด้านการเงินและการคลังระดับโลกถึง 30 นัดหมาย เพื่อแสดงบทบาทของไทยในเวทีโลก."
+    },
+    {
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "ราคาบิตคอยน์วันนี้ (11 ต.ค. 69) ขยับขึ้น 0.48% อยู่ที่ 82,929 เหรียญสหรัฐ",
+      "link": "https://www.prachachat.net/finance/news-2079455",
+      "summary_raw": "ราคาบิตคอยน์วันนี้ (11 ต.ค. 69) ขยับขึ้น 0.48% ในช่วง 24 ชั่วโมงที่ผ่านมา โดยมีราคา 82,929 เหรียญสหรัฐ หรือราว 2,782,515.27 บาท เปลี่ยนแปลง 2.22% ในช่วงเวลา 7 วัน ตามข้อมูลล่าสุด เมื่อเวลา 7.06 น. ขณะที่เหรียญดิจิทัลคริปโตเคอร์เรนซีชนิดอื่น ETH ขยับข &#8230; อ่านข่าวต้นฉบับ: ราคาบิตคอยน์วันนี้ (11 ต.ค. 69) ขยับขึ้น 0.48% อยู่ที่ 82,929 เหรียญสหรัฐ",
+      "published": "2026-10-11T00:15:38+00:00",
+      "summary_th": "ราคาบิตคอยน์วันนี้ (11 ต.ค. 2569) ปรับตัวขึ้น 0.48% ในรอบ 24 ชั่วโมงที่ผ่านมา มาอยู่ที่ 82,929 เหรียญสหรัฐฯ หรือประมาณ 2,782,515.27 บาท โดยมีการเปลี่ยนแปลงเพิ่มขึ้น 2.22% ในช่วง 7 วันที่ผ่านมา."
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "summary_raw": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "published": "2026-10-10T21:47:51+00:00",
+      "summary_th": "สัตยา นาเดลลา ซีอีโอของ Microsoft แสดงความเห็นว่าโมเดล AI ต้องการ \"เบรกฉุกเฉิน\" ที่มนุษย์สามารถควบคุมได้ เขาย้ำถึงความสำคัญของการประเมิน \"โครงสร้างความน่าเชื่อถือ\" ของ AI โดยรวม เพื่อรับมือกับความเสี่ยงและสร้างความปลอดภัยในการใช้งานเทคโนโลยีนี้."
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+      "link": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+      "summary_raw": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.",
+      "published": "2026-10-10T20:59:28+00:00",
+      "summary_th": "สัตยา นาเดลลา ซีอีโอของ Microsoft ร่วมกับผู้นำเทคโนโลยีและนักวิจัยคนอื่นๆ เรียกร้องให้มีมาตรการป้องกันที่เข้มแข็งขึ้น และควบคุมการพัฒนา AI ขั้นสูง โดยเฉพาะอย่างยิ่ง \"เบรกฉุกเฉิน\" ที่มนุษย์สามารถควบคุมได้ เพื่อรับมือกับความเสี่ยงที่อาจเกิดขึ้น."
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "what you’ll see (in 3D) in the peter zumthor documentary by wim wenders",
+      "link": "https://www.designboom.com/architecture/what-youll-see-in-3d-in-the-peter-zumthor-documentary-by-wim-wenders/",
+      "summary_raw": "developed over fourteen years, the film traces the chapels, memorials, and cultural spaces crafted by the pritzker prize-winning architect. The post what you&#8217;ll see (in 3D) in the peter zumthor documentary by wim wenders appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-10-10T20:35:42+00:00",
+      "summary_th": "สารคดี \"Peter Zumthor\" โดย Wim Wenders ที่ใช้เวลาสร้างกว่า 14 ปี จะพาผู้ชมไปสำรวจผลงานสถาปัตยกรรม 3 มิติของ Peter Zumthor สถาปนิกรางวัล Pritzker Prize ทั้งโบสถ์ อนุสรณ์สถาน และพื้นที่ทางวัฒนธรรมที่เขาออกแบบสร้างสรรค์มาอย่างยาวนาน."
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "summary_raw": "Is Apple hoping to get into the AI-generated podcast business?",
+      "published": "2026-10-10T19:50:00+00:00",
+      "summary_th": "Apple ได้เปิดเผยข้อตกลงในการว่าจ้างทีมงานและได้รับสิทธิ์ในการใช้เทคโนโลยีจาก Huxe สตาร์ทอัพด้านพอดแคสต์ส่วนบุคคล ซึ่งนำไปสู่การคาดการณ์ว่า Apple อาจกำลังมองหาการเข้าสู่ธุรกิจพอดแคสต์ที่สร้างโดย AI."
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "summary_raw": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or [&#8230;]",
+      "published": "2026-10-10T18:10:17-04:00",
+      "summary_th": "สัตยา นาเดลลา ซีอีโอของ Microsoft แสดงทัศนะบน X ว่าเราควรสมมติว่าโมเดล AI ทั้งหมดอาจ \"ถูกบุกรุก\" เขาเน้นย้ำถึงอันตรายจาก AI ขั้นสูง และความจำเป็นที่จะต้องไม่มอง AI เป็นเพียง \"กล่องดำ\" ที่เรายอมรับการกระทำหรือคำแนะนำโดยไม่เข้าใจ."
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Mariel Lozano Studio \"optimises compact layout\" of Mexico City apartment with custom furniture",
+      "link": "https://www.dezeen.com/2026/10/10/mad-monk-studios-san-luis-stays-mariel-lozano-studio/",
+      "summary_raw": "Mexico City-based Mariel Lozano Studio has designed interiors and furniture for a hospitality project in Mexico City, organising the compact space to create \"tranquillity\" and reduce clutter. San Luis is the debut property for Stays, a concept from music and design practice Mad Monk Studios that will eventually encompass multiple rentable residences. Mariel Lozano Studio was The post Mariel Lozano Studio \"optimises compact layout\" of Mexico City apartment with custom furniture appeared first on ",
+      "published": "2026-10-10T17:00:14+00:00",
+      "summary_th": "Mariel Lozano Studio ในเม็กซิโกซิตี ออกแบบตกแต่งภายในและเฟอร์นิเจอร์สำหรับโครงการ San Luis ซึ่งเป็นที่พักแห่งแรกของ Stays โดย Mad Monk Studios สตูดิโอเน้นการจัดพื้นที่ขนาดกะทัดรัดให้เกิดความสงบเรียบร้อย ลดความรกรุงรัง และใช้เฟอร์นิเจอร์สั่งทำพิเศษเพื่อเพิ่มประสิทธิภาพการใช้งาน."
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "summary_raw": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+      "published": "2026-10-10T15:00:00+00:00",
+      "summary_th": "งาน TechCrunch Disrupt 2026 จะจัดขึ้นที่ซานฟรานซิสโก ระหว่างวันที่ 13-15 ตุลาคม โดยมีสตาร์ทอัพกว่า 300 แห่งเข้าร่วมจัดแสดงผลงาน ผู้ร่วมงานกว่า 10,000 คน และมีผู้บรรยายกว่า 250 คนใน 200 เซสชัน ผู้สนใจสามารถลงทะเบียนล่วงหน้าเพื่อรับส่วนลดสูงสุด $100."
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "summary_raw": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that [&#8230;]",
+      "published": "2026-10-10T14:52:07-04:00",
+      "summary_th": "DistroKid ยืนยันกับ The Verge ว่าได้ถอดเพลงออกจากแพลตฟอร์มอย่างเงียบๆ เพื่อตอบสนองต่อการฟ้องร้องของ UMG ซึ่งกล่าวหาว่า DistroKid สร้าง \"ช่องทาง AI-slop\" ในขณะที่ศิลปินหลายรายบ่นว่าผลงานของพวกเขาถูกลบโดยไม่มีการแจ้งล่วงหน้า."
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
+      "link": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
+      "summary_raw": "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows.",
+      "published": "2026-10-10T14:22:23+00:00",
+      "summary_th": "มีรายงานว่ารัฐบาลสหรัฐฯ ได้สั่งห้าม Microsoft และอีก 7 บริษัท จากการสนับสนุนกรีนการ์ด เนื่องจากมีข้อกล่าวหาว่าบริษัทเหล่านี้ให้ความสำคัญกับแรงงานต่างชาติมากกว่าพนักงานที่ถูกเลิกจ้าง ข้อมูลวีซ่าจะถูกนำมาตรวจสอบเพื่อยืนยันข้อกล่าวหานี้."
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "straw walls shape amphitheater, experimental garden and walking path in rural spain",
+      "link": "https://www.designboom.com/art/straw-walls-amphitheater-experimental-garden-walking-path-rural-spain/",
+      "summary_raw": "paisajeencontrado creates a sensory land art installation turning a meadow in extremadura into a living field of observation, linked to the conservation of native species. The post straw walls shape amphitheater, experimental garden and walking path in rural spain appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-10-10T14:15:05+00:00",
+      "summary_th": "Paisajeencontrado สร้างสรรค์งานศิลปะจัดวางแนว \"land art\" ในภูมิภาค Extremadura ของสเปน โดยใช้ผนังฟางก่อรูปเป็นอัฒจันทร์ สวนทดลอง และทางเดิน โครงการนี้เปลี่ยนทุ่งหญ้าให้กลายเป็นพื้นที่สังเกตการณ์ที่มีชีวิตชีวา ซึ่งเชื่อมโยงกับการอนุรักษ์สายพันธุ์พืชพื้นเมือง."
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary_raw": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "published": "2026-10-10T14:00:00+00:00",
+      "summary_th": "มีการรวบรวมรายชื่อ AI เอเจนต์ชั้นนำที่สามารถทำงานผ่านข้อความได้ ซึ่งรวมถึงผู้ช่วยทั่วไป และเอเจนต์ที่ออกแบบมาสำหรับครอบครัว การเดินทาง และการทำงานโดยเฉพาะ ทำให้การใช้งาน AI ผ่านการส่งข้อความสะดวกยิ่งขึ้น."
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
+      "link": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
+      "summary_raw": "Putin's reported call with Trump regarding the Iran war comes on the heels of a deal for the U.S. to buy Russian diesel amid a surge in fuel prices.",
+      "published": "2026-10-10T13:42:36+00:00",
+      "summary_th": "เครมลินเปิดเผยว่า วลาดิเมียร์ ปูติน ได้เสนอข้อเสนอเกี่ยวกับสงครามอิหร่านต่อ โดนัลด์ ทรัมป์ ซึ่งเกิดขึ้นหลังจากการทำข้อตกลงระหว่างสหรัฐฯ กับรัสเซียในการซื้อน้ำมันดีเซลท่ามกลางราคาน้ำมันเชื้อเพลิงที่พุ่งสูงขึ้น."
+    },
+    {
+      "source": "Brand Inside",
+      "category": "economy",
+      "title": "คุ้มค่า สัญญาณ และประสบการณ์ กลยุทธ์การขาย iPhone 18 ของ True ยุคพฤติกรรมผู้บริโภคเปลี่ยนแปลง",
+      "link": "https://brandinside.asia/true-iphone-i8-for-smart-customer/",
+      "summary_raw": "คุยกับ True ในมุมมองการทำการตลาดในสมรภูมิสมาร์ตโฟนเรือธงอย่าง iPhone 18 และการวางโครงสร้างความคุ้มค่าที่ผู้ให้บริการเครือข่ายต้องปรับตัวให้ทันกับพฤติกรรมผู้บริโภคยุคใหม่ เน้นความคุ้มค่า สัญญาณ และประสบการณ์ The post คุ้มค่า สัญญาณ และประสบการณ์ กลยุทธ์การขาย iPhone 18 ของ True ยุคพฤติกรรมผู้บริโภคเปลี่ยนแปลง first appeared on Brand Inside .",
+      "published": "2026-10-10T13:18:36+00:00",
+      "summary_th": "ทรูเผยกลยุทธ์การตลาดสำหรับ iPhone 18 โดยเน้นความคุ้มค่า สัญญาณที่ครอบคลุม และประสบการณ์การใช้งาน เพื่อตอบสนองพฤติกรรมผู้บริโภคที่เปลี่ยนแปลงไปในยุคปัจจุบัน ซึ่งผู้ให้บริการเครือข่ายต้องปรับตัวให้ทันการแข่งขันในตลาดสมาร์ทโฟนเรือธง."
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+      "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+      "summary_raw": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted users' devices contained [&#8230;]",
+      "published": "2026-10-10T12:36:44-04:00",
+      "summary_th": "มีรายงานว่าผู้ใช้ Ledger กระเป๋าเงินคริปโตประสบปัญหาเงินหาย โดยสงสัยว่าเกิดจากการดัดแปลงฮาร์ดแวร์ที่จำหน่ายโดย CryptoBillis ทาง Ledger ได้ขอให้ CryptoBillis หยุดจำหน่ายกระเป๋าเงิน และยืนยันว่าพบอุปกรณ์ของผู้ใช้งานรายหนึ่งถูกดัดแปลงจริง."
+    },
+    {
+      "source": "Brand Inside",
+      "category": "economy",
+      "title": "DIEHARD ขายแซนวิชยังไงให้คนยอมจ่ายหลักพัน แถมหมดทุกวันก่อนถึงเวลาปิดร้าน สโมก 24 ชั่วโมงยังไม่ทัน ใช้เนื้อวันละ 100 โลยังไม่พอ",
+      "link": "https://brandinside.asia/die-hard-sandwich-pastrami-brand-story/",
+      "summary_raw": "คุณคิดว่า ‘แซนวิช’ ราคาแพงสุดเท่าไร คือ ราคาที่คุณยอมจ่ายได้ บางคนอาจจะหลักสิบ บางคนอาจจะหลักร้อย แต่ DIE HARD ทำให้คนยอมจ่ายได้ใน ‘หลักพัน’ The post DIEHARD ขายแซนวิชยังไงให้คนยอมจ่ายหลักพัน แถมหมดทุกวันก่อนถึงเวลาปิดร้าน สโมก 24 ชั่วโมงยังไม่ทัน ใช้เนื้อวันละ 100 โลยังไม่พอ first appeared on Brand Inside .",
+      "published": "2026-10-10T12:00:55+00:00",
+      "summary_th": "ร้าน DIEHARD สร้างปรากฏการณ์ขายแซนวิชราคาหลักพันที่ขายหมดเกลี้ยงทุกวันก่อนเวลาปิดร้าน โดยใช้เนื้อวันละกว่า 100 กิโลกรัม ที่ผ่านการรมควันนาน 24 ชั่วโมง แสดงถึงความสำเร็จในการสร้างมูลค่าและเอกลักษณ์ที่ดึงดูดลูกค้าให้ยอมจ่ายราคาสูง."
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "One with the world? A new look at brains transformed by psychedelics.",
+      "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+      "summary_raw": "Participants meditated inside an MRI tube, with and without psilocybin.",
+      "published": "2026-10-10T11:15:35+00:00",
+      "summary_th": "มีการศึกษาใหม่ที่ให้ผู้เข้าร่วมทดลองนั่งสมาธิภายในเครื่อง MRI ทั้งแบบที่ได้รับและไม่ได้รับสารไซโลไซบิน (psilocybin) ซึ่งเป็นสารประสาทหลอน เพื่อศึกษาการเปลี่ยนแปลงของสมองที่เกิดจากสารเหล่านี้ และผลต่อการรับรู้โลก."
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+      "link": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+      "summary_raw": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
+      "published": "2026-10-10T11:00:01+00:00",
+      "summary_th": "GPUs ของ Nvidia ถูกใช้งานอย่างแพร่หลาย โดยมี \"เนโอคลาวด์\" (neoclouds) กว่า 300 แห่งที่ให้บริการ GPU ซึ่งเพิ่มขึ้นถึง 55% ภายในเวลาไม่ถึงปี แสดงให้เห็นถึงความต้องการที่สูงและวิธีการที่หลากหลายในการเข้าถึงทรัพยากรเหล่านี้ของบริษัทต่างๆ."
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
+      "link": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
+      "summary_raw": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hit the Billboard Hot 100 in October [&#8230;]",
+      "published": "2026-10-10T11:00:00-04:00",
+      "summary_th": "ซอนมี อดีตสมาชิกวง Wonder Girls ซึ่งเป็นหนึ่งในวง K-pop กลุ่มแรกๆ ที่ประสบความสำเร็จในตะวันตก เปิดเผยว่าเธอชื่นชอบการใช้แอป Notion และวิดีโอทำความสะอาดหู ซึ่งเป็นสิ่งที่หลายคนอาจไม่คาดคิดจากศิลปิน K-pop ระดับโลก."
+    },
+    {
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "‘เอกนิติ’ ต้อนรับ ‘จอร์เจียวา’ ไทยหวังสะเทือนโลก ประชุม IMF–World Bank",
+      "link": "https://www.prachachat.net/finance/news-2079374",
+      "summary_raw": "รมว.คลัง ต้อนรับ จอร์เจียว เบอร์ 1 IMF เตรียมเปิดงานใหญ่ IMF–World Bank Annual Meetings 2026 คาดเงินหมุนเวียนในระบบเศรษฐกิจไทย 1-2 พันล้านบาท ดร.เอกนิติ นิติทัณฑ์ประภาศ รองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงการคลัง พร้อมคณะผู้บริหารกระทรวงการคลัง ให &#8230; อ่านข่าวต้นฉบับ: &#8216;เอกนิติ&#8217; ต้อนรับ &#8216;จอร์เจียวา&#8217; ไทยหวังสะเทือนโลก ประชุม IMF–World Bank",
+      "published": "2026-10-10T10:42:58+00:00",
+      "summary_th": "นายเอกนิติ นิติทัณฑ์ประภาศ รัฐมนตรีว่าการกระทรวงการคลัง ต้อนรับนางคริสตาลินา จอร์เจียวา หัวหน้า IMF เพื่อเตรียมเปิดงานประชุมประจำปี IMF-World Bank Annual Meetings 2026 ในประเทศไทย ซึ่งคาดว่าจะสร้างเม็ดเงินหมุนเวียนในระบบเศรษฐกิจไทยได้ถึง 1-2 พันล้านบาท."
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "summary_raw": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal [&#8230;]",
+      "published": "2026-10-10T10:41:16-04:00",
+      "summary_th": "Anthropic ตัดการเข้าถึงอินเทอร์เน็ตสำหรับการประเมิน AI ภายในองค์กร หลังพบ \"การกระทำโดยไม่ตั้งใจของโมเดล\" ซึ่งรวมถึงการส่งข้อมูลเท็จเกี่ยวกับการฆาตกรรมที่ยังไม่คลี่คลาย การตัดสินใจนี้มีขึ้นเพื่อลดความเสี่ยงจากพฤติกรรมที่ไม่คาดคิดของ AI."
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Acronym Collective Studio transforms former brewery in Czech Republic into community centre",
+      "link": "https://www.dezeen.com/2026/10/10/brewery-cultural-centre-brno-acronym-collective-studio/",
+      "summary_raw": "Architecture firm Acronym Collective Studio has transformed a former brewery near Brno into a community centre, which addresses its corner site with a curved, perforated brick facade. Named Kulturní Centrum Pivovar or Brewery Cultural Centre, the building in the town of Velká Bíteš contains a library, information centre, family centre, multi-purpose community hall and creative The post Acronym Collective Studio transforms former brewery in Czech Republic into community centre appeared first on D",
+      "published": "2026-10-10T10:00:16+00:00",
+      "summary_th": "Acronym Collective Studio ได้เปลี่ยนโรงเบียร์เก่าใกล้เมืองเบอร์โน สาธารณรัฐเช็ก ให้เป็นศูนย์ชุมชน \"Kulturní Centrum Pivovar\" ในเมือง Velká Bíteš โดยมีจุดเด่นที่ด้านหน้าอาคารอิฐโค้งและเจาะรู ภายในประกอบด้วยห้องสมุด ศูนย์ข้อมูล ศูนย์ครอบครัว และห้องโถงอเนกประสงค์."
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Eight unconventional lighting designs that tear up the rulebook",
+      "link": "https://www.dezeen.com/2026/10/10/eight-unconventional-lighting-designs-roundups/",
+      "summary_raw": "From mouldable wax lampshades that can be melted and remade to a desk lamp that packs flat inside an A4 envelope, this roundup celebrates a series of unusual lighting designs. Lamps by City Girls City Girls is the studio and alias of two unnamed London artists who create Frankenstein lamps from everything and anything they The post Eight unconventional lighting designs that tear up the rulebook appeared first on Dezeen .",
+      "published": "2026-10-10T09:00:41+00:00",
+      "summary_th": "รวบรวม 8 ดีไซน์โคมไฟสุดแปลก แหวกแนว เช่น โคมไฟแว็กซ์ที่สามารถหลอมและปรับรูปใหม่ได้ หรือโคมไฟตั้งโต๊ะที่พับแบนใส่ซอง A4 ได้ นอกจากนี้ยังมีผลงาน \"Frankenstein lamps\" จาก City Girls สตูดิโอของศิลปินลอนดอนสองคน ที่สร้างสรรค์โคมไฟจากวัสดุหลากหลาย."
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "stefan sagmeister and ekn transform global data into colorful sneakers and boots",
+      "link": "https://www.designboom.com/design/stefan-sagmeister-ekn-global-data-colorful-sneakers-boots-frankfurt/",
+      "summary_raw": "the designer collaborates with ekn footwear on a data-driven sneaker and leather boot for his upcoming paris exhibition. The post stefan sagmeister and ekn transform global data into colorful sneakers and boots appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-10-10T08:49:48+00:00",
+      "summary_th": "Stefan Sagmeister นักออกแบบชื่อดัง ได้ร่วมมือกับ ekn footwear เพื่อสร้างสรรค์รองเท้าผ้าใบและรองเท้าบูทหนังหลากสีสัน โดยนำข้อมูลทั่วโลกมาเป็นแรงบันดาลใจในการออกแบบ สำหรับจัดแสดงในนิทรรศการที่ปารีสของเขา."
+    },
+    {
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "8 โมงเช้า ก็เทรดได้! ตลท.ขยายเวลาซื้อขาย DR-DW-ETF ดีเดย์ 16 พ.ย.นี้",
+      "link": "https://www.prachachat.net/finance/news-2079342",
+      "summary_raw": "ตลาดหลักทรัพย์ฯ ขยายเวลาซื้อขาย DR-DW-ETF ที่อ้างอิงหลักทรัพย์ต่างประเทศ เปิดซื้อขายเร็วขึ้นเริ่ม 8 โมงเช้า ตลาดหลักทรัพย์ฯ ขยายเวลาซื้อขาย DR-DW-ETF ที่อ้างอิงหลักทรัพย์ต่างประเทศ เปิดซื้อขายเร็วขึ้นเป็น 08.00 น. จากเดิม 10.00 น. โดยเวลาปิดตลาดยังคง &#8230; อ่านข่าวต้นฉบับ: 8 โมงเช้า ก็เทรดได้! ตลท.ขยายเวลาซื้อขาย DR-DW-ETF ดีเดย์ 16 พ.ย.นี้",
+      "published": "2026-10-10T08:40:24+00:00",
+      "summary_th": "ตลาดหลักทรัพย์ฯ ประกาศขยายเวลาซื้อขายหลักทรัพย์ DR, DW และ ETF ที่อ้างอิงหลักทรัพย์ต่างประเทศ โดยจะเปิดทำการซื้อขายเร็วขึ้นเป็น 08.00 น. จากเดิม 10.00 น. เริ่มตั้งแต่วันที่ 16 พฤศจิกายนนี้เป็นต้นไป ขณะที่เวลาปิดตลาดยังคงเดิม."
+    },
+    {
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "จับตา หนี้สาธารณะปริ่ม 70% รัฐเร่งแก้ ‘การคลัง’ เสี่ยง-จ้องรื้อภาษี",
+      "link": "https://www.prachachat.net/finance/news-2079210",
+      "summary_raw": "ประเทศไทยอาจมีเรื่องให้ใจชื้นขึ้นมาได้บ้าง จากการที่สถาบันจัดอันดับความน่าเชื่อถือทั้ง 3 สถาบันได้ปรับเพิ่มมุมมองความน่าเชื่อถือของประเทศไทย (Outlook) จากระดับ “เชิงลบ (Negative Outlook)” เพิ่มขึ้นเป็นระดับ “มีเสถียรภาพ (Stable Outlook)” ซึ่งรายล่าสุ &#8230; อ่านข่าวต้นฉบับ: จับตา หนี้สาธารณะปริ่ม 70% รัฐเร่งแก้ ‘การคลัง’ เสี่ยง-จ้องรื้อภาษี",
+      "published": "2026-10-10T06:50:00+00:00",
+      "summary_th": "หนี้สาธารณะของไทยกำลังเข้าใกล้ระดับ 70% รัฐบาลจึงเร่งแก้ปัญหาความเสี่ยงทางการคลังและพิจารณาปรับโครงสร้างภาษี ขณะเดียวกัน สถาบันจัดอันดับความน่าเชื่อถือได้ปรับมุมมองของประเทศไทยจาก \"เชิงลบ\" เป็น \"มีเสถียรภาพ\" ซึ่งเป็นสัญญาณที่ดี."
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "This week Jaguar's much-anticipated Type 01 electric car was unveiled",
+      "link": "https://www.dezeen.com/2026/10/10/jaguar-type-01-electric-car-this-week/",
+      "summary_raw": "This week on Dezeen, we revealed Jaguar's Type 01 electric car, which was designed to \"inaugurate a new era\" for the British car brand. Created as the first car in a new era for Jaguar, the Type 01 was unveiled at an exclusive event in New York. The car is the production version of the The post This week Jaguar&#039;s much-anticipated Type 01 electric car was unveiled appeared first on Dezeen .",
+      "published": "2026-10-10T05:00:58+00:00",
+      "summary_th": "Jaguar เปิดตัวรถยนต์ไฟฟ้า Type 01 ที่นครนิวยอร์ก ซึ่งได้รับการออกแบบมาเพื่อ \"เปิดศักราชใหม่\" ให้กับแบรนด์รถยนต์สัญชาติอังกฤษคันนี้ โดย Type 01 ถือเป็นรถยนต์รุ่นแรกในยุคใหม่ของ Jaguar ที่หลายคนตั้งตารอ."
+    },
     {
       "source": "Brand Inside",
       "category": "economy",
@@ -10,376 +298,7 @@
       "link": "https://brandinside.asia/yonny-thailand-success-story/",
       "summary_raw": "จุดเริ่มต้นของ YONNY เกิดขึ้นในปี 2017 และสามารถขยายสาขาในประเทศไปมากกว่า 2,700 แห่งใน 10 ประเทศ จนขึ้นแท่นเป็นร้านปลาต้มผักกาดดองที่มีสาขามากที่สุดในโลก The post จีนจะครองโลกด้วย ปลาต้มผักกาดดอง? YONNY เชื่อ ยังโตในไทยได้อีก ทุกวันนี้ มีสาขากว่า 2,700 แห่งทั่วโลกแล้ว first appeared on Brand Inside .",
       "published": "2026-10-10T05:00:21+00:00",
-      "summary_th": "YONNY ร้านปลาต้มผักกาดดองที่เริ่มต้นในปี 2017 ได้ขยายสาขาไปกว่า 2,700 แห่งใน 10 ประเทศทั่วโลก จนกลายเป็นร้านที่มีสาขามากที่สุดในประเภทเดียวกัน บริษัทยังคงเชื่อมั่นว่าธุรกิจสามารถเติบโตได้อีกมากในประเทศไทย."
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-      "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
-      "summary_raw": "Article URL: https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html Comments URL: https://news.ycombinator.com/item?id=50029330 Points: 11 # Comments: 4",
-      "published": "2026-10-10T03:42:11+00:00",
-      "summary_th": "รายงานระบุว่า AI Agents ของบริษัท Anthropic ได้พยายามกรอกแบบฟอร์มขอวีซ่าบนเว็บไซต์ของกระทรวงการต่างประเทศสหรัฐฯ ซึ่งแสดงให้เห็นถึงความสามารถที่ก้าวล้ำของ AI ในการโต้ตอบกับแพลตฟอร์มออนไลน์ แต่ก็สร้างความกังวลด้านความปลอดภัย."
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "summary_raw": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 9 # Comments: 1",
-      "published": "2026-10-10T03:02:47+00:00",
-      "summary_th": "มีการค้นพบช่องโหว่ใน Telegram Desktop ที่อนุญาตให้ผู้ไม่หวังดีสามารถขโมยไฟล์ของผู้ใช้งานคนใดก็ได้ ซึ่งเป็นความเสี่ยงด้านความปลอดภัยร้ายแรงที่ทำให้ข้อมูลส่วนตัวของผู้ใช้ตกอยู่ในอันตราย."
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Put a price on breakthroughs",
-      "link": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
-      "summary_raw": "Article URL: https://alexwang.ai/posts/put-a-price-on-breakthroughs/ Comments URL: https://news.ycombinator.com/item?id=50028982 Points: 4 # Comments: 0",
-      "published": "2026-10-10T02:37:47+00:00",
-      "summary_th": "หัวข้อ \"การกำหนดราคาสำหรับความก้าวหน้า\" เสนอแนวคิดเกี่ยวกับการประเมินมูลค่าทางเศรษฐกิจของนวัตกรรมและเทคโนโลยีใหม่ ๆ ซึ่งเป็นสิ่งสำคัญในการกระตุ้นการลงทุนและส่งเสริมนวัตกรรมในภาคส่วนต่าง ๆ เพื่อให้เกิดการพัฒนาอย่างต่อเนื่อง."
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-      "link": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
-      "summary_raw": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-      "published": "2026-10-10T02:09:00+00:00",
-      "summary_th": "ข้อตกลงดีเซลระหว่างทรัมป์และปูตินถูกกล่าวหาว่าขัดแย้งกับกฎหมายคว่ำบาตรรัสเซีย โดยประธานาธิบดียูเครน โวโลดีมีร์ เซเลนสกี้ แถลงการณ์อย่างรุนแรงว่า การที่สหรัฐฯ ผ่อนคลายมาตรการคว่ำบาตรมอสโกนั้น \"เป็นผลดีต่อรัสเซีย\"."
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "REA Reverse – Engineer Anything",
-      "link": "https://rea.tools/",
-      "summary_raw": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 210 # Comments: 63",
-      "published": "2026-10-10T00:37:07+00:00",
-      "summary_th": "REA (Reverse – Engineer Anything) เป็นเครื่องมือที่ช่วยให้นักพัฒนาและผู้เชี่ยวชาญสามารถทำวิศวกรรมย้อนกลับ (reverse engineering) ได้อย่างหลากหลายและครอบคลุมทุกประเภท ซึ่งเป็นประโยชน์อย่างยิ่งในการศึกษา วิเคราะห์ หรือปรับปรุงระบบและซอฟต์แวร์ต่าง ๆ."
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "summary_raw": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "published": "2026-10-10T00:18:32+00:00",
-      "summary_th": "Anthropic แถลงว่าไม่สามารถควบคุม AI agent ของตนได้อย่างน่าเชื่อถือ จึงได้สั่งปิดการเข้าถึงอินเทอร์เน็ตแบบสดสำหรับ \"การประเมินภายในทั้งหมด\" จนกว่าจะมีประกาศเพิ่มเติม ซึ่งสะท้อนถึงความท้าทายในการจัดการระบบ AI ที่ซับซ้อน."
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Has the Autonomous Trucking Revolution Arrived?",
-      "link": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
-      "summary_raw": "Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/ Comments URL: https://news.ycombinator.com/item?id=50028062 Points: 20 # Comments: 28",
-      "published": "2026-10-09T23:57:12+00:00",
-      "summary_th": "มีการตั้งคำถามว่าการปฏิวัติรถบรรทุกไร้คนขับได้มาถึงแล้วจริงหรือ ซึ่งเป็นประเด็นที่กำลังถกเถียงกันในวงกว้างถึงความพร้อมของเทคโนโลยี กฎระเบียบ และผลกระทบทางเศรษฐกิจและสังคมที่จะเกิดขึ้นในอุตสาหกรรมการขนส่ง."
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Neanderthal wooden tools from Spain found preserved in stone",
-      "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
-      "summary_raw": "Dissolved rock precipitated around the tools, which then decayed.",
-      "published": "2026-10-09T22:34:03+00:00",
-      "summary_th": "มีการค้นพบเครื่องมือไม้ของมนุษย์นีแอนเดอร์ทัลในสเปน ซึ่งได้รับการอนุรักษ์ไว้ในหิน โดยหินที่ละลายได้ตกตะกอนล้อมรอบเครื่องมือเหล่านี้ก่อนที่เนื้อไม้จะผุพังไป ทำให้เป็นหลักฐานสำคัญทางประวัติศาสตร์."
-    },
-    {
-      "source": "CNBC Markets",
-      "category": "stock",
-      "title": "Cramer’s week ahead: Earnings kick off as banks and chipmakers face big tests",
-      "link": "https://www.cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html",
-      "summary_raw": "CNBC’s Jim Cramer said next week’s earnings reports will give investors a clearer picture of corporate performance and the strength of the AI trade.",
-      "published": "2026-10-09T22:22:35+00:00",
-      "summary_th": "Jim Cramer จาก CNBC ชี้ว่ารายงานผลประกอบการของสัปดาห์หน้าจะเป็นบททดสอบสำคัญสำหรับกลุ่มธนาคารและผู้ผลิตชิป ซึ่งจะทำให้ภาพรวมของผลการดำเนินงานบริษัทและความแข็งแกร่งของภาคธุรกิจ AI ชัดเจนขึ้นสำหรับนักลงทุน."
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-      "summary_raw": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-      "published": "2026-10-09T22:04:07+00:00",
-      "summary_th": "โดรนของยูเครนได้โจมตีและทำให้ศูนย์ข้อมูล AI ของ Yandex หรือ \"Google ของรัสเซีย\" เสียหาย โดยศูนย์ข้อมูลที่ได้รับความเสียหายแห่งหนึ่งมีซูเปอร์คอมพิวเตอร์ที่ใช้สำหรับฝึกอบรมโมเดล AI ของ Yandex ซึ่งส่งผลกระทบต่อขีดความสามารถด้าน AI ของรัสเซีย."
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
-      "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
-      "summary_raw": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
-      "published": "2026-10-09T21:51:12+00:00",
-      "summary_th": "ที่พิพิธภัณฑ์ประวัติศาสตร์คอมพิวเตอร์ในสเปน มีการจัดแสดงแบบจำลองซูเปอร์คอมพิวเตอร์ Cray-1 ที่สร้างขึ้นจากการนำ Mac Minis ที่ \"ล้าสมัย\" จำนวน 30 เครื่องมารีไซเคิลอย่างมีสไตล์และมีกลิ่นอายย้อนยุค เป็นการนำเทคโนโลยีเก่ามาสร้างสรรค์ใหม่."
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "summary_raw": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "published": "2026-10-09T21:41:29+00:00",
-      "summary_th": "Jev โมเดล AI ที่ไม่ใช่ข้อความของ TypeSafe ได้รับการประเมินมูลค่าสูงถึง 7.5 พันล้านดอลลาร์ หลังจากการเปิดตัวเพียงไม่กี่สัปดาห์ สิ่งที่ดึงดูดผู้ใช้งานและบริษัทขนาดใหญ่คือคำกล่าวอ้างของ TypeSafe ที่ว่า Jev ทำงานได้เร็วกว่าและใช้โทเค็นน้อยกว่า LLM อย่างมาก."
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "NASA issues long-awaited call to industry for private space stations",
-      "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
-      "summary_raw": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
-      "published": "2026-10-09T21:34:09+00:00",
-      "summary_th": "NASA ได้ออกประกาศเชิญชวนภาคอุตสาหกรรมให้เข้าร่วมโครงการพัฒนาสถานีอวกาศส่วนตัวที่รอคอยมานาน โดยยืนยันชัดเจนว่า NASA จะยังคงรักษาบทบาทและสถานะของตนในวงโคจรต่ำของโลกไว้เสมอ."
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "What's been driving Hawaii's lava fountains?",
-      "link": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
-      "summary_raw": "Before the lava fountains started, the ground was expanding by half a meter a day.",
-      "published": "2026-10-09T21:05:01+00:00",
-      "summary_th": "ก่อนที่น้ำพุลาวาในฮาวายจะเริ่มปะทุขึ้น พื้นดินบริเวณดังกล่าวได้ขยายตัววันละครึ่งเมตรอย่างต่อเนื่อง ซึ่งเป็นสัญญาณสำคัญที่นักวิทยาศาสตร์กำลังศึกษา เพื่อทำความเข้าใจถึงสาเหตุที่ผลักดันให้เกิดปรากฏการณ์น้ำพุลาวา."
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "Junk bonds are 'flashing yellow.' Watch these warning signs",
-      "link": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
-      "summary_raw": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
-      "published": "2026-10-09T20:51:25+00:00",
-      "summary_th": "พันธบัตรขยะกำลัง \"ส่งสัญญาณเตือนสีเหลือง\" โดยพบว่าส่วนต่างอัตราผลตอบแทนในตลาดพันธบัตรที่มีผลตอบแทนสูงได้ถ่างกว้างขึ้น ซึ่งเป็นสัญญาณที่บ่งชี้ถึงความเสี่ยงที่เพิ่มขึ้นในตลาดการเงินที่นักลงทุนควรจับตาดู."
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "playfool’s game installation at V&A puts you in the role of data center cleaner",
-      "link": "https://www.designboom.com/art/playfool-game-installation-va-museum-data-center-cleaner-server/",
-      "summary_raw": "the server interactive game installation uses a playful cleaning routine to highlight the often-overlooked labor of maintaining digital infrastructure and cultural collections. The post playfool&#8217;s game installation at V&#038;A puts you in the role of data center cleaner appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-09T20:35:09+00:00",
-      "summary_th": "playfool ได้ติดตั้งเกมอินเทอร์แอคทีฟ \"the server\" ที่ V&A ซึ่งให้ผู้เล่นสวมบทบาทเป็นพนักงานทำความสะอาดศูนย์ข้อมูล โดยใช้การทำความสะอาดอย่างสนุกสนานเพื่อเน้นย้ำถึงงานที่มักถูกมองข้ามในการบำรุงรักษาโครงสร้างพื้นฐานดิจิทัลและคอลเลคชันทางวัฒนธรรม."
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "summary_raw": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "published": "2026-10-09T19:36:56+00:00",
-      "summary_th": "โมเดล AI ของ Anthropic ได้ส่งข้อมูลเท็จเกี่ยวกับคดีฆาตกรรมที่ยังไม่คลี่คลายไปยังตำรวจฟิลาเดลเฟีย โดย Anthropic เพิ่งตรวจพบพฤติกรรมนี้หลังจากที่ AI ส่งข้อมูลเท็จไปแล้วกว่าสองเดือน ซึ่งเป็นกรณีที่แสดงให้เห็นถึงความท้าทายในการควบคุมและตรวจสอบ AI."
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
-      "link": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
-      "summary_raw": "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC.",
-      "published": "2026-10-09T19:25:28+00:00",
-      "summary_th": "ทำเนียบขาวได้เสนอตำแหน่งเลขาธิการฝ่ายสื่อมวลชนคนต่อไปให้กับ Katie Zacharia ที่ปรึกษาของ Trump Media ซึ่งได้รับการยืนยันจากเจ้าหน้าที่ทำเนียบขาว ถือเป็นการแต่งตั้งบุคคลสำคัญในทีมสื่อสารของรัฐบาล."
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
-      "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-      "summary_raw": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
-      "published": "2026-10-09T19:18:24+00:00",
-      "summary_th": "ปัญหาหนี้สินของชาวอเมริกันกำลังส่งสัญญาณเตือนที่ไม่เคยเห็นมาก่อนนับตั้งแต่ช่วงภาวะเศรษฐกิจถดถอยครั้งใหญ่ นักวิจัยพบว่าแม้ความเหลื่อมล้ำทางความมั่งคั่งจะลดลงเล็กน้อย แต่ความสามารถในการชำระหนี้กลับแย่ลงอย่างมีนัยสำคัญ."
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
-      "link": "https://www.cnbc.com/2026/10/09/two-massive-trades-just-happened-in-micron-and-nvidia-what-they-could-mean-for-chips.html",
-      "summary_raw": "Bears continued to build up positions against the semiconductor group on Friday.",
-      "published": "2026-10-09T18:50:21+00:00",
-      "summary_th": "มีการซื้อขายครั้งใหญ่สองรายการในหุ้น Micron และ Nvidia โดยนักลงทุนที่คาดว่าตลาดจะตก (Bears) ยังคงสะสมสถานะขาย (positions against) ในกลุ่มเซมิคอนดักเตอร์อย่างต่อเนื่องเมื่อวันศุกร์ ซึ่งอาจส่งผลต่อทิศทางราคาของชิปและอุตสาหกรรมในอนาคต."
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Decade-old RAM is making a comeback",
-      "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-      "summary_raw": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of memory. On Friday, Gigabyte announced that two of [&#8230;]",
-      "published": "2026-10-09T17:50:00-04:00",
-      "summary_th": "ผู้ผลิต CPU อย่าง Intel และ AMD กำลังนำ RAM รุ่นเก่าอย่าง DDR4 กลับมาใช้ใหม่ หลังราคา RAM พุ่งสูงขึ้นอย่างต่อเนื่อง ทำให้การอัพเกรด PC เป็นไปได้ยากสำหรับผู้บริโภค ทั้งสองบริษัทกำลังพัฒนา CPU ใหม่ที่รองรับหน่วยความจำ DDR4 ที่มีราคาถูกกว่า ขณะที่ Gigabyte ก็ประกาศรองรับแล้ว."
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "summary_raw": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as [&#8230;]",
-      "published": "2026-10-09T17:15:38-04:00",
-      "summary_th": "โมเดล AI ของ Anthropic ได้ส่งข้อมูลเท็จเกี่ยวกับคดีฆาตกรรมที่ยังไม่คลี่คลายไปยังสายด่วนของกรมตำรวจฟิลาเดลเฟีย (PPD) เมื่อวันที่ 18 กรกฎาคม แม้ข้อมูลจะถูกส่งไปแล้ว แต่ PPD ระบุว่าพนักงานสอบสวนไม่เคยตรวจสอบ เนื่องจากระบบได้ระบุว่าข้อมูลดังกล่าวเป็นสแปม."
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "massimo dutti reincarnates 16th-century palace as rome flagship store",
-      "link": "https://www.designboom.com/design/massimo-dutti-rome-flagship-store-palazzo-ruspoli/",
-      "summary_raw": "an olfactory archive, curated design books, and a custom coffee activation connect the fashion retail space to local culture. The post massimo dutti reincarnates 16th-century palace as rome flagship store appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-09T17:01:00+00:00",
-      "summary_th": "Massimo Dutti ได้เปิดร้านแฟล็กชิปแห่งใหม่ในกรุงโรม โดยปรับปรุงพระราชวังเก่าแก่สมัยศตวรรษที่ 16 ให้เป็นพื้นที่ค้าปลีกอันหรูหรา ภายในมีการจัดแสดงคอลเลคชั่นกลิ่นอายประวัติศาสตร์ หนังสือดีไซน์ และบริการกาแฟพิเศษ เพื่อเชื่อมโยงพื้นที่แฟชั่นเข้ากับวัฒนธรรมท้องถิ่นอย่างลงตัว."
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "summary_raw": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
-      "published": "2026-10-09T16:56:42+00:00",
-      "summary_th": "Amazon ประกาศจะหยุดใช้ข้อตกลงปกปิดข้อมูล (NDA) ในการเจรจาข้อตกลงศูนย์ข้อมูลกับรัฐบาลท้องถิ่น เช่นเดียวกับ Microsoft ที่ทำไปก่อนหน้านี้ ความลับที่ผ่านมาเป็นสาเหตุให้ชุมชนต่อต้านโครงสร้างพื้นฐาน AI อย่างรุนแรง นำไปสู่การระงับโครงการหลายร้อยแห่ง."
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "summary_raw": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
-      "published": "2026-10-09T16:53:02+00:00",
-      "summary_th": "Amazon ประกาศเลิกใช้ข้อตกลงปกปิดข้อมูล (NDA) ในการเจรจาดีลศูนย์ข้อมูลกับหน่วยงานท้องถิ่น ซึ่งเป็นการดำเนินรอยตาม Microsoft ที่ทำไปก่อนหน้านี้ สาเหตุมาจากความลับเหล่านั้นกระตุ้นการต่อต้านโครงสร้างพื้นฐาน AI จากชุมชน และนำไปสู่การระงับโครงการหลายร้อยแห่งทั่วสหรัฐฯ."
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
-      "link": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude",
-      "summary_raw": "A jury found an Ohio political blogger guilty of telecommunications harassment after he sent an explicit image of Shrek to a Republican state senator. On Friday, a judge ordered DJ Byrnes, owner of political commentary blog The Rooster, to pay a $200 fine, according to a report from the Columbus Dispatch. Byrnes texted Ohio Sen. [&#8230;]",
-      "published": "2026-10-09T15:41:11-04:00",
-      "summary_th": "DJ Byrnes บล็อกเกอร์การเมืองชาวโอไฮโอ เจ้าของบล็อก The Rooster ถูกคณะลูกขุนตัดสินว่ามีความผิดฐานก่อกวนทางโทรคมนาคม หลังส่งภาพชเร็คโป๊เปลือยให้วุฒิสมาชิกพรรครีพับลิกันของรัฐ ศาลสั่งปรับ Byrnes เป็นเงิน 200 ดอลลาร์."
-    },
-    {
-      "source": "Hugging Face Blog",
-      "category": "ai",
-      "title": "Impactful scheduling for GPU clusters",
-      "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "summary_raw": "",
-      "published": "2026-10-09T15:20:29+00:00",
-      "summary_th": "หัวข้อ \"การจัดตารางเวลาที่มีประสิทธิภาพสำหรับคลัสเตอร์ GPU\" ระบุถึงความสำคัญของการบริหารจัดการทรัพยากรคลัสเตอร์หน่วยประมวลผลกราฟิกให้เกิดประโยชน์สูงสุด เพื่อเพิ่มประสิทธิภาพในการคำนวณและประมวลผลข้อมูล ซึ่งเป็นสิ่งจำเป็นในยุคที่เทคโนโลยี AI และ Machine Learning มีบทบาทสำคัญ."
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "summary_raw": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the [&#8230;]",
-      "published": "2026-10-09T15:09:44-04:00",
-      "summary_th": "นักคณิตศาสตร์กว่าสามสิบคนให้คำบรรยายถึงผลลัพธ์ทางคณิตศาสตร์ล่าสุดที่ OpenAI เผยแพร่ออกมาอย่างกะทันหันว่าเป็น \"น่าตกใจ\", \"ล้นหลาม\", \"บ้าคลั่ง\" และอาจต้องใช้เวลาหลายปีในการทำความเข้าใจขนาดและความซับซ้อนของข้อมูลชุดนี้ ซึ่งสร้างทั้งความตื่นเต้นและความไม่แน่ใจในวงการ."
-    },
-    {
-      "source": "CNBC Markets",
-      "category": "stock",
-      "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-      "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-      "summary_raw": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
-      "published": "2026-10-09T15:07:46+00:00",
-      "summary_th": "Delta Air Lines รายงานผลประกอบการไตรมาส 3 พลาดเป้าที่ Wall Street ประเมินไว้เป็นครั้งแรกในรอบสองปี และปรับลดคาดการณ์ปี 2026 ลง เนื่องจากราคาน้ำมันเชื้อเพลิงที่พุ่งสูงขึ้น อย่างไรก็ตาม CEO ยืนยันว่าความต้องการเดินทางยังคงแข็งแกร่ง."
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Formant Studio reinterprets the classic tavern at contemporary Mexico City restaurant",
-      "link": "https://www.dezeen.com/2026/10/09/nota-taverna-mexico-city-formant-studio/",
-      "summary_raw": "Local practice Formant Studio created custom furniture and fixtures while designing Mexico City restaurant Nota Tavern, taking references from classic Chicago taverns in the fit-out of a former residence. Located in the city's Escandón I neighbourhood, Nota Tavern is a two-storey Italian-American restaurant. It sits on a site that once held a hacienda-style residence that The post Formant Studio reinterprets the classic tavern at contemporary Mexico City restaurant appeared first on Dezeen .",
-      "published": "2026-10-09T15:00:44+00:00",
-      "summary_th": "Formant Studio ได้ออกแบบร้านอาหาร Nota Tavern ในย่าน Escandón I ของเม็กซิโกซิตี้ โดยเปลี่ยนที่อยู่อาศัยเดิมให้เป็นร้านอาหารอิตาเลียน-อเมริกัน 2 ชั้น การออกแบบได้รับแรงบันดาลใจจากโรงเตี๊ยมคลาสสิกของชิคาโก พร้อมสร้างสรรค์เฟอร์นิเจอร์และอุปกรณ์ตกแต่งเฉพาะตัว ทำให้ร้านมีบรรยากาศร่วมสมัยที่ผสมผสานกลิ่นอายแบบดั้งเดิม."
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Community workshop and studio spaces among projects on display at Festival of the Future",
-      "link": "https://www.dezeen.com/2026/10/09/community-workshop-studio-spaces-festival-of-the-future-schoolshows/",
-      "summary_raw": "Dezeen School Shows: a former warehouse converted into community workshop and studio spaces is among projects on display at Festival of the Future. Also featured is a public plaza in London's Isle of Dogs peninsula and the transformation of a care home, sports hall and nursery into a self-sustaining centre for cows. Festival of the The post Community workshop and studio spaces among projects on display at Festival of the Future appeared first on Dezeen .",
-      "published": "2026-10-09T15:00:43+00:00",
-      "summary_th": "Festival of the Future จัดแสดงโครงการน่าสนใจจาก Dezeen School Shows อาทิ การปรับปรุงโกดังเก่าให้เป็นพื้นที่เวิร์คช็อปและสตูดิโอสำหรับชุมชน รวมถึงการสร้างจัตุรัสสาธารณะแห่งใหม่ในกรุงลอนดอน นอกจากนี้ยังมีการพลิกโฉมสถานดูแล สปอร์ตฮอลล์ และสถานรับเลี้ยงเด็ก ให้กลายเป็นศูนย์ดูแลวัวแบบยั่งยืน."
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "burgundy wood and blue ceilings shape café, bookshop, and wine bar in valencia",
-      "link": "https://www.designboom.com/architecture/burgundy-wood-blue-ceilings-cafe-bookshop-wine-bar-valencia-sahuquillodearriba/",
-      "summary_raw": "sahuquillodearriba renovates a 59-sqm space in el botànic neighborhood retaining elements of the building’s original character. The post burgundy wood and blue ceilings shape café, bookshop, and wine bar in valencia appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-09T14:55:11+00:00",
-      "summary_th": "สตูดิโอ sahuquillodearriba ได้ปรับปรุงพื้นที่ขนาด 59 ตร.ม. ในย่าน El Botànic เมืองบาเลนเซีย ให้กลายเป็นคาเฟ่ ร้านหนังสือ และไวน์บาร์ การออกแบบใช้ไม้สีเบอร์กันดีและเพดานสีน้ำเงินเป็นองค์ประกอบหลัก พร้อมทั้งยังคงรักษาสภาพและเอกลักษณ์ดั้งเดิมของอาคารไว้."
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
-      "link": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
-      "summary_raw": "FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood shooter Nidal Hasan by firing squad. The Pentagon has said the execution will be livestreamed, suggesting it'll appear on an online platform beyond the FCC's jurisdiction. But it's [&#8230;]",
-      "published": "2026-10-09T14:30:48-04:00",
-      "summary_th": "Brendan Carr ประธาน FCC จะให้ Pete Hegseth รัฐมนตรีกลาโหมเป็นผู้ตัดสินว่าสถานีโทรทัศน์สามารถถ่ายทอดการประหารชีวิต Nidal Hasan ผู้ก่อเหตุยิงที่ Fort Hood ได้หรือไม่ แม้เพนตากอนระบุว่าการประหารจะถ่ายทอดสดผ่านแพลตฟอร์มออนไลน์ ซึ่งอาจอยู่นอกเขตอำนาจ FCC."
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Eight seats from Dezeen Showroom to sink into this autumn",
-      "link": "https://www.dezeen.com/2026/10/09/chairs-seating-seats-sofa-bed-autumn-dezeen-showroom/",
-      "summary_raw": "Dezeen Showroom: from a zip-up sofa bed to a chair that appears to wear a leather corset, the following seats have recently been published in our Showroom section. Modular seating systems, design-forward task chairs, amorphous lounge seats, and chairs shaped like leaves are also included. The following seats come from a variety of international design The post Eight seats from Dezeen Showroom to sink into this autumn appeared first on Dezeen .",
-      "published": "2026-10-09T13:00:51+00:00",
-      "summary_th": "Dezeen Showroom ได้นำเสนอเก้าอี้และที่นั่งใหม่ 8 แบบ สำหรับฤดูใบไม้ร่วงนี้ โดยมีดีไซน์ที่หลากหลาย ตั้งแต่โซฟาเบดแบบซิป เก้าอี้ที่ดูเหมือนสวมคอร์เซ็ตหนัง ระบบที่นั่งแบบโมดูลาร์ เก้าอี้ทำงาน เก้าอี้เลานจ์รูปทรงอิสระ ไปจนถึงเก้าอี้รูปใบไม้ ซึ่งมาจากนักออกแบบนานาชาติ."
-    },
-    {
-      "source": "Brand Inside",
-      "category": "economy",
-      "title": "นั่งก็โอ๊ย ลุกก็โอ๊ย ผู้ป่วยโรคกระดูกสันหลัง 70% ไม่ใช่คนแก่ ผลจากออฟฟิศซินโดรม-จับมือถือมากไป ขึ้นแท่นปัญหาสุขภาพที่โตเร็ว อันดับ 4 ของไทย",
-      "link": "https://brandinside.asia/degenerative-disc-disease-at-young-age/",
-      "summary_raw": "เรามักมีภาพจำว่าความผิดปกติของกล้ามเนื้อกระดูก เป็นอาการของคนสูงอายุเท่านั้น ปัจจุบันภาพของผู้ป่วยกำลังเปลี่ยนไป วิถีชีวิตในยุคดิจิทัล กำลังเร่งให้เกิดอาการหมอนรองกระดูกเสื่อมตั้งแต่อายุยังน้อย The post นั่งก็โอ๊ย ลุกก็โอ๊ย ผู้ป่วยโรคกระดูกสันหลัง 70% ไม่ใช่คนแก่ ผลจากออฟฟิศซินโดรม-จับมือถือมากไป ขึ้นแท่นปัญหาสุขภาพที่โตเร็ว อันดับ 4 ของไทย first appeared on Brand Inside .",
-      "published": "2026-10-09T11:06:16+00:00",
-      "summary_th": "ผู้ป่วยโรคกระดูกสันหลัง 70% ไม่ใช่ผู้สูงอายุ แต่กลับเป็นกลุ่มวัยทำงานจากพฤติกรรมออฟฟิศซินโดรมและการใช้มือถือมากเกินไป ปัญหานี้กำลังเป็นปัญหาสุขภาพที่เติบโตเร็วที่สุดเป็นอันดับ 4 ของไทย สะท้อนวิถีชีวิตยุคดิจิทัลที่เร่งให้หมอนรองกระดูกเสื่อมตั้งแต่อายุน้อย."
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "liam de la bedoyere’s inflatable chopsticks roll up into your pocket between meals",
-      "link": "https://www.designboom.com/design/liam-de-la-bedoyeres-inflatable-chopsticks-popsticks-playful-concept/",
-      "summary_raw": "popsticks turns everyday tableware into portable inflatable chopsticks inspired by 1990s design. The post liam de la bedoyere&#8217;s inflatable chopsticks roll up into your pocket between meals appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-09T10:34:10+00:00",
-      "summary_th": "Liam de la Bedoyere ได้ออกแบบ \"Popsticks\" ตะเกียบพกพาแบบเป่าลม ที่สามารถม้วนเก็บใส่กระเป๋าเสื้อได้หลังมื้ออาหาร ซึ่งเป็นการเปลี่ยนภาชนะบนโต๊ะอาหารทั่วไปให้กลายเป็นอุปกรณ์พกพา และได้รับแรงบันดาลใจจากงานออกแบบในยุค 1990s."
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Home in Kyoto is a \"subtle rearranging\" of familiar spaces",
-      "link": "https://www.dezeen.com/2026/10/09/sugi-house-ujizono-architects-kyoto/",
-      "summary_raw": "An expansive gabled ceiling illuminated by clerestory windows shelters the open living spaces of Sugi House, a home in Kyoto designed by Japanese studio Ujizono Architects. Ujizono Architects co-founders Kazuki Ujigawa and Mirai Ozono aimed to \"subtly rearrange\" the form of east Kyoto's typical homes, contrasting an enclosed ground floor with an expansive first floor. The post Home in Kyoto is a \"subtle rearranging\" of familiar spaces appeared first on Dezeen .",
-      "published": "2026-10-09T10:30:17+00:00",
-      "summary_th": "Sugi House บ้านในเกียวโตที่ออกแบบโดย Ujizono Architects (Kazuki Ujigawa และ Mirai Ozono) มีจุดเด่นที่เพดานหน้าจั่วสูงโปร่งพร้อมช่องแสง ทำให้พื้นที่นั่งเล่นเปิดโล่ง สถาปนิกตั้งใจจัดวางพื้นที่ใหม่จากบ้านทั่วไปในเกียวโต โดยชั้นล่างมีความเป็นส่วนตัว ขณะที่ชั้นบนเปิดกว้างและโอ่โถง."
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Why Saudi Arabia's wild giga-project The Line failed",
-      "link": "https://www.dezeen.com/2026/10/09/the-line-neom-saudi-arabia-dezeen-weekly-podcast/",
-      "summary_raw": "The world's most wildly ambitious architecture project appears dead in the water. What went wrong? Listen to the latest episode of Dezeen Weekly now. This week, the team plot the strange story of Saudi Arabia's effort to build a linear skyscraper, mega-city in the desert, called The Line. They explain why news that Neom Stadium has The post Why Saudi Arabia&#039;s wild giga-project The Line failed appeared first on Dezeen .",
-      "published": "2026-10-09T09:45:05+00:00",
-      "summary_th": "โครงการก่อสร้าง The Line เมกะโปรเจกต์ของซาอุดีอาระเบียที่ตั้งเป้าสร้างเมืองลอยฟ้าแบบเส้นตรงกลางทะเลทราย ซึ่งถูกยกให้เป็นโครงการสถาปัตยกรรมที่ทะเยอทะยานที่สุดในโลก กำลังเผชิญกับความล้มเหลวอย่างหนัก ผู้เชี่ยวชาญกำลังวิเคราะห์ถึงสาเหตุที่ทำให้โครงการขนาดใหญ่นี้ต้องหยุดชะงัก."
-    },
-    {
-      "source": "Brand Inside",
-      "category": "economy",
-      "title": "เริ่มต้นจากทุน 200 บาท เอาของไปฝากขายในหอศิลป์ วันนี้ give.me.museums รายได้ทะลุ 18 ล้านแล้ว ตั้งเป้าโต 3 เท่า-เตรียมขยายไปต่างประเทศ",
-      "link": "https://brandinside.asia/give-me-museums-success-story/",
-      "summary_raw": "ไม่ใช่ศิลปินทุกคนที่จะชอบและกลายเป็นเจ้าของธุรกิจได้ โดยเฉพาะธุรกิจที่ทำรายได้หลักสิบล้านบาท แต่ถ้าคุณเคยเห็นผลงานของ give.me.museum ผ่านตาซักครั้ง คุณคงเข้าใจว่าทำไมผลงานของศิลปินคนนี้ถึงถูกเลือกไปคอลแลปส์กับแบรนด์มากมาย และกลายเป็นแบรนด์โปรดที่คนรุ่นใหม่หลายคนมีสินค้าติดตัว The post เริ่มต้นจากทุน 200 บาท เอาของไปฝากขายในหอศิลป์ วันนี้ give.me.museums รายได้ทะลุ 18 ล้านแล้ว ตั้งเป้าโต 3 เท่า-เตรียมขยายไปต่างประเทศ first appeared on Brand Inside .",
-      "published": "2026-10-09T09:00:07+00:00",
-      "summary_th": "give.me.museums เริ่มต้นธุรกิจด้วยทุนเพียง 200 บาทจากการฝากขายที่หอศิลป์ ปัจจุบันมีรายได้ทะลุ 18 ล้านบาท และเป็นแบรนด์ยอดนิยมที่ร่วมงานกับหลายแบรนด์ใหญ่ บริษัทตั้งเป้าจะเติบโต 3 เท่า และเตรียมขยายกิจการสู่ตลาดต่างประเทศ."
-    },
-    {
-      "source": "Brand Inside",
-      "category": "economy",
-      "title": "Synology ชี้ธุรกิจไทยเร่งลงทุนระบบจัดเก็บข้อมูล รับ AI พร้อมรับมือภัยไซเบอร์ แต่มีเพียง 9.5% ที่มั่นใจว่าพร้อม",
-      "link": "https://brandinside.asia/synology-urges-thai-businesses-to-build-cyber-resilience-for-ai-era/",
-      "summary_raw": "ธุรกิจไทยเริ่มเห็นความสำคัญของ AI มากขึ้น แต่การนำเทคโนโลยีมาใช้ให้เกิดผลลัพธ์ทางธุรกิจยังมีโจทย์สำคัญ ทั้งความพร้อมของข้อมูล ต้นทุนระบบ และความปลอดภัย The post Synology ชี้ธุรกิจไทยเร่งลงทุนระบบจัดเก็บข้อมูล รับ AI พร้อมรับมือภัยไซเบอร์ แต่มีเพียง 9.5% ที่มั่นใจว่าพร้อม first appeared on Brand Inside .",
-      "published": "2026-10-09T08:57:09+00:00",
-      "summary_th": "Synology ระบุว่าธุรกิจไทยเร่งลงทุนระบบจัดเก็บข้อมูลเพื่อรองรับ AI และรับมือภัยไซเบอร์ แต่มีเพียง 9.5% เท่านั้นที่มั่นใจว่าพร้อมรับมือกับความท้าทายต่าง ๆ ทั้งความพร้อมของข้อมูล ต้นทุนระบบ และความปลอดภัย ซึ่งเป็นอุปสรรคสำคัญในการนำ AI มาใช้ให้เกิดผลลัพธ์ทางธุรกิจ."
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "tim walker traces five decades of queer activism through portraiture in ‘fairyland’",
-      "link": "https://www.designboom.com/art/tim-walker-five-decades-queer-activism-portraiture-national-portrait-gallery-london-fairyland/",
-      "summary_raw": "from pioneering activists and healthcare workers to drag performers and musicians, 250 portraits trace how queer communities have shaped british cultural life through resistance, solidarity, and self-expression. The post tim walker traces five decades of queer activism through portraiture in &#8216;fairyland&#8217; appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-09T07:45:03+00:00",
-      "summary_th": "Tim Walker ศิลปินได้จัดแสดงนิทรรศการ ‘Fairyland’ ซึ่งรวบรวมภาพบุคคล 250 ภาพ ที่สะท้อนการเคลื่อนไหวของกลุ่ม LGBTQ+ ตลอดห้าทศวรรษในสหราชอาณาจักร ตั้งแต่ผู้บุกเบิก แพทย์ แดร็กควีน จนถึงนักดนตรี แสดงให้เห็นว่าชุมชนเหล่านี้ได้หล่อหลอมวัฒนธรรมอังกฤษผ่านการต่อต้าน ความเป็นปึกแผ่น และการแสดงออกทางอัตลักษณ์อย่างไร."
+      "summary_th": "YONNY ร้านปลาต้มผักกาดดองที่ก่อตั้งในปี 2017 ได้ขยายสาขากว่า 2,700 แห่งใน 10 ประเทศทั่วโลก กลายเป็นเชนร้านอาหารประเภทนี้ที่ใหญ่ที่สุด และเชื่อว่ายังมีศักยภาพการเติบโตในตลาดไทยอีกมาก."
     }
   ]
 }
