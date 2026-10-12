@@ -1,304 +1,304 @@
 {
-  "updated_at": "2026-10-11T05:00:13.615059+00:00",
-  "date": "2026-10-11",
+  "updated_at": "2026-10-12T05:16:28.044325+00:00",
+  "date": "2026-10-12",
   "count": 33,
   "items": [
     {
       "source": "Hacker News",
       "category": "tech",
-      "title": "Vegetables are half as nutritious as they were in the 1960s",
-      "link": "https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/",
-      "summary_raw": "Article URL: https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/ Comments URL: https://news.ycombinator.com/item?id=50039715 Points: 7 # Comments: 5",
-      "published": "2026-10-11T04:07:32+00:00",
-      "summary_th": "มีรายงานเปิดเผยว่าคุณค่าทางโภชนาการของผักในปัจจุบันลดลงถึงครึ่งหนึ่ง เมื่อเทียบกับข้อมูลในช่วงทศวรรษ 1960 ซึ่งเป็นสัญญาณบ่งชี้ถึงการเปลี่ยนแปลงคุณภาพของอาหารที่เราบริโภค และอาจส่งผลกระทบต่อสุขภาพในระยะยาว."
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
-      "link": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
-      "summary_raw": "Article URL: https://www.youtube.com/watch?v=XiZmM6hwwAU Comments URL: https://news.ycombinator.com/item?id=50039536 Points: 11 # Comments: 0",
-      "published": "2026-10-11T03:21:07+00:00",
-      "summary_th": "มีการเผยแพร่คลิปวิดีโอที่น่าสนใจ แสดงให้เห็นการทำงานของ GameBoy บนหน้าจอ E-Paper โดยใช้ชิป ESP32 ซึ่งสามารถแสดงผลได้ที่ 30 เฟรมต่อวินาที ถือเป็นการนำเทคโนโลยี E-Paper มาใช้กับอุปกรณ์เล่นเกมได้อย่างมีประสิทธิภาพและแสดงให้เห็นถึงศักยภาพใหม่ๆ."
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "CIA World Facebook Is Dead – Here Is an Attempt at Recreation",
-      "link": "https://worldfacts.app",
-      "summary_raw": "Article URL: https://worldfacts.app Comments URL: https://news.ycombinator.com/item?id=50039504 Points: 20 # Comments: 23",
-      "published": "2026-10-11T03:13:46+00:00",
-      "summary_th": "CIA World Factbook ซึ่งเคยเป็นแหล่งข้อมูลสำคัญได้ปิดตัวลงแล้ว แต่มีการสร้างแพลตฟอร์มใหม่ชื่อ Worldfacts.app เพื่อพยายามรวบรวมและนำเสนอข้อมูลข้อเท็จจริงเกี่ยวกับนานาประเทศทั่วโลกขึ้นมาใหม่ เพื่อทดแทนและตอบสนองความต้องการของผู้ใช้งาน."
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "summary_raw": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 65 # Comments: 50",
-      "published": "2026-10-11T02:02:38+00:00",
-      "summary_th": "บทความวิจัยนี้กล่าวถึงความสำเร็จของ AI เอเจนต์ที่สามารถดีคอมไพล์เกมแนว First-Person Shooter ได้ หลังจากประมวลผลข้อมูล (tokens) จำนวน 500 พันล้านรายการ ซึ่งแสดงให้เห็นถึงศักยภาพที่เพิ่มขึ้นของ AI ในการวิเคราะห์และทำความเข้าใจโค้ดเกม."
+      "title": "Type-safe HTML templating in Zig",
+      "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "summary_raw": "Article URL: https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html Comments URL: https://news.ycombinator.com/item?id=50051573 Points: 6 # Comments: 0",
+      "published": "2026-10-12T05:02:34+00:00",
+      "summary_th": "บทความนี้กล่าวถึงการทำ Type-safe HTML templating ในภาษาโปรแกรม Zig ซึ่งเป็นเทคนิคที่ช่วยให้การสร้างแม่แบบ HTML มีความปลอดภัยและถูกต้องมากขึ้น ลดข้อผิดพลาดที่อาจเกิดขึ้นระหว่างการพัฒนาเว็บแอปพลิเคชัน ทำให้โค้ดมีประสิทธิภาพและง่ายต่อการบำรุงรักษาในระยะยาว"
     },
     {
       "source": "ประชาชาติธุรกิจ",
       "category": "stock",
-      "title": "‘เอกนิติ’ ขึ้น 4 เวที IMF-World Bank ถกทวิภาคี 30 นัดคีย์แมนการเงินโลก",
-      "link": "https://www.prachachat.net/finance/news-2079447",
-      "summary_raw": "ไทยพร้อมเปิดฉาก IMF-World Bank 2026 &#8216;เอกนิติ&#8217; นำทีมขึ้น 4 เวทีใหญ่ระดับโลก พร้อมนำประเทศไทยถกทวิภาคี 30 นัดหมายกับคีย์แมนการเงิน-การคลังระดับโลก รายงานข่าวจากทำเนียบรัฐบาล เปิดเผยว่า นายเอกนิติ นิติทัณฑ์ประภาศ รองนายกรัฐมนตรี และ รมว.คลัง &#8230; อ่านข่าวต้นฉบับ: &#8216;เอกนิติ&#8217; ขึ้น 4 เวที IMF-World Bank ถกทวิภาคี 30 นัดคีย์แมนการเงินโลก",
-      "published": "2026-10-11T01:30:00+00:00",
-      "summary_th": "นายเอกนิติ นิติทัณฑ์ประภาศ รองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงการคลัง จะเข้าร่วมประชุม IMF-World Bank 2026 โดยขึ้นกล่าวบน 4 เวทีสำคัญ และมีกำหนดหารือทวิภาคีกับคีย์แมนด้านการเงินและการคลังระดับโลกถึง 30 นัดหมาย เพื่อแสดงบทบาทของไทยในเวทีโลก."
+      "title": "ราคาทองวันนี้ (12 ต.ค. 69) ขยับขึ้น 100 บาท ทองรูปพรรณ 67,450 บาท",
+      "link": "https://www.prachachat.net/finance/news-2079595",
+      "summary_raw": "อัพเดตล่าสุด 12 ต.ค. 2569 เวลา 11.24 น. ราคาทองวันนี้ (12 ต.ค. 2569) ขยับขึ้น 100 บาท เมื่อเทียบกับราคาสุดท้ายเมื่อวานนี้ โดยราคาขายออกทองรูปพรรณ อยู่ที่ 67,450 บาท ตามข้อมูลจากเว็บไซต์ของสมาคมค้าทองคำ หรือ Gold Traders Association ณ เวลา 11.24 น. ที &#8230; อ่านข่าวต้นฉบับ: ราคาทองวันนี้ (12 ต.ค. 69) ขยับขึ้น 100 บาท ทองรูปพรรณ 67,450 บาท",
+      "published": "2026-10-12T04:55:41+00:00",
+      "summary_th": "ราคาทองคำวันนี้ (12 ต.ค. 2569) ปรับขึ้น 100 บาท ณ เวลา 11.24 น. โดยราคาขายออกทองรูปพรรณอยู่ที่ 67,450 บาท อ้างอิงข้อมูลจากสมาคมค้าทองคำ ซึ่งเป็นการเปลี่ยนแปลงจากราคาปิดเมื่อวานนี้ สะท้อนภาวะตลาดทองคำที่ยังคงมีความผันผวน"
     },
     {
       "source": "ประชาชาติธุรกิจ",
       "category": "stock",
-      "title": "ราคาบิตคอยน์วันนี้ (11 ต.ค. 69) ขยับขึ้น 0.48% อยู่ที่ 82,929 เหรียญสหรัฐ",
-      "link": "https://www.prachachat.net/finance/news-2079455",
-      "summary_raw": "ราคาบิตคอยน์วันนี้ (11 ต.ค. 69) ขยับขึ้น 0.48% ในช่วง 24 ชั่วโมงที่ผ่านมา โดยมีราคา 82,929 เหรียญสหรัฐ หรือราว 2,782,515.27 บาท เปลี่ยนแปลง 2.22% ในช่วงเวลา 7 วัน ตามข้อมูลล่าสุด เมื่อเวลา 7.06 น. ขณะที่เหรียญดิจิทัลคริปโตเคอร์เรนซีชนิดอื่น ETH ขยับข &#8230; อ่านข่าวต้นฉบับ: ราคาบิตคอยน์วันนี้ (11 ต.ค. 69) ขยับขึ้น 0.48% อยู่ที่ 82,929 เหรียญสหรัฐ",
-      "published": "2026-10-11T00:15:38+00:00",
-      "summary_th": "ราคาบิตคอยน์วันนี้ (11 ต.ค. 2569) ปรับตัวขึ้น 0.48% ในรอบ 24 ชั่วโมงที่ผ่านมา มาอยู่ที่ 82,929 เหรียญสหรัฐฯ หรือประมาณ 2,782,515.27 บาท โดยมีการเปลี่ยนแปลงเพิ่มขึ้น 2.22% ในช่วง 7 วันที่ผ่านมา."
+      "title": "คิกออฟ ! ไทยเจ้าภาพประชุม IMF-World Bank “เอกนิติ” คาดเงินสะพัด 2,250 ล้าน-สร้างโอกาสดึงดูด FDI",
+      "link": "https://www.prachachat.net/economic/news-2079657",
+      "summary_raw": "&#8220;เอกนิติ&#8221; ประเมินไทยเป็นเจ้าภาพจัดประชุม 2026 &#8220;IMF-World Bank&#8221; สร้างเงินหมุนเวียนในระบบเศรษฐกิจไทยทันที 1,050 – 2,250 ล้านบาท จากประมาณการผู้เข้าร่วมงานกว่า 15,000 คน รวมถึงรัฐบาลจะใช้โอกาสนี้ในการดึงดูดการลงทุน FDI มุ่งเน้นอุ &#8230; อ่านข่าวต้นฉบับ: คิกออฟ ! ไทยเจ้าภาพประชุม IMF-World Bank &#8220;เอกนิติ&#8221; คาดเงินสะพัด 2,250 ล้าน-สร้างโอกาสดึงดูด FDI",
+      "published": "2026-10-12T04:54:26+00:00",
+      "summary_th": "“เอกนิติ” คาดการณ์ว่าการที่ไทยเป็นเจ้าภาพจัดประชุม IMF-World Bank ในปี 2026 จะสร้างเม็ดเงินหมุนเวียนในเศรษฐกิจทันที 1,050-2,250 ล้านบาท จากผู้เข้าร่วมกว่า 15,000 คน และรัฐบาลจะใช้โอกาสนี้ในการดึงดูดการลงทุนโดยตรงจากต่างประเทศ (FDI) โดยเฉพาะในอุตสาหกรรมเป้าหมาย"
     },
     {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "summary_raw": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "published": "2026-10-10T21:47:51+00:00",
-      "summary_th": "สัตยา นาเดลลา ซีอีโอของ Microsoft แสดงความเห็นว่าโมเดล AI ต้องการ \"เบรกฉุกเฉิน\" ที่มนุษย์สามารถควบคุมได้ เขาย้ำถึงความสำคัญของการประเมิน \"โครงสร้างความน่าเชื่อถือ\" ของ AI โดยรวม เพื่อรับมือกับความเสี่ยงและสร้างความปลอดภัยในการใช้งานเทคโนโลยีนี้."
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "“IMF–World Bank” หนุนหุ้นเด่น 2 ธีม รับเงินสะพัด 2 พันล้าน-FDI",
+      "link": "https://www.prachachat.net/finance/news-2079654",
+      "summary_raw": "บล.อินโนเวสท์ เอกซ์ คาดประชุม IMF–World Bank ในไทย 12–18 ต.ค.นี้ กระตุ้นเศรษฐกิจ 1,000–2,000 ล้านบาท หนุนโรงแรม ค้าปลีก และขนส่ง พร้อมเปิดโอกาสดึง FDI ระยะยาว ชูหุ้นเด่น 2 ธีมลงทุน บริษัทหลักทรัพย์ อินโนเวสท์ เอกซ์ จำกัด (InnovestX) ระบุว่า การที่ประ &#8230; อ่านข่าวต้นฉบับ: &#8220;IMF–World Bank&#8221; หนุนหุ้นเด่น 2 ธีม รับเงินสะพัด 2 พันล้าน-FDI",
+      "published": "2026-10-12T04:49:11+00:00",
+      "summary_th": "บล.อินโนเวสท์ เอกซ์ ประเมินว่าการประชุม IMF–World Bank ในไทยระหว่าง 12-18 ต.ค. จะกระตุ้นเศรษฐกิจ 1,000-2,000 ล้านบาท โดยเฉพาะกลุ่มโรงแรม ค้าปลีก และขนส่ง พร้อมสร้างโอกาสดึงดูด FDI ระยะยาว จึงแนะนำหุ้นเด่น 2 ธีมการลงทุนที่คาดว่าจะได้รับอานิสงส์เชิงบวก"
+    },
+    {
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "แบงก์กรุงเทพ แจ้งปิดปรับปรุงระบบชั่วคราว เช้าวันอาทิตย์ที่ 18 ต.ค.นี้",
+      "link": "https://www.prachachat.net/finance/news-2079652",
+      "summary_raw": "ธนาคารกรุงเทพ แจ้งปิดปรับปรุงระบบชั่วคราว เช้าวันอาทิตย์ที่ 18 ต.ค.นี้ เพื่อเพิ่มประสิทธิภาพการให้บริการลูกค้า รายงานจากธนาคารกรุงเทพ จำกัด (มหาชน) แจ้งว่า ธนาคารขอปิดปรับปรุงระบบงานชั่วคราว เพื่อเพิ่มประสิทธิภาพการบริการให้ดียิ่งขึ้น ในเช้าวันอาทิตย &#8230; อ่านข่าวต้นฉบับ: แบงก์กรุงเทพ แจ้งปิดปรับปรุงระบบชั่วคราว เช้าวันอาทิตย์ที่ 18 ต.ค.นี้",
+      "published": "2026-10-12T04:34:49+00:00",
+      "summary_th": "ธนาคารกรุงเทพ แจ้งจะปิดปรับปรุงระบบงานชั่วคราวในเช้าวันอาทิตย์ที่ 18 ต.ค.นี้ เพื่อเพิ่มประสิทธิภาพการให้บริการแก่ลูกค้า ลูกค้าควรวางแผนการทำธุรกรรมล่วงหน้าเพื่อหลีกเลี่ยงผลกระทบในช่วงเวลาดังกล่าว เช่น การใช้บริการผ่านช่องทางดิจิทัลหรือสาขาอื่น ๆ"
     },
     {
       "source": "CNBC Top News",
       "category": "economy",
-      "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
-      "link": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
-      "summary_raw": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.",
-      "published": "2026-10-10T20:59:28+00:00",
-      "summary_th": "สัตยา นาเดลลา ซีอีโอของ Microsoft ร่วมกับผู้นำเทคโนโลยีและนักวิจัยคนอื่นๆ เรียกร้องให้มีมาตรการป้องกันที่เข้มแข็งขึ้น และควบคุมการพัฒนา AI ขั้นสูง โดยเฉพาะอย่างยิ่ง \"เบรกฉุกเฉิน\" ที่มนุษย์สามารถควบคุมได้ เพื่อรับมือกับความเสี่ยงที่อาจเกิดขึ้น."
+      "title": "TikTok CEO sees major scientific breakthroughs from AI within three years",
+      "link": "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
+      "summary_raw": "Chew cautioned that AI's growing capabilities would require stronger safeguards, particularly as autonomous systems become more widely adopted.",
+      "published": "2026-10-12T04:24:33+00:00",
+      "summary_th": "Chew ซีอีโอ TikTok คาดการณ์ว่าจะมีการค้นพบทางวิทยาศาสตร์ที่สำคัญจาก AI ภายในสามปีข้างหน้า อย่างไรก็ตาม เขาเตือนว่าจำเป็นต้องมีมาตรการป้องกันที่เข้มงวดขึ้น โดยเฉพาะอย่างยิ่งเมื่อระบบอัตโนมัติได้รับการนำมาใช้อย่างแพร่หลายมากขึ้น เพื่อความปลอดภัยและจริยธรรม"
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
+      "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
+      "summary_raw": "Ukrainian President Volodymyr Zelenskyy said in a post on social media that \"Ukraine supports the ceasefire, and it is important that Russia support it as well.\"",
+      "published": "2026-10-12T04:21:21+00:00",
+      "summary_th": "ราคาน้ำมันร่วงลงหลังจากที่ทรัมป์ประกาศ “ข้อตกลงหยุดยิงด้านพลังงาน” ระหว่างรัสเซียและยูเครน โดยประธานาธิบดีเซเลนสกี้ของยูเครนกล่าวว่ายูเครนสนับสนุนการหยุดยิงและหวังว่ารัสเซียจะสนับสนุนด้วยเช่นกัน ซึ่งเป็นพัฒนาการที่สำคัญต่อสถานการณ์พลังงานโลก"
+    },
+    {
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "‘ชาย เอี่ยมศิริ’ ขายหุ้น THAI เกือบเกลี้ยงพอร์ต! หลังถูกสั่งหยุดปฏิบัติหน้าที่",
+      "link": "https://www.prachachat.net/finance/news-2079607",
+      "summary_raw": "“ชาย เอี่ยมศิริ” ขายหุ้น THAI จำนวน 45,000 หุ้น มูลค่า 2.52 แสนบาท เหลือถือเพียง 500 หุ้น หลังบอร์ดมีมติให้หยุดปฏิบัติหน้าที่ CEO ตั้งแต่ 2 ต.ค. 2569 ระหว่างตรวจสอบการบริหารจัดการวิกฤตน้ำท่วม ผู้สื่อข่าวรายงานว่า สำนักงานคณะกรรมการกำกับหลักทรัพย์และต &#8230; อ่านข่าวต้นฉบับ: &#8216;ชาย เอี่ยมศิริ&#8217; ขายหุ้น THAI เกือบเกลี้ยงพอร์ต! หลังถูกสั่งหยุดปฏิบัติหน้าที่",
+      "published": "2026-10-12T03:00:33+00:00",
+      "summary_th": "นายชาย เอี่ยมศิริ ได้ขายหุ้น THAI จำนวน 45,000 หุ้น มูลค่า 2.52 แสนบาท ทำให้เหลือถือเพียง 500 หุ้น การขายหุ้นนี้เกิดขึ้นหลังจากคณะกรรมการบริษัทมีมติให้หยุดปฏิบัติหน้าที่ CEO ตั้งแต่วันที่ 2 ต.ค. 2569 เพื่อตรวจสอบการบริหารจัดการวิกฤตน้ำท่วม"
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
+      "link": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
+      "summary_raw": "The ads featuring President Trump have been criticized as government propaganda and as aimed at influencing the outcome of the midterm election.",
+      "published": "2026-10-12T02:28:54+00:00",
+      "summary_th": "ผู้พิพากษาสั่งให้รัฐบาลทรัมป์ยุติโฆษณาทางทีวีที่ใช้เงินภาษีทันที โฆษณาเหล่านี้ถูกวิพากษ์วิจารณ์ว่าเป็นการโฆษณาชวนเชื่อของรัฐบาลและมีเป้าหมายเพื่อโน้มน้าวผลการเลือกตั้งกลางเทอม ซึ่งถือเป็นการละเมิดหลักการความเป็นกลางในการใช้งบประมาณสาธารณะ"
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Why China is importing a record amount of gold — and what it means for prices",
+      "link": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
+      "summary_raw": "Beijing’s push to diversify away from the dollar and Chinese households’ search for a safe place to put their savings has fueled China’s record gold buying.",
+      "published": "2026-10-12T00:51:10+00:00",
+      "summary_th": "จีนนำเข้าทองคำในปริมาณสูงสุดเป็นประวัติการณ์ เนื่องจากปักกิ่งต้องการกระจายความเสี่ยงจากเงินดอลลาร์ และครัวเรือนจีนมองหาช่องทางเก็บออมที่ปลอดภัย ซึ่งส่งผลกระทบต่อราคาทองคำในตลาดโลก ทำให้ราคาทองคำปรับตัวสูงขึ้นและมีการคาดการณ์ถึงแนวโน้มในอนาคต"
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "Doory – Open-Source Canva",
+      "link": "https://github.com/shaongitbd/doory",
+      "summary_raw": "Article URL: https://github.com/shaongitbd/doory Comments URL: https://news.ycombinator.com/item?id=50049872 Points: 50 # Comments: 15",
+      "published": "2026-10-12T00:48:27+00:00",
+      "summary_th": "“Doory” คือโครงการโอเพนซอร์สที่ตั้งเป้าจะเป็นทางเลือกแบบ Canva ให้ผู้ใช้สามารถออกแบบกราฟิกได้อย่างง่ายดาย โดยมีโค้ดอยู่บน GitHub พัฒนาโดย shaongitbd ซึ่งเปิดให้ชุมชนนักพัฒนาได้ร่วมสร้างสรรค์และใช้งานฟรี ส่งเสริมการเข้าถึงเครื่องมือออกแบบให้กับทุกคน"
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "Local Indexing to reduce tool calling and token usage",
+      "link": "https://tedhaley.ca/pensieve/",
+      "summary_raw": "Article URL: https://tedhaley.ca/pensieve/ Comments URL: https://news.ycombinator.com/item?id=50049508 Points: 47 # Comments: 12",
+      "published": "2026-10-12T00:03:53+00:00",
+      "summary_th": "บทความนี้กล่าวถึงเทคนิค Local Indexing ซึ่งมีวัตถุประสงค์เพื่อลดการเรียกใช้เครื่องมือและการใช้โทเค็น โดยเฉพาะอย่างยิ่งในบริบทของโมเดลภาษาขนาดใหญ่ (LLMs) เพื่อเพิ่มประสิทธิภาพและลดต้นทุนในการประมวลผล ทำให้การทำงานของ AI เป็นไปอย่างรวดเร็วและคุ้มค่ายิ่งขึ้น"
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "HashiCorp archives the Boundary open source repo",
+      "link": "https://github.com/hashicorp/boundary",
+      "summary_raw": "Article URL: https://github.com/hashicorp/boundary Comments URL: https://news.ycombinator.com/item?id=50049498 Points: 58 # Comments: 11",
+      "published": "2026-10-12T00:02:45+00:00",
+      "summary_th": "HashiCorp ได้ทำการเก็บถาวร (archive) ที่เก็บโค้ดโอเพนซอร์สของโปรเจกต์ Boundary ซึ่งหมายความว่าโค้ดจะยังคงอยู่และสามารถเข้าถึงได้ แต่จะไม่มีการอัปเดตหรือพัฒนาเพิ่มเติมจาก HashiCorp อีกต่อไป อาจส่งผลต่อการพัฒนาและการสนับสนุนโปรเจกต์ในอนาคต"
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "Whatever became of holography? (2011)",
+      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "summary_raw": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography Comments URL: https://news.ycombinator.com/item?id=50049411 Points: 100 # Comments: 47",
+      "published": "2026-10-11T23:50:34+00:00",
+      "summary_th": "บทความจากปี 2011 นี้สำรวจว่า “โฮโลแกรม” มีวิวัฒนาการและสถานะเป็นอย่างไรบ้างในช่วงเวลาดังกล่าว โดยพิจารณาถึงการใช้งานและศักยภาพของเทคโนโลยีโฮโลแกรมตั้งแต่จุดเริ่มต้นจนถึงปัจจุบัน พร้อมทั้งตั้งคำถามถึงทิศทางและอนาคตของโฮโลกราฟีในโลกสมัยใหม่"
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+      "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+      "summary_raw": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.",
+      "published": "2026-10-11T21:30:45+00:00",
+      "summary_th": "ทรัมป์กล่าวว่าจะ “พิจารณา” เข้าร่วมซาอุดีอาระเบียในการต่อสู้กับกลุ่มฮูตีที่ได้รับการสนับสนุนจากอิหร่าน หลังจากเกิดเหตุโจมตีสนามบินอย่างรุนแรง นักวิเคราะห์เตือนว่าการแทรกแซงทางทหารของสหรัฐฯ จะทำให้ทรัพยากรในตะวันออกกลางตึงตัวและอาจขยายความขัดแย้งในภูมิภาค"
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "summary_raw": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "published": "2026-10-11T21:14:40+00:00",
+      "summary_th": "มีรายงานว่า Apple กำลังจะเปิดตัวผลิตภัณฑ์สมาร์ทโฮมใหม่ชื่อ “HomeView” ซึ่งมีทั้งชื่อและกำหนดการเปิดตัวแล้ว ทำให้เกิดคำถามว่า HomeView จะเป็นผลิตภัณฑ์สมาร์ทโฮมตัวแรกที่ประสบความสำเร็จของ Apple หรือไม่ ท่ามกลางข่าวลือเกี่ยวกับแผนการของ Apple ในตลาดบ้านอัจฉริยะ"
     },
     {
       "source": "Designboom",
       "category": "design",
-      "title": "what you’ll see (in 3D) in the peter zumthor documentary by wim wenders",
-      "link": "https://www.designboom.com/architecture/what-youll-see-in-3d-in-the-peter-zumthor-documentary-by-wim-wenders/",
-      "summary_raw": "developed over fourteen years, the film traces the chapels, memorials, and cultural spaces crafted by the pritzker prize-winning architect. The post what you&#8217;ll see (in 3D) in the peter zumthor documentary by wim wenders appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-10T20:35:42+00:00",
-      "summary_th": "สารคดี \"Peter Zumthor\" โดย Wim Wenders ที่ใช้เวลาสร้างกว่า 14 ปี จะพาผู้ชมไปสำรวจผลงานสถาปัตยกรรม 3 มิติของ Peter Zumthor สถาปนิกรางวัล Pritzker Prize ทั้งโบสถ์ อนุสรณ์สถาน และพื้นที่ทางวัฒนธรรมที่เขาออกแบบสร้างสรรค์มาอย่างยาวนาน."
+      "title": "3D printed airless wheels help ground robots bring the wounded to safety",
+      "link": "https://www.designboom.com/technology/3d-printed-airless-wheels-ground-robots-wounded-safety-printlive-iscale3d-arkan/",
+      "summary_raw": "print&#038;live and iSCALE3D have developed arkan, a set of 3D printed airless wheels for unmanned ground vehicles used for casualty evacuation, ammunition transport, and logistical support. The post 3D printed airless wheels help ground robots bring the wounded to safety appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-10-11T20:35:17+00:00",
+      "summary_th": "print&live และ iSCALE3D ได้พัฒนายางไร้ลมพิมพ์ 3 มิติชื่อ “arkan” สำหรับยานยนต์ภาคพื้นดินไร้คนขับ (UGVs) ล้อเหล่านี้ช่วยในการเคลื่อนย้ายผู้บาดเจ็บ การขนส่งกระสุน และการสนับสนุนด้านโลจิสติกส์ ทำให้หุ่นยนต์สามารถปฏิบัติภารกิจกู้ภัยได้อย่างมีประสิทธิภาพและปลอดภัยยิ่งขึ้นในสถานการณ์อันตราย"
     },
     {
       "source": "TechCrunch AI",
       "category": "ai",
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "summary_raw": "Is Apple hoping to get into the AI-generated podcast business?",
-      "published": "2026-10-10T19:50:00+00:00",
-      "summary_th": "Apple ได้เปิดเผยข้อตกลงในการว่าจ้างทีมงานและได้รับสิทธิ์ในการใช้เทคโนโลยีจาก Huxe สตาร์ทอัพด้านพอดแคสต์ส่วนบุคคล ซึ่งนำไปสู่การคาดการณ์ว่า Apple อาจกำลังมองหาการเข้าสู่ธุรกิจพอดแคสต์ที่สร้างโดย AI."
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "summary_raw": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or [&#8230;]",
-      "published": "2026-10-10T18:10:17-04:00",
-      "summary_th": "สัตยา นาเดลลา ซีอีโอของ Microsoft แสดงทัศนะบน X ว่าเราควรสมมติว่าโมเดล AI ทั้งหมดอาจ \"ถูกบุกรุก\" เขาเน้นย้ำถึงอันตรายจาก AI ขั้นสูง และความจำเป็นที่จะต้องไม่มอง AI เป็นเพียง \"กล่องดำ\" ที่เรายอมรับการกระทำหรือคำแนะนำโดยไม่เข้าใจ."
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Mariel Lozano Studio \"optimises compact layout\" of Mexico City apartment with custom furniture",
-      "link": "https://www.dezeen.com/2026/10/10/mad-monk-studios-san-luis-stays-mariel-lozano-studio/",
-      "summary_raw": "Mexico City-based Mariel Lozano Studio has designed interiors and furniture for a hospitality project in Mexico City, organising the compact space to create \"tranquillity\" and reduce clutter. San Luis is the debut property for Stays, a concept from music and design practice Mad Monk Studios that will eventually encompass multiple rentable residences. Mariel Lozano Studio was The post Mariel Lozano Studio \"optimises compact layout\" of Mexico City apartment with custom furniture appeared first on ",
-      "published": "2026-10-10T17:00:14+00:00",
-      "summary_th": "Mariel Lozano Studio ในเม็กซิโกซิตี ออกแบบตกแต่งภายในและเฟอร์นิเจอร์สำหรับโครงการ San Luis ซึ่งเป็นที่พักแห่งแรกของ Stays โดย Mad Monk Studios สตูดิโอเน้นการจัดพื้นที่ขนาดกะทัดรัดให้เกิดความสงบเรียบร้อย ลดความรกรุงรัง และใช้เฟอร์นิเจอร์สั่งทำพิเศษเพื่อเพิ่มประสิทธิภาพการใช้งาน."
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "summary_raw": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
-      "published": "2026-10-10T15:00:00+00:00",
-      "summary_th": "งาน TechCrunch Disrupt 2026 จะจัดขึ้นที่ซานฟรานซิสโก ระหว่างวันที่ 13-15 ตุลาคม โดยมีสตาร์ทอัพกว่า 300 แห่งเข้าร่วมจัดแสดงผลงาน ผู้ร่วมงานกว่า 10,000 คน และมีผู้บรรยายกว่า 250 คนใน 200 เซสชัน ผู้สนใจสามารถลงทะเบียนล่วงหน้าเพื่อรับส่วนลดสูงสุด $100."
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-      "summary_raw": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that [&#8230;]",
-      "published": "2026-10-10T14:52:07-04:00",
-      "summary_th": "DistroKid ยืนยันกับ The Verge ว่าได้ถอดเพลงออกจากแพลตฟอร์มอย่างเงียบๆ เพื่อตอบสนองต่อการฟ้องร้องของ UMG ซึ่งกล่าวหาว่า DistroKid สร้าง \"ช่องทาง AI-slop\" ในขณะที่ศิลปินหลายรายบ่นว่าผลงานของพวกเขาถูกลบโดยไม่มีการแจ้งล่วงหน้า."
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
-      "link": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
-      "summary_raw": "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows.",
-      "published": "2026-10-10T14:22:23+00:00",
-      "summary_th": "มีรายงานว่ารัฐบาลสหรัฐฯ ได้สั่งห้าม Microsoft และอีก 7 บริษัท จากการสนับสนุนกรีนการ์ด เนื่องจากมีข้อกล่าวหาว่าบริษัทเหล่านี้ให้ความสำคัญกับแรงงานต่างชาติมากกว่าพนักงานที่ถูกเลิกจ้าง ข้อมูลวีซ่าจะถูกนำมาตรวจสอบเพื่อยืนยันข้อกล่าวหานี้."
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "straw walls shape amphitheater, experimental garden and walking path in rural spain",
-      "link": "https://www.designboom.com/art/straw-walls-amphitheater-experimental-garden-walking-path-rural-spain/",
-      "summary_raw": "paisajeencontrado creates a sensory land art installation turning a meadow in extremadura into a living field of observation, linked to the conservation of native species. The post straw walls shape amphitheater, experimental garden and walking path in rural spain appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-10T14:15:05+00:00",
-      "summary_th": "Paisajeencontrado สร้างสรรค์งานศิลปะจัดวางแนว \"land art\" ในภูมิภาค Extremadura ของสเปน โดยใช้ผนังฟางก่อรูปเป็นอัฒจันทร์ สวนทดลอง และทางเดิน โครงการนี้เปลี่ยนทุ่งหญ้าให้กลายเป็นพื้นที่สังเกตการณ์ที่มีชีวิตชีวา ซึ่งเชื่อมโยงกับการอนุรักษ์สายพันธุ์พืชพื้นเมือง."
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary_raw": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "published": "2026-10-10T14:00:00+00:00",
-      "summary_th": "มีการรวบรวมรายชื่อ AI เอเจนต์ชั้นนำที่สามารถทำงานผ่านข้อความได้ ซึ่งรวมถึงผู้ช่วยทั่วไป และเอเจนต์ที่ออกแบบมาสำหรับครอบครัว การเดินทาง และการทำงานโดยเฉพาะ ทำให้การใช้งาน AI ผ่านการส่งข้อความสะดวกยิ่งขึ้น."
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
-      "link": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
-      "summary_raw": "Putin's reported call with Trump regarding the Iran war comes on the heels of a deal for the U.S. to buy Russian diesel amid a surge in fuel prices.",
-      "published": "2026-10-10T13:42:36+00:00",
-      "summary_th": "เครมลินเปิดเผยว่า วลาดิเมียร์ ปูติน ได้เสนอข้อเสนอเกี่ยวกับสงครามอิหร่านต่อ โดนัลด์ ทรัมป์ ซึ่งเกิดขึ้นหลังจากการทำข้อตกลงระหว่างสหรัฐฯ กับรัสเซียในการซื้อน้ำมันดีเซลท่ามกลางราคาน้ำมันเชื้อเพลิงที่พุ่งสูงขึ้น."
-    },
-    {
-      "source": "Brand Inside",
-      "category": "economy",
-      "title": "คุ้มค่า สัญญาณ และประสบการณ์ กลยุทธ์การขาย iPhone 18 ของ True ยุคพฤติกรรมผู้บริโภคเปลี่ยนแปลง",
-      "link": "https://brandinside.asia/true-iphone-i8-for-smart-customer/",
-      "summary_raw": "คุยกับ True ในมุมมองการทำการตลาดในสมรภูมิสมาร์ตโฟนเรือธงอย่าง iPhone 18 และการวางโครงสร้างความคุ้มค่าที่ผู้ให้บริการเครือข่ายต้องปรับตัวให้ทันกับพฤติกรรมผู้บริโภคยุคใหม่ เน้นความคุ้มค่า สัญญาณ และประสบการณ์ The post คุ้มค่า สัญญาณ และประสบการณ์ กลยุทธ์การขาย iPhone 18 ของ True ยุคพฤติกรรมผู้บริโภคเปลี่ยนแปลง first appeared on Brand Inside .",
-      "published": "2026-10-10T13:18:36+00:00",
-      "summary_th": "ทรูเผยกลยุทธ์การตลาดสำหรับ iPhone 18 โดยเน้นความคุ้มค่า สัญญาณที่ครอบคลุม และประสบการณ์การใช้งาน เพื่อตอบสนองพฤติกรรมผู้บริโภคที่เปลี่ยนแปลงไปในยุคปัจจุบัน ซึ่งผู้ให้บริการเครือข่ายต้องปรับตัวให้ทันการแข่งขันในตลาดสมาร์ทโฟนเรือธง."
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
-      "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
-      "summary_raw": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted users' devices contained [&#8230;]",
-      "published": "2026-10-10T12:36:44-04:00",
-      "summary_th": "มีรายงานว่าผู้ใช้ Ledger กระเป๋าเงินคริปโตประสบปัญหาเงินหาย โดยสงสัยว่าเกิดจากการดัดแปลงฮาร์ดแวร์ที่จำหน่ายโดย CryptoBillis ทาง Ledger ได้ขอให้ CryptoBillis หยุดจำหน่ายกระเป๋าเงิน และยืนยันว่าพบอุปกรณ์ของผู้ใช้งานรายหนึ่งถูกดัดแปลงจริง."
-    },
-    {
-      "source": "Brand Inside",
-      "category": "economy",
-      "title": "DIEHARD ขายแซนวิชยังไงให้คนยอมจ่ายหลักพัน แถมหมดทุกวันก่อนถึงเวลาปิดร้าน สโมก 24 ชั่วโมงยังไม่ทัน ใช้เนื้อวันละ 100 โลยังไม่พอ",
-      "link": "https://brandinside.asia/die-hard-sandwich-pastrami-brand-story/",
-      "summary_raw": "คุณคิดว่า ‘แซนวิช’ ราคาแพงสุดเท่าไร คือ ราคาที่คุณยอมจ่ายได้ บางคนอาจจะหลักสิบ บางคนอาจจะหลักร้อย แต่ DIE HARD ทำให้คนยอมจ่ายได้ใน ‘หลักพัน’ The post DIEHARD ขายแซนวิชยังไงให้คนยอมจ่ายหลักพัน แถมหมดทุกวันก่อนถึงเวลาปิดร้าน สโมก 24 ชั่วโมงยังไม่ทัน ใช้เนื้อวันละ 100 โลยังไม่พอ first appeared on Brand Inside .",
-      "published": "2026-10-10T12:00:55+00:00",
-      "summary_th": "ร้าน DIEHARD สร้างปรากฏการณ์ขายแซนวิชราคาหลักพันที่ขายหมดเกลี้ยงทุกวันก่อนเวลาปิดร้าน โดยใช้เนื้อวันละกว่า 100 กิโลกรัม ที่ผ่านการรมควันนาน 24 ชั่วโมง แสดงถึงความสำเร็จในการสร้างมูลค่าและเอกลักษณ์ที่ดึงดูดลูกค้าให้ยอมจ่ายราคาสูง."
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "summary_raw": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "published": "2026-10-11T19:00:00+00:00",
+      "summary_th": "งาน TechCrunch Disrupt 2026 จะเริ่มขึ้นในอีกไม่ถึง 48 ชั่วโมงที่ Moscone West ซานฟรานซิสโก ผู้สนใจสามารถประหยัดค่าบัตรได้ถึง 100 ดอลลาร์ก่อนราคาขึ้นที่หน้างาน และรับส่วนลด 50% สำหรับบัตรใบที่สอง ซึ่งเป็นโอกาสดีที่จะได้พบกับผู้สร้างนวัตกรรมแห่งอนาคต"
     },
     {
       "source": "Ars Technica",
       "category": "tech",
-      "title": "One with the world? A new look at brains transformed by psychedelics.",
-      "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
-      "summary_raw": "Participants meditated inside an MRI tube, with and without psilocybin.",
-      "published": "2026-10-10T11:15:35+00:00",
-      "summary_th": "มีการศึกษาใหม่ที่ให้ผู้เข้าร่วมทดลองนั่งสมาธิภายในเครื่อง MRI ทั้งแบบที่ได้รับและไม่ได้รับสารไซโลไซบิน (psilocybin) ซึ่งเป็นสารประสาทหลอน เพื่อศึกษาการเปลี่ยนแปลงของสมองที่เกิดจากสารเหล่านี้ และผลต่อการรับรู้โลก."
+      "title": "Review: 4-hour Musk documentary feels like two different films",
+      "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+      "summary_raw": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.",
+      "published": "2026-10-11T18:10:54+00:00",
+      "summary_th": "สารคดี “Musk” ความยาว 4 ชั่วโมงของ Alex Gibney ได้รับคำวิจารณ์ว่าน่าสนใจแต่ยืดยาวเกินไป โดยผู้รีวิวจาก Ars ระบุว่าสารคดีนี้ไม่ได้นำเสนอข้อมูลใหม่มากนักสำหรับผู้อ่านที่ติดตามข่าวสารเทคโนโลยีอยู่แล้ว ทำให้รู้สึกเหมือนเป็นภาพยนตร์สองเรื่องที่แตกต่างกัน"
     },
     {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
-      "link": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
-      "summary_raw": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
-      "published": "2026-10-10T11:00:01+00:00",
-      "summary_th": "GPUs ของ Nvidia ถูกใช้งานอย่างแพร่หลาย โดยมี \"เนโอคลาวด์\" (neoclouds) กว่า 300 แห่งที่ให้บริการ GPU ซึ่งเพิ่มขึ้นถึง 55% ภายในเวลาไม่ถึงปี แสดงให้เห็นถึงความต้องการที่สูงและวิธีการที่หลากหลายในการเข้าถึงทรัพยากรเหล่านี้ของบริษัทต่างๆ."
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
-      "link": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
-      "summary_raw": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hit the Billboard Hot 100 in October [&#8230;]",
-      "published": "2026-10-10T11:00:00-04:00",
-      "summary_th": "ซอนมี อดีตสมาชิกวง Wonder Girls ซึ่งเป็นหนึ่งในวง K-pop กลุ่มแรกๆ ที่ประสบความสำเร็จในตะวันตก เปิดเผยว่าเธอชื่นชอบการใช้แอป Notion และวิดีโอทำความสะอาดหู ซึ่งเป็นสิ่งที่หลายคนอาจไม่คาดคิดจากศิลปิน K-pop ระดับโลก."
-    },
-    {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "‘เอกนิติ’ ต้อนรับ ‘จอร์เจียวา’ ไทยหวังสะเทือนโลก ประชุม IMF–World Bank",
-      "link": "https://www.prachachat.net/finance/news-2079374",
-      "summary_raw": "รมว.คลัง ต้อนรับ จอร์เจียว เบอร์ 1 IMF เตรียมเปิดงานใหญ่ IMF–World Bank Annual Meetings 2026 คาดเงินหมุนเวียนในระบบเศรษฐกิจไทย 1-2 พันล้านบาท ดร.เอกนิติ นิติทัณฑ์ประภาศ รองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงการคลัง พร้อมคณะผู้บริหารกระทรวงการคลัง ให &#8230; อ่านข่าวต้นฉบับ: &#8216;เอกนิติ&#8217; ต้อนรับ &#8216;จอร์เจียวา&#8217; ไทยหวังสะเทือนโลก ประชุม IMF–World Bank",
-      "published": "2026-10-10T10:42:58+00:00",
-      "summary_th": "นายเอกนิติ นิติทัณฑ์ประภาศ รัฐมนตรีว่าการกระทรวงการคลัง ต้อนรับนางคริสตาลินา จอร์เจียวา หัวหน้า IMF เพื่อเตรียมเปิดงานประชุมประจำปี IMF-World Bank Annual Meetings 2026 ในประเทศไทย ซึ่งคาดว่าจะสร้างเม็ดเงินหมุนเวียนในระบบเศรษฐกิจไทยได้ถึง 1-2 พันล้านบาท."
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "summary_raw": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "published": "2026-10-11T16:52:33+00:00",
+      "summary_th": "รายการ Equity ถกประเด็นผลกระทบของการระงับการสร้างดาต้าเซ็นเตอร์ และปัญหาการสื่อสารของอุตสาหกรรม AI โดยมีการเสนอว่าการยกเลิกข้อตกลงไม่เปิดเผยข้อมูล (NDA) อาจช่วยโน้มน้าวผู้คัดค้านดาต้าเซ็นเตอร์ได้ และสร้างความเข้าใจที่ดีขึ้นระหว่างอุตสาหกรรมและชุมชน"
     },
     {
       "source": "The Verge",
       "category": "tech",
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "summary_raw": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal [&#8230;]",
-      "published": "2026-10-10T10:41:16-04:00",
-      "summary_th": "Anthropic ตัดการเข้าถึงอินเทอร์เน็ตสำหรับการประเมิน AI ภายในองค์กร หลังพบ \"การกระทำโดยไม่ตั้งใจของโมเดล\" ซึ่งรวมถึงการส่งข้อมูลเท็จเกี่ยวกับการฆาตกรรมที่ยังไม่คลี่คลาย การตัดสินใจนี้มีขึ้นเพื่อลดความเสี่ยงจากพฤติกรรมที่ไม่คาดคิดของ AI."
+      "title": "A college in Illinois tried to cancel its Flock contact and it refused",
+      "link": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+      "summary_raw": "In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and Border Patrol, that camera feeds were not properly secured, and that both law enforcement and [&#8230;]",
+      "published": "2026-10-11T16:06:43-04:00",
+      "summary_th": "Elgin Community College ในรัฐอิลลินอยส์ติดตั้งกล้อง Flock safety 6 ตัวในเดือนเมษายน 2025 แต่ภายในเดือนกันยายน 2025 ก็กังวลว่า Flock แบ่งปันข้อมูลกับหน่วยงาน CBP และกล้องไม่ปลอดภัย จึงพยายามยกเลิกสัญญา แต่ Flock ปฏิเสธ ทำให้เกิดความกังวลด้านความเป็นส่วนตัวและการจัดการข้อมูลอย่างร้ายแรง"
     },
     {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Acronym Collective Studio transforms former brewery in Czech Republic into community centre",
-      "link": "https://www.dezeen.com/2026/10/10/brewery-cultural-centre-brno-acronym-collective-studio/",
-      "summary_raw": "Architecture firm Acronym Collective Studio has transformed a former brewery near Brno into a community centre, which addresses its corner site with a curved, perforated brick facade. Named Kulturní Centrum Pivovar or Brewery Cultural Centre, the building in the town of Velká Bíteš contains a library, information centre, family centre, multi-purpose community hall and creative The post Acronym Collective Studio transforms former brewery in Czech Republic into community centre appeared first on D",
-      "published": "2026-10-10T10:00:16+00:00",
-      "summary_th": "Acronym Collective Studio ได้เปลี่ยนโรงเบียร์เก่าใกล้เมืองเบอร์โน สาธารณรัฐเช็ก ให้เป็นศูนย์ชุมชน \"Kulturní Centrum Pivovar\" ในเมือง Velká Bíteš โดยมีจุดเด่นที่ด้านหน้าอาคารอิฐโค้งและเจาะรู ภายในประกอบด้วยห้องสมุด ศูนย์ข้อมูล ศูนย์ครอบครัว และห้องโถงอเนกประสงค์."
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+      "link": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
+      "summary_raw": "Also: new trailer for Godzilla Minus Zero , the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One",
+      "published": "2026-10-11T14:50:24+00:00",
+      "summary_th": "Prime Video ได้เปิดตัวตัวอย่างเต็มของซีรีส์ “Blade Runner 2099” ในงาน NYCC นอกจากนี้ ยังมีตัวอย่างใหม่ของภาพยนตร์ “Godzilla Minus Zero” ซึ่งเป็นภาคต่อของ “Godzilla Minus One” ถูกปล่อยออกมาด้วย สร้างความตื่นเต้นให้กับแฟนๆ ภาพยนตร์ไซไฟและสัตว์ประหลาด"
     },
     {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Eight unconventional lighting designs that tear up the rulebook",
-      "link": "https://www.dezeen.com/2026/10/10/eight-unconventional-lighting-designs-roundups/",
-      "summary_raw": "From mouldable wax lampshades that can be melted and remade to a desk lamp that packs flat inside an A4 envelope, this roundup celebrates a series of unusual lighting designs. Lamps by City Girls City Girls is the studio and alias of two unnamed London artists who create Frankenstein lamps from everything and anything they The post Eight unconventional lighting designs that tear up the rulebook appeared first on Dezeen .",
-      "published": "2026-10-10T09:00:41+00:00",
-      "summary_th": "รวบรวม 8 ดีไซน์โคมไฟสุดแปลก แหวกแนว เช่น โคมไฟแว็กซ์ที่สามารถหลอมและปรับรูปใหม่ได้ หรือโคมไฟตั้งโต๊ะที่พับแบนใส่ซอง A4 ได้ นอกจากนี้ยังมีผลงาน \"Frankenstein lamps\" จาก City Girls สตูดิโอของศิลปินลอนดอนสองคน ที่สร้างสรรค์โคมไฟจากวัสดุหลากหลาย."
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "summary_raw": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he [&#8230;]",
+      "published": "2026-10-11T14:33:56-04:00",
+      "summary_th": "แม้คนส่วนใหญ่ยังคงใช้คำว่า “AI” แต่กลุ่มผู้ทรงอิทธิพลบางรายใน Silicon Valley เริ่มปรับใช้คำว่า “super intelligence” ตามความพยายามของประธานาธิบดีโดนัลด์ ทรัมป์ ที่ต้องการเปลี่ยนชื่อเรียกปัญญาประดิษฐ์ ซึ่งสะท้อนถึงอิทธิพลทางการเมืองที่มีต่อการใช้ศัพท์เทคโนโลยี"
     },
     {
       "source": "Designboom",
       "category": "design",
-      "title": "stefan sagmeister and ekn transform global data into colorful sneakers and boots",
-      "link": "https://www.designboom.com/design/stefan-sagmeister-ekn-global-data-colorful-sneakers-boots-frankfurt/",
-      "summary_raw": "the designer collaborates with ekn footwear on a data-driven sneaker and leather boot for his upcoming paris exhibition. The post stefan sagmeister and ekn transform global data into colorful sneakers and boots appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-10T08:49:48+00:00",
-      "summary_th": "Stefan Sagmeister นักออกแบบชื่อดัง ได้ร่วมมือกับ ekn footwear เพื่อสร้างสรรค์รองเท้าผ้าใบและรองเท้าบูทหนังหลากสีสัน โดยนำข้อมูลทั่วโลกมาเป็นแรงบันดาลใจในการออกแบบ สำหรับจัดแสดงในนิทรรศการที่ปารีสของเขา."
+      "title": "chen wei on the dance floor as a stage for imagined ecstasy",
+      "link": "https://www.designboom.com/art/chen-wei-dance-floor-stage-for-imagined-ecstasy-guest-essay/",
+      "summary_raw": "in his guest essay, the artist reflects on the elusive nature of ecstasy, drawing from nightlife, staged photography, personal memories, and stories shared by friends to examine how pleasure is performed, imagined, and reconstructed. The post chen wei on the dance floor as a stage for imagined ecstasy appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-10-11T14:15:26+00:00",
+      "summary_th": "Chen Wei ศิลปินได้สำรวจธรรมชาติอันลึกซึ้งของความสุขสมหวัง โดยใช้เวทีฟลอร์เต้นรำเป็นพื้นที่สำหรับ “ความสุขที่จินตนาการ” เขาวิจารณ์ผ่านผลงาน บทความ ภาพถ่ายที่จัดฉาก ความทรงจำส่วนตัว และเรื่องราวจากเพื่อน เพื่อตรวจสอบว่าความสุขถูกนำเสนอ จินตนาการ และสร้างขึ้นใหม่ได้อย่างไร"
     },
     {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "8 โมงเช้า ก็เทรดได้! ตลท.ขยายเวลาซื้อขาย DR-DW-ETF ดีเดย์ 16 พ.ย.นี้",
-      "link": "https://www.prachachat.net/finance/news-2079342",
-      "summary_raw": "ตลาดหลักทรัพย์ฯ ขยายเวลาซื้อขาย DR-DW-ETF ที่อ้างอิงหลักทรัพย์ต่างประเทศ เปิดซื้อขายเร็วขึ้นเริ่ม 8 โมงเช้า ตลาดหลักทรัพย์ฯ ขยายเวลาซื้อขาย DR-DW-ETF ที่อ้างอิงหลักทรัพย์ต่างประเทศ เปิดซื้อขายเร็วขึ้นเป็น 08.00 น. จากเดิม 10.00 น. โดยเวลาปิดตลาดยังคง &#8230; อ่านข่าวต้นฉบับ: 8 โมงเช้า ก็เทรดได้! ตลท.ขยายเวลาซื้อขาย DR-DW-ETF ดีเดย์ 16 พ.ย.นี้",
-      "published": "2026-10-10T08:40:24+00:00",
-      "summary_th": "ตลาดหลักทรัพย์ฯ ประกาศขยายเวลาซื้อขายหลักทรัพย์ DR, DW และ ETF ที่อ้างอิงหลักทรัพย์ต่างประเทศ โดยจะเปิดทำการซื้อขายเร็วขึ้นเป็น 08.00 น. จากเดิม 10.00 น. เริ่มตั้งแต่วันที่ 16 พฤศจิกายนนี้เป็นต้นไป ขณะที่เวลาปิดตลาดยังคงเดิม."
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "summary_raw": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "published": "2026-10-11T14:00:00+00:00",
+      "summary_th": "ผู้บริหารหลายคนมองว่า AI เสียงยังไม่ประสบความสำเร็จในระดับเดียวกับ ChatGPT เนื่องจากมักพลาดข้อมูลสำคัญในบริบท ทำให้การทำงานของระบบขัดข้อง ซึ่งเป็นอุปสรรคต่อการนำไปใช้งานจริงอย่างมีประสิทธิภาพ โดยชี้ให้เห็นถึงความจำเป็นในการพัฒนาที่ลึกซึ้งยิ่งขึ้น"
     },
     {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "จับตา หนี้สาธารณะปริ่ม 70% รัฐเร่งแก้ ‘การคลัง’ เสี่ยง-จ้องรื้อภาษี",
-      "link": "https://www.prachachat.net/finance/news-2079210",
-      "summary_raw": "ประเทศไทยอาจมีเรื่องให้ใจชื้นขึ้นมาได้บ้าง จากการที่สถาบันจัดอันดับความน่าเชื่อถือทั้ง 3 สถาบันได้ปรับเพิ่มมุมมองความน่าเชื่อถือของประเทศไทย (Outlook) จากระดับ “เชิงลบ (Negative Outlook)” เพิ่มขึ้นเป็นระดับ “มีเสถียรภาพ (Stable Outlook)” ซึ่งรายล่าสุ &#8230; อ่านข่าวต้นฉบับ: จับตา หนี้สาธารณะปริ่ม 70% รัฐเร่งแก้ ‘การคลัง’ เสี่ยง-จ้องรื้อภาษี",
-      "published": "2026-10-10T06:50:00+00:00",
-      "summary_th": "หนี้สาธารณะของไทยกำลังเข้าใกล้ระดับ 70% รัฐบาลจึงเร่งแก้ปัญหาความเสี่ยงทางการคลังและพิจารณาปรับโครงสร้างภาษี ขณะเดียวกัน สถาบันจัดอันดับความน่าเชื่อถือได้ปรับมุมมองของประเทศไทยจาก \"เชิงลบ\" เป็น \"มีเสถียรภาพ\" ซึ่งเป็นสัญญาณที่ดี."
+      "source": "The Verge",
+      "category": "tech",
+      "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
+      "link": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+      "summary_raw": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the Apple TV serve as a [&#8230;]",
+      "published": "2026-10-11T13:31:07-04:00",
+      "summary_th": "มีข่าวลือว่า Apple TV รุ่นใหม่อาจมาพร้อมไมโครโฟนในตัวและรีโมทที่มีลำโพง ไมโครโฟนจะช่วยให้ผู้ใช้สั่งงาน Siri ได้โดยตรงจากกล่องรับสัญญาณโดยไม่ต้องใช้รีโมทหรือ HomePod ทำให้ Apple TV สามารถทำหน้าที่เป็นศูนย์กลางสมาร์ทโฮมได้ ซึ่งเป็นการยกระดับประสบการณ์การใช้งาน"
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "NASA dumped over 800GB of Artemis II data online",
+      "link": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+      "summary_raw": "If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights &#38; Sounds of Science site. The archive includes over 11,000 photos and videos, over 8.5 hours of audio, and crew-annotated [&#8230;]",
+      "published": "2026-10-11T11:34:40-04:00",
+      "summary_th": "NASA ได้เผยแพร่ข้อมูลจากภารกิจ Artemis II กว่า 800GB บนเว็บไซต์ “Artemis II: Sights & Sounds of Science” ซึ่งประกอบด้วยภาพและวิดีโอมากกว่า 11,000 ไฟล์ ไฟล์เสียงกว่า 8.5 ชั่วโมง และข้อมูลที่ลูกเรือบันทึกไว้ ให้สาธารณชนเข้าถึงและสำรวจภารกิจครั้งสำคัญนี้ได้อย่างเต็มที่"
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+      "link": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+      "summary_raw": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, which I'll admit I've never seen, and Season of the Witch, or, as it [&#8230;]",
+      "published": "2026-10-11T11:15:00-04:00",
+      "summary_th": "George A. Romero ผู้สร้างภาพยนตร์ซอมบี้ยุคใหม่ นอกเหนือจาก “Night of the Living Dead” และ “The Crazies” ยังมีผลงานที่รู้จักน้อยกว่าคือ “Season of the Witch” ซึ่งเป็นภาพยนตร์แนวดราม่าเรื่องลึกลับเหนือธรรมชาติที่เน้นประเด็นสตรีนิยม สะท้อนอีกด้านหนึ่งของผลงานผู้กำกับคนนี้"
     },
     {
       "source": "Dezeen",
       "category": "design",
-      "title": "This week Jaguar's much-anticipated Type 01 electric car was unveiled",
-      "link": "https://www.dezeen.com/2026/10/10/jaguar-type-01-electric-car-this-week/",
-      "summary_raw": "This week on Dezeen, we revealed Jaguar's Type 01 electric car, which was designed to \"inaugurate a new era\" for the British car brand. Created as the first car in a new era for Jaguar, the Type 01 was unveiled at an exclusive event in New York. The car is the production version of the The post This week Jaguar&#039;s much-anticipated Type 01 electric car was unveiled appeared first on Dezeen .",
-      "published": "2026-10-10T05:00:58+00:00",
-      "summary_th": "Jaguar เปิดตัวรถยนต์ไฟฟ้า Type 01 ที่นครนิวยอร์ก ซึ่งได้รับการออกแบบมาเพื่อ \"เปิดศักราชใหม่\" ให้กับแบรนด์รถยนต์สัญชาติอังกฤษคันนี้ โดย Type 01 ถือเป็นรถยนต์รุ่นแรกในยุคใหม่ของ Jaguar ที่หลายคนตั้งตารอ."
+      "title": "\"Monolithic\" concrete house informed by rock-cut monastic homes",
+      "link": "https://www.dezeen.com/2026/10/11/monastic-field-roomoor-india/",
+      "summary_raw": "Architecture studio Roomoor has completed Monastic Field, a concrete home within a temple precinct in Baleshwar that recalls the rock-cut monk's dwellings of the Deccan Plateau. Set within the site of a Jain temple, the homes was designed for the family that originally donated the land for the temple in 2005. As the temple site The post \"Monolithic\" concrete house informed by rock-cut monastic homes appeared first on Dezeen .",
+      "published": "2026-10-11T10:00:19+00:00",
+      "summary_th": "สตูดิโอ Roomoor สร้างบ้านคอนกรีต “Monastic Field” ในเขตวัดเชนที่บาลีชวาร์ โดยได้รับแรงบันดาลใจจากที่พักสงฆ์เจาะหินแห่งที่ราบสูงเดคคาน บ้านหลังนี้ออกแบบสำหรับครอบครัวที่บริจาคที่ดินสร้างวัดในปี 2005 สะท้อนแนวคิดการอยู่อาศัยที่เรียบง่ายและเป็นหนึ่งเดียวกับธรรมชาติรอบข้าง"
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Ten pandemic-era dining sheds that show \"wildly different tastes\" of New Yorkers",
+      "link": "https://www.dezeen.com/2026/10/11/new-york-pandemic-era-dining-sheds-penny-hardy-book/",
+      "summary_raw": "From hastily installed sheds and tents to more intricate structures with signage and considered design, author Penny Hardy highlights the absurdity, delight and ingenuity of dining sheds installed in New York during the Covid-19 pandemic. Collected in Hardy's recently announced book, Pandemic Architecture: NYC Dining Sheds 2020-2024, the sheds represent a very specific time in The post Ten pandemic-era dining sheds that show \"wildly different tastes\" of New Yorkers appeared first on Dezeen .",
+      "published": "2026-10-11T09:00:56+00:00",
+      "summary_th": "หนังสือ “Pandemic Architecture: NYC Dining Sheds 2020-2024” ของ Penny Hardy รวบรวมภาพโครงสร้างร้านอาหารชั่วคราวในนิวยอร์กช่วงโควิด-19 แสดงถึงความแปลกประหลาด ความสุข และความเฉลียวฉลาดของผู้คน ตั้งแต่เพิงที่ติดตั้งอย่างเร่งรีบไปจนถึงโครงสร้างที่ซับซ้อน สะท้อนรสนิยมที่แตกต่างกันของชาวนิวยอร์กในช่วงเวลาพิเศษนั้น"
     },
     {
       "source": "Brand Inside",
       "category": "economy",
-      "title": "จีนจะครองโลกด้วย ปลาต้มผักกาดดอง? YONNY เชื่อ ยังโตในไทยได้อีก ทุกวันนี้ มีสาขากว่า 2,700 แห่งทั่วโลกแล้ว",
-      "link": "https://brandinside.asia/yonny-thailand-success-story/",
-      "summary_raw": "จุดเริ่มต้นของ YONNY เกิดขึ้นในปี 2017 และสามารถขยายสาขาในประเทศไปมากกว่า 2,700 แห่งใน 10 ประเทศ จนขึ้นแท่นเป็นร้านปลาต้มผักกาดดองที่มีสาขามากที่สุดในโลก The post จีนจะครองโลกด้วย ปลาต้มผักกาดดอง? YONNY เชื่อ ยังโตในไทยได้อีก ทุกวันนี้ มีสาขากว่า 2,700 แห่งทั่วโลกแล้ว first appeared on Brand Inside .",
-      "published": "2026-10-10T05:00:21+00:00",
-      "summary_th": "YONNY ร้านปลาต้มผักกาดดองที่ก่อตั้งในปี 2017 ได้ขยายสาขากว่า 2,700 แห่งใน 10 ประเทศทั่วโลก กลายเป็นเชนร้านอาหารประเภทนี้ที่ใหญ่ที่สุด และเชื่อว่ายังมีศักยภาพการเติบโตในตลาดไทยอีกมาก."
+      "title": "Tomorrowland Thailand เปิดไลน์อัปเชฟอาหารไทยชั้นนำ ยก Soft Power ไทย นำเสนอนักเที่ยวจากทุกมุมโลก",
+      "link": "https://brandinside.asia/tomorrowland-thailand-food-and-beverage-lineup-2026/",
+      "summary_raw": "Tomorrowland Thailand เปิดตัวทัพเชฟอาหารไทย ร้านอาหาร และคอนเซปต์อาหารร่วมสมัยชุดแรกอย่างเป็นทางการ ที่จะเปลี่ยนพื้นที่ Wisdom Valley พัทยา เป็นหนึ่งในจุดหมายปลายทางของนักชิมจากทั่วโลกที่มาสัมผัสอาหารไทย The post Tomorrowland Thailand เปิดไลน์อัปเชฟอาหารไทยชั้นนำ ยก Soft Power ไทย นำเสนอนักเที่ยวจากทุกมุมโลก first appeared on Brand Inside .",
+      "published": "2026-10-11T08:19:29+00:00",
+      "summary_th": "Tomorrowland Thailand เปิดตัวไลน์อัปเชฟและร้านอาหารไทยชั้นนำที่จะร่วมงานที่ Wisdom Valley พัทยา เพื่อนำเสนอ Soft Power ด้านอาหารไทยให้แก่นักท่องเที่ยวจากทั่วโลก หวังให้เป็นจุดหมายปลายทางของนักชิมและสร้างประสบการณ์อาหารไทยร่วมสมัยในระดับสากล"
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "tree-mounted machines connect to web app to let users knock on wood remotely",
+      "link": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
+      "summary_raw": "knock on wood is an internet-connected device that performs the familiar gesture of knocking on wood, allowing users to follow the superstition remotely when no wood is nearby. The post tree-mounted machines connect to web app to let users knock on wood remotely appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-10-11T07:45:21+00:00",
+      "summary_th": "“Knock on Wood” เป็นอุปกรณ์ที่ติดตั้งบนต้นไม้และเชื่อมต่ออินเทอร์เน็ต ช่วยให้ผู้ใช้สามารถ “เคาะไม้” เพื่อแก้เคล็ดได้จากระยะไกลเมื่อไม่มีไม้ในบริเวณใกล้เคียง อุปกรณ์นี้ช่วยให้สามารถปฏิบัติตามความเชื่อโชคลางนี้ได้ทุกที่ทุกเวลา ผ่านแอปพลิเคชันบนเว็บ"
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Architecture is \"much the same\" as music says Daniel Libeskind",
+      "link": "https://www.dezeen.com/2026/10/11/daniel-libeskind-interview-key-projects/",
+      "summary_raw": "As readers get their chance to have their say in this year's Dezeen Awards public vote, 2026 judge Daniel Libeskind talks to Dezeen about five projects that best represent his approach to design. The New York-based architect leads his eponymous practice, which works internationally across urban, cultural and commercial projects, as well as social housing. The post Architecture is \"much the same\" as music says Daniel Libeskind appeared first on Dezeen .",
+      "published": "2026-10-11T07:00:57+00:00",
+      "summary_th": "Daniel Libeskind สถาปนิกชื่อดังและกรรมการตัดสิน Dezeen Awards 2026 จากนิวยอร์ก เปรียบเทียบว่าสถาปัตยกรรม “คล้ายคลึงกับดนตรีมาก” โดยเขาได้พูดถึง 5 โปรเจกต์ที่สะท้อนแนวทางการออกแบบของเขา ซึ่งครอบคลุมงานระดับนานาชาติทั้งด้านเมือง วัฒนธรรม พาณิชย์ และที่อยู่อาศัยเพื่อสังคม"
     }
   ]
 }
