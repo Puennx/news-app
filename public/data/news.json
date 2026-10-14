@@ -1,412 +1,367 @@
 {
-  "updated_at": "2026-10-13T06:13:24.180223+00:00",
-  "date": "2026-10-13",
-  "count": 45,
+  "updated_at": "2026-10-14T04:17:44.268229+00:00",
+  "date": "2026-10-14",
+  "count": 40,
   "items": [
     {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-      "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-      "summary_raw": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 3 # Comments: 0",
-      "published": "2026-10-13T05:57:32+00:00",
-      "summary_th": "IMF เตือนว่าความเสี่ยงจากการที่ราคาหุ้นบริษัท AI อาจตกต่ำลงอย่างรุนแรง อาจส่งผลคุกคามต่อเสถียรภาพทางการเงินทั่วโลก และอาจนำไปสู่ปัญหาหนี้สิน การกู้ยืม และการโจมตีทางไซเบอร์ได้ ซึ่งเป็นสิ่งที่ต้องจับตามองอย่างใกล้ชิด."
-    },
-    {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "ราคาทองวันนี้ (13 ต.ค. 69) ขยับขึ้น 150 บาท ทองรูปพรรณ 67,400 บาท",
-      "link": "https://www.prachachat.net/finance/news-2080048",
-      "summary_raw": "อัพเดตล่าสุด 13 ต.ค. 2569 เวลา 12.51 น. ราคาทองคำประจำวันนี้ (13 ต.ค. 2569) ขยับขึ้น 150 บาท เมื่อเทียบกับราคาสุดท้ายเมื่อวานนี้ โดยราคาขายออกทองรูปพรรณ อยู่ที่ 67,400 บาท ตามข้อมูลล่าสุด จากเว็บไซต์ของสมาคมค้าทองคำ เมื่อเวลา 12.51 น. ที่ผ่านมา ทองคำ &#8230; อ่านข่าวต้นฉบับ: ราคาทองวันนี้ (13 ต.ค. 69) ขยับขึ้น 150 บาท ทองรูปพรรณ 67,400 บาท",
-      "published": "2026-10-13T05:53:54+00:00",
-      "summary_th": "ราคาทองคำวันนี้ (13 ต.ค. 2569) ปรับขึ้น 150 บาท ส่งผลให้ราคาขายออกทองรูปพรรณอยู่ที่ 67,400 บาท อ้างอิงจากข้อมูลล่าสุดของสมาคมค้าทองคำ ณ เวลา 12.51 น. แสดงถึงการเปลี่ยนแปลงของตลาดทองคำ."
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Vi Hart's Big Navier-Stokes Post",
-      "link": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
-      "summary_raw": "Article URL: https://www.patreon.com/vihart/posts/vi-harts-big-171939430 Comments URL: https://news.ycombinator.com/item?id=50067098 Points: 7 # Comments: 2",
-      "published": "2026-10-13T05:22:28+00:00",
-      "summary_th": "บทความ \"Vi Hart's Big Navier-Stokes Post\" นำเสนอการสำรวจสมการ Navier-Stokes อย่างลึกซึ้ง ซึ่งเป็นสมการสำคัญในการอธิบายการไหลของของเหลวและก๊าซ โดยมีการวิเคราะห์ที่ละเอียดและสร้างสรรค์ในเชิงคณิตศาสตร์และฟิสิกส์."
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
+      "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+      "summary_raw": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
+      "published": "2026-10-14T04:07:00+00:00",
+      "summary_th": "ราคาน้ำมันปรับตัวสูงขึ้น ท่ามกลางความตึงเครียดที่เพิ่มขึ้นในตะวันออกกลางระหว่างกลุ่มฮูตีที่ได้รับการสนับสนุนจากอิหร่านและซาอุดีอาระเบีย ซึ่งสร้างความกังวลเกี่ยวกับการหยุดชะงักของอุปทานน้ำมันในตลาดโลก และส่งผลกระทบต่อเศรษฐกิจโลกที่พึ่งพาน้ำมันจากภูมิภาคนี้เป็นอย่างมาก."
     },
     {
       "source": "CNBC Top News",
       "category": "economy",
-      "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-      "link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
-      "summary_raw": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
-      "published": "2026-10-13T04:54:07+00:00",
-      "summary_th": "IMF เตือนว่าความเสี่ยงในตลาดพันธบัตรรัฐบาลเลวร้ายลง อาจทำให้ผลตอบแทนพันธบัตรพุ่งสูงขึ้นอย่างรุนแรงและไร้ระเบียบ เนื่องจากหนี้และอัตราเงินเฟ้อมีความเสี่ยงเพิ่มขึ้น ซึ่งอาจส่งผลกระทบต่อเสถียรภาพทางการเงินทั่วโลก."
+      "title": "Judge indefinitely blocks Trump White House from banning 3 media outlets",
+      "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
+      "summary_raw": "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House.",
+      "published": "2026-10-14T03:54:49+00:00",
+      "summary_th": "ผู้พิพากษาได้สั่งห้ามทำเนียบขาวของโดนัลด์ ทรัมป์ ไม่ให้แบนสำนักข่าว 3 แห่ง ได้แก่ MS NOW, CNN และ Politico จากการรายงานข่าวอย่างไม่มีกำหนด ซึ่งเป็นการปกป้องเสรีภาพสื่อและสิทธิในการเข้าถึงข้อมูลของประชาชน นับเป็นชัยชนะครั้งสำคัญของสื่อในการยืนยันบทบาทการตรวจสอบรัฐบาล."
     },
     {
       "source": "CNBC Top News",
       "category": "economy",
-      "title": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
-      "link": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
-      "summary_raw": "Oil prices fell as investors assess potential supply disruptions against prospects of more Russian diesel entering global markets.",
-      "published": "2026-10-13T03:49:23+00:00",
-      "summary_th": "ราคาน้ำมันปรับตัวลดลง เนื่องจากนักลงทุนประเมินความเป็นไปได้ที่น้ำมันดีเซลของรัสเซียจะเข้าสู่ตลาดโลกมากขึ้น และความขัดแย้งระหว่างซาอุดีอาระเบียและกลุ่มฮูตี ซึ่งส่งผลกระทบต่ออุปทานและอุปสงค์ในตลาดโลก."
-    },
-    {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "‘ภัณฑิรา’ ชี้กองทุนประกันสังคมเสียโอกาสลงทุนวันละ 300 ล้าน เชื่อยกระดับสู่กองทุนโลกได้",
-      "link": "https://www.prachachat.net/finance/news-2080058",
-      "summary_raw": "ภัณฑิรา เวอร์การา อดีตผู้บริหาร Goldman Sachs เผยปัญหาความโปร่งใสของกองทุนประกันสังคม พร้อมชี้ค่าเสียโอกาสลงทุนวันละ 300 ล้านบาท เชื่อหากแก้ปัญหาเชิงโครงสร้างได้ จะสร้างผลตอบแทนทัดเทียมกองทุนระดับโลก ภัณฑิรา เวอร์การา ผู้เชี่ยวชาญด้านการเงิน อดีตผู้บ &#8230; อ่านข่าวต้นฉบับ: &#8216;ภัณฑิรา&#8217; ชี้กองทุนประกันสังคมเสียโอกาสลงทุนวันละ 300 ล้าน เชื่อยกระดับสู่กองทุนโลกได้",
-      "published": "2026-10-13T03:27:48+00:00",
-      "summary_th": "ภัณฑิรา เวอร์การา อดีตผู้บริหาร Goldman Sachs ชี้ว่ากองทุนประกันสังคมเสียโอกาสในการลงทุนวันละ 300 ล้านบาท เนื่องจากปัญหาความโปร่งใส เธอเชื่อว่าหากแก้ปัญหาเชิงโครงสร้างได้ กองทุนฯ จะสามารถสร้างผลตอบแทนทัดเทียมกองทุนระดับโลก."
-    },
-    {
-      "source": "Brand Inside",
-      "category": "economy",
-      "title": "Gen Y แบกภาระรอบด้าน แต่พักแค่ไหนก็ไม่หายเหนื่อย เพราะติดกับดัก ‘ให้รางวัลตัวเองมากไป’ ทั้งไถฟีดดึก-ดูซีรีส์เกินเวลา สุดท้ายไม่ได้พักอยู่ดี",
-      "link": "https://brandinside.asia/gen-y-over-self-reward/",
-      "summary_raw": "บางทีสิ่งที่เคยคิดว่าเป็นตัวช่วยผ่อนคลาย อาจไม่ได้เป็นแบบนั้นเสมอไป เพราะการ ‘ให้รางวัลตัวเอง’ มากเกินไป อาจทำให้ร่างกายและจิตใจไม่ได้มีช่วงหยุดพักอย่างแท้จริง The post Gen Y แบกภาระรอบด้าน แต่พักแค่ไหนก็ไม่หายเหนื่อย เพราะติดกับดัก ‘ให้รางวัลตัวเองมากไป’ ทั้งไถฟีดดึก-ดูซีรีส์เกินเวลา สุดท้ายไม่ได้พักอยู่ดี first appeared on Brand Inside .",
-      "published": "2026-10-13T03:00:37+00:00",
-      "summary_th": "ผลสำรวจชี้ Gen Y แบกภาระหนัก แม้พักผ่อนแต่ยังเหนื่อยล้า เนื่องจากติดกับดัก \"การให้รางวัลตัวเองมากเกินไป\" เช่น การไถฟีดหรือดูซีรีส์ดึกเกินเวลา ทำให้ร่างกายและจิตใจไม่ได้รับการพักผ่อนอย่างแท้จริง และส่งผลต่อสุขภาพ."
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
-      "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-      "summary_raw": "Asian technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into regional markets.",
-      "published": "2026-10-13T02:49:17+00:00",
-      "summary_th": "หุ้นเทคโนโลยีในเอเชีย รวมถึง SK Hynix และ SoftBank ดิ่งลงอย่างรุนแรงในวันอังคาร ตามการเทขายหุ้นกลุ่มเซมิคอนดักเตอร์ในตลาดวอลล์สตรีท ซึ่งส่งผลกระทบต่อตลาดหุ้นในภูมิภาคอย่างต่อเนื่อง."
+      "title": "China's producer prices rise at fastest pace since June 2022, beating expectations",
+      "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
+      "summary_raw": "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
+      "published": "2026-10-14T03:14:48+00:00",
+      "summary_th": "ราคาผู้ผลิตของจีนเพิ่มขึ้นในอัตราที่เร็วที่สุดนับตั้งแต่เดือนมิถุนายน 2022 ซึ่งสูงกว่าที่คาดการณ์ไว้ที่ 4.5% จากการสำรวจของ Reuters และสูงกว่าเดือนก่อนหน้าที่ 3.8% ตัวเลขนี้บ่งชี้ถึงแรงกดดันเงินเฟ้อที่เพิ่มขึ้นในห่วงโซ่อุปทานของจีน และอาจส่งผลกระทบต่อราคาผู้บริโภคในอนาคต."
     },
     {
       "source": "Hacker News",
       "category": "tech",
-      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
-      "link": "https://www.argmin.net/p/faster-fourier-transforms",
-      "summary_raw": "Article URL: https://www.argmin.net/p/faster-fourier-transforms Comments URL: https://news.ycombinator.com/item?id=50065932 Points: 84 # Comments: 53",
-      "published": "2026-10-13T02:46:43+00:00",
-      "summary_th": "มีการพิจารณาการคำนวณของ OpenAI ที่อ้างว่าสามารถประมวลผลการแปลงฟูเรียร์ (Fourier transforms) ได้เร็วกว่า โดยมีการวิเคราะห์วิธีการทางคณิตศาสตร์ที่ใช้ ซึ่งอาจเป็นความก้าวหน้าสำคัญในด้านการประมวลผลสัญญาณและ AI ที่จะส่งผลต่อประสิทธิภาพการทำงาน."
+      "title": "Is 'Attention' the Essence of Intelligence?",
+      "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "summary_raw": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 9 # Comments: 0",
+      "published": "2026-10-14T03:10:25+00:00",
+      "summary_th": "บทความนี้ตั้งคำถามสำคัญว่า \"ความสนใจ\" คือแก่นแท้ของปัญญาหรือไม่ ซึ่งเป็นแนวคิดที่นักวิจัยด้าน AI กำลังศึกษา เพื่อทำความเข้าใจกลไกพื้นฐานของการเรียนรู้และการคิดของทั้งมนุษย์และปัญญาประดิษฐ์ โดยเฉพาะอย่างยิ่งในการพัฒนาโมเดล AI ที่มีประสิทธิภาพสูงขึ้น ซึ่งต้องอาศัยการจัดลำดับความสำคัญของข้อมูล."
     },
     {
       "source": "CNBC Top News",
       "category": "economy",
-      "title": "How Red Bull's F1 team is using AI to make split-second decisions for Max Verstappen",
-      "link": "https://www.cnbc.com/2026/10/13/red-bull-f1-ai-max-verstappen.html",
-      "summary_raw": "Red Bull Racing is increasingly using AI to help make real-time Formula 1 race decisions, but the team says human judgment remains essential.",
-      "published": "2026-10-13T02:37:08+00:00",
-      "summary_th": "ทีม Red Bull Racing ใช้ AI เพิ่มขึ้นในการตัดสินใจแบบเรียลไทม์สำหรับการแข่งขัน Formula 1 เพื่อช่วย Max Verstappen อย่างไรก็ตาม ทีมยังคงยืนยันว่าการตัดสินใจของมนุษย์ยังคงมีความสำคัญและจำเป็นอยู่เสมอในการแข่งขันที่ซับซ้อน."
+      "title": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
+      "link": "https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html",
+      "summary_raw": "U.S. President Donald Trump said Tuesday that Taiwan had agreed to buy 30% of the gas from a pipeline project in Alaska.",
+      "published": "2026-10-14T02:09:00+00:00",
+      "summary_th": "โดนัลด์ ทรัมป์ ประธานาธิบดีสหรัฐฯ กล่าวว่าไต้หวันได้ตกลงที่จะซื้อก๊าซธรรมชาติ 30% จากโครงการ Alaska LNG ซึ่งเป็นข้อตกลงสำคัญที่เสริมสร้างความร่วมมือทางพลังงานระหว่างสองประเทศและส่งผลดีต่อเศรษฐกิจของทั้งคู่ แสดงให้เห็นถึงบทบาทของสหรัฐฯ ในการสนับสนุนไต้หวันและใช้พลังงานเป็นเครื่องมือทางการทูต."
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "link": "https://blumify.io/people",
+      "summary_raw": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 38 # Comments: 24",
+      "published": "2026-10-14T01:09:13+00:00",
+      "summary_th": "ผู้พัฒนารายหนึ่งได้สร้างเครื่องมือ Blumify.io เพื่อติดตามความคิดเห็นของผู้นำด้าน AI และการเปลี่ยนแปลงมุมมองของพวกเขาผ่านวิดีโอ ซึ่งเป็นวิธีใหม่ในการวิเคราะห์แนวโน้มและพัฒนาการของเทคโนโลยีปัญญาประดิษฐ์ในปัจจุบัน โดยเครื่องมือนี้ช่วยให้ผู้สนใจสามารถเข้าถึงและทำความเข้าใจความคิดเห็นจากผู้เชี่ยวชาญได้อย่างรวดเร็ว."
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "High-speed video reveals how honey bee stingers pump venom",
+      "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+      "summary_raw": "Article URL: https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/ Comments URL: https://news.ycombinator.com/item?id=50081133 Points: 36 # Comments: 6",
+      "published": "2026-10-14T01:05:23+00:00",
+      "summary_th": "วิดีโอความเร็วสูงได้เปิดเผยกลไกอันน่าทึ่งของการปล่อยพิษของเหล็กในผึ้ง โดยแสดงให้เห็นว่าเหล็กในของผึ้งทำงานเหมือนปั๊มลูกสูบคู่ ซึ่งช่วยให้ผึ้งสามารถฉีดพิษเข้าสู่เป้าหมายได้อย่างมีประสิทธิภาพ การค้นพบนี้เพิ่มความเข้าใจเกี่ยวกับสรีรวิทยาและพฤติกรรมการป้องกันตัวของแมลง และอาจมีผลต่อการวิจัยด้านชีววิทยา."
     },
     {
       "source": "CNBC Top News",
       "category": "economy",
-      "title": "Six Flags shares plunge after-hours following report of deadly roller coaster incident",
-      "link": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
-      "summary_raw": "Six Flags shares plunged more than 10% in after-hours trading Monday following reports of a deadly roller coaster incident at its Georgia amusement park.",
-      "published": "2026-10-13T02:29:14+00:00",
-      "summary_th": "หุ้น Six Flags ดิ่งลงกว่า 10% ในการซื้อขายหลังเวลาทำการในวันจันทร์ หลังมีรายงานเหตุการณ์เครื่องเล่นโรลเลอร์โคสเตอร์มรณะที่สวนสนุกในรัฐจอร์เจีย ซึ่งส่งผลกระทบต่อความเชื่อมั่นของนักลงทุนอย่างมากและอาจนำไปสู่การตรวจสอบด้านความปลอดภัย."
+      "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+      "link": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+      "summary_raw": "The Tuesday incident comes as the ChatGPT-maker, along with competitors, faces heightened scrutiny over its safety practices.",
+      "published": "2026-10-14T00:13:45+00:00",
+      "summary_th": "FBI ได้จับกุมพนักงานชาวซาอุดีอาระเบียของ OpenAI ที่ถูกกล่าวหาว่าติดตั้งอุปกรณ์บันทึกเสียงในห้องประชุม เหตุการณ์นี้เกิดขึ้นในวันอังคาร ท่ามกลางการตรวจสอบด้านความปลอดภัยที่เข้มงวดขึ้นต่อบริษัทผู้พัฒนา ChatGPT และคู่แข่ง ซึ่งตอกย้ำความกังวลเกี่ยวกับการรักษาความลับและความปลอดภัยภายในองค์กรเทคโนโลยีชั้นนำ."
     },
     {
       "source": "Designboom",
       "category": "design",
-      "title": "four pitched-roof volumes build timber-clad coastal house in belgium",
-      "link": "https://www.designboom.com/architecture/four-pitched-roof-volumes-timber-clad-coastal-house-of-cards-belgium/",
-      "summary_raw": "house of cards by vantieghem talebi follows the asymmetrical cruciform geometry of an existing foundation and draws on the steeply pitched roofs of traditional beach houses along the belgian coast. The post four pitched-roof volumes build timber-clad coastal house in belgium appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-13T02:10:12+00:00",
-      "summary_th": "สตูดิโอ Vantieghem Talebi ออกแบบบ้านพักริมชายฝั่ง “House of Cards” ในเบลเยียม อาคารประกอบด้วย 4 ทรงหลังคาทรงสูงที่หุ้มด้วยไม้ โดยมีรูปทรงแบบอสมมาตรตามฐานรากเดิม และได้แรงบันดาลใจจากบ้านชายหาดแบบดั้งเดิมในพื้นที่."
+      "title": "wheeled pencil cabinet’s yellow and pink drawers draw from armenian volcanic stone heritage",
+      "link": "https://www.designboom.com/design/wheeled-pencil-cabinet-yellow-pink-drawers-armenian-volcanic-stone-heritage-shushana-khachatrian-studio-shoo/",
+      "summary_raw": "shushana khachatrian of studio shoo designs the tuff pencil cabinet, a colorful, wheeled storage piece inspired by yerevan’s pink volcanic tuff and the chalk drawings found on its porous surfaces. The post wheeled pencil cabinet’s yellow and pink drawers draw from armenian volcanic stone heritage appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-10-13T23:55:27+00:00",
+      "summary_th": "Shushana Khachatrian จาก Studio Shoo ได้ออกแบบตู้เก็บดินสอ Tuff แบบมีล้อ ที่โดดเด่นด้วยลิ้นชักสีเหลืองและชมพู ดีไซน์นี้ได้รับแรงบันดาลใจจากหินภูเขาไฟ Tuff สีชมพูในกรุงเยเรวาน ประเทศอาร์เมเนีย และภาพวาดชอล์กบนพื้นผิวหินที่มีรูพรุน ซึ่งสะท้อนถึงมรดกทางวัฒนธรรมและธรรมชาติของอาร์เมเนียได้อย่างมีชีวิตชีวา."
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "summary_raw": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "published": "2026-10-13T23:13:31+00:00",
+      "summary_th": "Science Corporation ซึ่งนำโดย Max Hodak อดีตประธาน Neuralink ได้ฝังชิปฟื้นฟูการมองเห็นในผู้ป่วยโรค Stargardt เป็นรายแรก ซึ่งเป็นส่วนหนึ่งของการพัฒนา Brain-Computer Interface (BCI) ที่ล้ำสมัย โดยมีเป้าหมายเพื่อคืนการมองเห็นให้กับผู้ป่วย และเปิดประตูสู่การรักษาภาวะทางการแพทย์ที่เกี่ยวข้องกับการมองเห็นในอนาคต."
     },
     {
       "source": "Hacker News",
       "category": "tech",
-      "title": "The Dock on Mac, from OS 10 to macOS 27",
-      "link": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
-      "summary_raw": "Article URL: https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/ Comments URL: https://news.ycombinator.com/item?id=50065713 Points: 47 # Comments: 24",
-      "published": "2026-10-13T02:09:19+00:00",
-      "summary_th": "บทความนี้สำรวจวิวัฒนาการของแถบ Dock ในระบบปฏิบัติการ Mac ตั้งแต่ OS X ไปจนถึง macOS 27 โดยแสดงให้เห็นถึงการเปลี่ยนแปลงของไอคอนและฟังก์ชันการใช้งานตลอดหลายปีที่ผ่านมา สะท้อนถึงการพัฒนาอินเทอร์เฟซผู้ใช้ของ Apple."
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "link": "https://pulseos.finance",
+      "summary_raw": "Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs. I felt there are not enough consumer apps that run locally with no calls to the outside world that help us manage sensitive corners of our lives. This app in its local variant only downloads a couple of models and oc",
+      "published": "2026-10-13T23:13:23+00:00",
+      "summary_th": "Niz ได้พัฒนา Pulse Local แอปงบประมาณสำหรับ Mac (Apple Silicon, beta) ที่โดดเด่นด้วยการใช้โมเดล AI ประมวลผลข้อมูลบนเครื่องโดยตรง ทำให้ไม่ต้องมีบัญชีผู้ใช้ และข้อมูลทางการเงินทั้งหมดจะอยู่บนอุปกรณ์เท่านั้น ซึ่งช่วยเพิ่มความเป็นส่วนตัวสูงสุดและไม่ส่งข้อมูลวิเคราะห์ใดๆ ออกไปภายนอก ตอบโจทย์ผู้ที่ต้องการจัดการข้อมูลสำคัญด้วยความปลอดภัย."
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "summary_raw": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "published": "2026-10-13T23:05:34+00:00",
+      "summary_th": "แอนดรูว์ เฟลด์แมน ซีอีโอ Cerebras คาดการณ์ว่าในอนาคตอันใกล้ ผู้ช่วย AI ส่วนตัวจะกลายเป็นอุปกรณ์ในครัวเรือนที่แพร่หลายเทียบเท่ากับเครื่องใช้ไฟฟ้า โดยจะทำงานผสมผสานกันระหว่างการประมวลผลบนอุปกรณ์ภายในบ้านและการประมวลผลบนระบบคลาวด์ เพื่อมอบประสบการณ์ AI ส่วนบุคคลให้กับทุกคน สร้างความสะดวกสบายและเข้าถึงได้ง่ายในชีวิตประจำวัน."
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "summary_raw": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "published": "2026-10-13T23:00:00+00:00",
+      "summary_th": "Industrial Next มุ่งมั่นที่จะปฏิวัติกระบวนการผลิตในโรงงาน โดยมีเป้าหมายให้หุ่นยนต์สามารถเปลี่ยนงานที่ซับซ้อนและละเอียดอ่อนที่เคยต้องใช้แรงงานคนให้เสร็จสิ้นได้ภายในไม่กี่นาที แทนที่จะใช้เวลาเป็นสัปดาห์แบบเดิม ซึ่งจะช่วยเพิ่มประสิทธิภาพ ลดเวลาการปรับตั้งค่า และเร่งการผลิตได้อย่างมาก สนับสนุนการเปลี่ยนผ่านสู่โรงงานอัจฉริยะ."
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+      "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+      "summary_raw": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+      "published": "2026-10-13T22:48:12+00:00",
+      "summary_th": "มาร์ติน ชเครลี ถูกกล่าวหาจาก FTC ว่าได้ไลฟ์สตรีมการกระทำที่ละเมิดคำสั่งห้ามเกี่ยวข้องกับอุตสาหกรรมยาตลอดชีวิตของเขา โดยเขาได้กล่าวในไลฟ์ว่า \"ผมหาสต็อกหุ้นไบโอเทคมาปั่นได้เสมอ\" ซึ่งอาจนำไปสู่ปัญหาทางกฎหมายเพิ่มเติม และแสดงให้เห็นถึงการไม่เคารพต่อคำสั่งศาลและกฎระเบียบที่เข้มงวด."
     },
     {
       "source": "Hacker News",
       "category": "tech",
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "link": "https://arxiv.org/abs/2610.13928",
-      "summary_raw": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 107 # Comments: 52",
-      "published": "2026-10-13T02:07:08+00:00",
-      "summary_th": "ผลงานวิจัยชิ้นใหม่ชี้ว่าโมเดล AI สามารถซ่อนความสามารถใด ๆ ที่ไม่ต้องการเปิดเผยได้อย่างชัดเจน ซึ่งบ่งบอกถึงความซับซ้อนและช่องโหว่ที่อาจเกิดขึ้นในการควบคุมและทำความเข้าใจพฤติกรรมของ AI เป็นสิ่งสำคัญที่นักวิจัยและผู้พัฒนากำลังให้ความสนใจ."
+      "title": "Grace Hopper Celebration Cancelled",
+      "link": "https://anitab.org/press-release",
+      "summary_raw": "Article URL: https://anitab.org/press-release Comments URL: https://news.ycombinator.com/item?id=50080007 Points: 35 # Comments: 3",
+      "published": "2026-10-13T22:46:49+00:00",
+      "summary_th": "งาน Grace Hopper Celebration ซึ่งเป็นการรวมตัวครั้งใหญ่ที่สุดของสตรีในวงการเทคโนโลยี ได้ถูกยกเลิกแล้ว สร้างความผิดหวังให้กับผู้เข้าร่วมจำนวนมาก การยกเลิกครั้งนี้มีผลกระทบต่อโอกาสในการสร้างเครือข่ายและการเรียนรู้ของชุมชนเทคโนโลยี และเน้นย้ำถึงความท้าทายในการจัดงานขนาดใหญ่ในช่วงเวลาปัจจุบัน."
     },
     {
-      "source": "ประชาชาติธุรกิจ",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "summary_raw": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "published": "2026-10-13T22:36:59+00:00",
+      "summary_th": "แอนดรูว์ เฟลด์แมน ซีอีโอ Cerebras ได้ออกมาโต้แย้งคำเตือนเกี่ยวกับหายนะของ AI โดยเน้นย้ำว่าการที่อุตสาหกรรมมุ่งเน้นแต่ความเสี่ยงของ AI มากเกินไป กำลังบดบังประโยชน์และศักยภาพอันมหาศาลที่เทคโนโลยีนี้สามารถนำมาสู่โลก เขากระตุ้นให้ผู้นำในอุตสาหกรรมพิจารณาถึงประโยชน์ที่ AI สามารถมอบให้ได้มากขึ้น."
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
+      "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
+      "summary_raw": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
+      "published": "2026-10-13T21:55:49+00:00",
+      "summary_th": "สมาคมซอฟต์แวร์บันเทิง (ESA) พุ่งเป้าไปที่เครื่องเล่นเกม Anbernic โดยระบุว่าเป็น \"ของปลอมขั้นสุด\" ที่เอื้อต่อการละเมิดลิขสิทธิ์ โดยเฉพาะอย่างยิ่งจากผู้ขายบุคคลที่สามที่มักจะขายการ์ด SD ที่บรรจุ ROMs เกมละเมิดลิขสิทธิ์มาพร้อมกับเครื่อง ซึ่ง Anbernic ไม่ได้เป็นผู้จำหน่ายโดยตรง แต่ก็ได้รับผลกระทบจากข้อกล่าวหานี้."
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "Topgolf saved over $11.3 million after leaving VMware",
+      "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+      "summary_raw": "Topgolf and VMware \"ran deep\" before the migration.",
+      "published": "2026-10-13T21:33:43+00:00",
+      "summary_th": "Topgolf เปิดเผยว่าสามารถประหยัดค่าใช้จ่ายได้มากกว่า 11.3 ล้านดอลลาร์ หลังจากที่ตัดสินใจย้ายออกจากระบบของ VMware แม้ว่าก่อนหน้านี้ทั้งสองบริษัทจะมีความสัมพันธ์ทางธุรกิจที่ลึกซึ้งก็ตาม การเปลี่ยนแปลงครั้งนี้แสดงให้เห็นถึงความคุ้มค่าของการเปลี่ยนผ่านระบบและการหาโซลูชันที่เหมาะสมกับความต้องการของธุรกิจในระยะยาว."
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "summary_raw": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "published": "2026-10-13T20:36:44+00:00",
+      "summary_th": "ผู้พิพากษาศาลกลางมีคำสั่งให้ OpenAI ส่งมอบบันทึกการจ้างงาน รวมถึงเอกสารสัมภาษณ์ ข้อความส่วนตัว และคำให้การจากบุคคลสำคัญในคดีความลับทางการค้าที่ Apple ยื่นฟ้อง เพื่อตรวจสอบอดีตพนักงานของ Apple ที่ไปทำงานกับ OpenAI คำสั่งนี้มีจุดประสงค์เพื่อรวบรวมหลักฐานสำคัญในการพิจารณาคดีที่มีความอ่อนไหวสูง."
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "‘the body is my canvas, tool, and medium’: lucy mcrae discusses identity and the spaces we carry",
+      "link": "https://www.designboom.com/art/body-canvas-tool-medium-lucy-mcrae-spaces-future-sensitive-interview/",
+      "summary_raw": "from swallowable cosmetics to speculative costumes, the artist and designer uses worldbuilding to make emerging technologies tangible, asking how they might reshape our bodies, identities, and relationships with the future. The post ‘the body is my canvas, tool, and medium’: lucy mcrae discusses identity and the spaces we carry appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-10-13T20:35:36+00:00",
+      "summary_th": "ลูซี่ แม็คเร ศิลปินและนักออกแบบ ได้ใช้การสร้างโลกจำลองเพื่อทำให้เทคโนโลยีใหม่ๆ เป็นรูปธรรม ไม่ว่าจะเป็นเครื่องสำอางที่กินได้หรือชุดเครื่องแต่งกายเชิงจินตนาการ เธอสำรวจว่าเทคโนโลยีเหล่านี้จะปรับเปลี่ยนร่างกาย อัตลักษณ์ และความสัมพันธ์ของเรากับอนาคตได้อย่างไร โดยมองว่าร่างกายคือผืนผ้าใบและเครื่องมือของเธอในการสำรวจความเป็นไปได้ใหม่ๆ."
+    },
+    {
+      "source": "CNBC Markets",
       "category": "stock",
-      "title": "ราคาบิตคอยน์วันนี้ (13 ต.ค. 69) ปรับลง 2.1% อยู่ที่ 82,081 เหรียญสหรัฐ",
-      "link": "https://www.prachachat.net/finance/news-2080034",
-      "summary_raw": "ราคาบิตคอยน์วันนี้ (13 ต.ค. 69) ปรับลง -2.1% ในช่วง 24 ชั่วโมงที่ผ่านมา มาอยู่ที่ 82,081 เหรียญสหรัฐ หรือราว 2,759,563.22 บาท เปลี่ยนแปลง 4.46% ในช่วงเวลา 7 วัน ตามข้อมูลล่าสุด เมื่อเวลา 8.23 น. ที่ผ่านมา ขณะที่เหรียญดิจิทัลคริปโตเคอร์เรนซีชนิดอื่น E &#8230; อ่านข่าวต้นฉบับ: ราคาบิตคอยน์วันนี้ (13 ต.ค. 69) ปรับลง 2.1% อยู่ที่ 82,081 เหรียญสหรัฐ",
-      "published": "2026-10-13T01:24:41+00:00",
-      "summary_th": "ราคาบิตคอยน์วันนี้ (13 ต.ค. 2569) ปรับลดลง 2.1% ในรอบ 24 ชั่วโมง มาอยู่ที่ 82,081 ดอลลาร์สหรัฐฯ หรือประมาณ 2,759,563.22 บาท และมีการเปลี่ยนแปลง 4.46% ในรอบ 7 วัน แสดงถึงความผันผวนของตลาดคริปโตเคอร์เรนซี."
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "1930s cider press screw becomes sculptural stool in reclaimed wood and brushed aluminum",
-      "link": "https://www.designboom.com/design/1930s-cider-press-screw-sculptural-stool-reclaimed-wood-brushed-aluminum-le-pressoir-studio-jumel-ariane-ronot/",
-      "summary_raw": "le pressoir gives new life to a 1930s french cider press, reworking the agricultural object into a contemporary sculptural stool that brings its raw history into dialogue with refined aluminum craftsmanship. The post 1930s cider press screw becomes sculptural stool in reclaimed wood and brushed aluminum appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-12T23:55:21+00:00",
-      "summary_th": "“Le Pressoir” เปลี่ยนชิ้นส่วนสกรูจากเครื่องบีบไซเดอร์ฝรั่งเศสยุค 1930 ให้กลายเป็นเก้าอี้สตูลดีไซน์ประติมากรรม โดยผสานไม้เก่าเข้ากับอะลูมิเนียมขัดเงา นำประวัติศาสตร์ของวัตถุทางการเกษตรมาผสมผสานกับงานฝีมือสมัยใหม่."
+      "title": "We're upgrading our rating on Wells Fargo as the stock's pullback offers a nice entry point",
+      "link": "https://www.cnbc.com/investingclub/2026/10/13/were-upgrading-our-rating-on-wells-fargo-as-the-stocks-pullback-offers-a-nice-entry-point.html",
+      "summary_raw": "Wells Fargo's third-quarter results were not perfect, but CEO Charlie Scharf's turnaround should bear more fruit ahead.",
+      "published": "2026-10-13T19:51:06+00:00",
+      "summary_th": "เรากำลังปรับเพิ่มอันดับเครดิตของ Wells Fargo เนื่องจากราคาหุ้นที่ปรับตัวลงทำให้เป็นจุดเข้าซื้อที่น่าสนใจ แม้ผลประกอบการไตรมาสสามจะยังไม่สมบูรณ์ แต่คาดว่าแผนการฟื้นฟูภายใต้ซีอีโอ Charlie Scharf จะเริ่มส่งผลดีในอนาคตอันใกล้ และทำให้ธนาคารกลับมาแข็งแกร่งขึ้นอีกครั้ง."
     },
     {
       "source": "Ars Technica",
       "category": "tech",
-      "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
-      "link": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
-      "summary_raw": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
-      "published": "2026-10-12T21:54:35+00:00",
-      "summary_th": "หญิงวัย 39 ปีที่ไม่ได้ฉีดวัคซีนเสียชีวิตด้วยโรคหัดในรัฐเพนซิลเวเนีย ทำให้เป็นผู้เสียชีวิตรายที่ 6 ในรัฐนี้ ณ วันศุกร์ที่ผ่านมา เจ้าหน้าที่สาธารณสุขรายงานผู้ป่วยโรคหัด 1,136 รายทั่ว 41 มณฑล ซึ่งเน้นย้ำถึงความสำคัญของการฉีดวัคซีน."
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-      "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-      "summary_raw": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
-      "published": "2026-10-12T20:59:50+00:00",
-      "summary_th": "Epic Games มีรายงานว่าจะเปลี่ยนไปใช้โมเดลการพัฒนาเกมแบบ \"AI First\" ซึ่งหมายถึงการลดการเขียนโค้ดด้วยมือและการสร้างงานศิลปะโดยไม่ใช้ AI โดยเฉพาะสำหรับเกมยิง Marvel/Star Wars ที่ล่าช้าไป เพื่อเพิ่มประสิทธิภาพและลดเวลาการพัฒนา."
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
-      "link": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
-      "summary_raw": "You can get a universe in your pocket if you have an iPhone 11 or later.",
-      "published": "2026-10-12T20:26:14+00:00",
-      "summary_th": "หลังจาก 10 ปีของการพัฒนาอย่างต่อเนื่อง เกม No Man's Sky เตรียมเปิดตัวบน iPhone และ iPad โดยผู้เล่นจะสามารถสัมผัสประสบการณ์จักรวาลอันกว้างใหญ่ได้บนอุปกรณ์พกพา หากใช้ iPhone 11 หรือรุ่นใหม่กว่า เป็นการขยายฐานผู้เล่นให้กว้างขึ้น."
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
-      "link": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
-      "summary_raw": "Without a cause of death, it's unclear if Russia's precautions were the right ones.",
-      "published": "2026-10-12T18:46:43+00:00",
-      "summary_th": "รายงานของ WHO เกี่ยวกับการเสียชีวิตของพนักงานห้องปฏิบัติการในรัสเซียยังคง \"มีความไม่แน่นอนที่สำคัญ\" เนื่องจากยังไม่สามารถระบุสาเหตุการเสียชีวิตได้อย่างชัดเจน ทำให้ยังไม่สามารถประเมินได้ว่ามาตรการป้องกันของรัสเซียเหมาะสมหรือไม่."
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "summary_raw": "“I may have information regarding this case,\" Claude AI told Philly police.",
-      "published": "2026-10-12T18:21:36+00:00",
-      "summary_th": "Claude AI ของ Anthropic ได้ส่งข้อมูลเท็จเกี่ยวกับการฆาตกรรมไปยังตำรวจฟิลาเดลเฟีย โดยระบุว่า \"อาจมีข้อมูลเกี่ยวกับคดีนี้\" ซึ่งเป็นตัวอย่างที่แสดงให้เห็นถึงความท้าทายในการควบคุมและตรวจสอบข้อมูลที่ AI สร้างขึ้น เพื่อป้องกันการใช้ในทางที่ผิด."
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "sculptures made of timber and steel occupy raw concrete shell in seoul before demolition",
-      "link": "https://www.designboom.com/art/sculptures-timber-steel-raw-concrete-shell-seoul-demolition-ghost-barstairs-temporary-hypotheses-sukchulmok-kangyeon-lee-brbb/",
-      "summary_raw": "ghost barstairs: temporary hypotheses brings experimental furniture, sculpture, and plywood structures into a vacant concrete building in seoul, using its exposed frame to explore the possibilities of a space between demolition and renewal. The post sculptures made of timber and steel occupy raw concrete shell in seoul before demolition appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-12T18:10:04+00:00",
-      "summary_th": "นิทรรศการ “Ghost Barstairs: Temporary Hypotheses” จัดแสดงเฟอร์นิเจอร์ทดลอง ประติมากรรมไม้และเหล็ก รวมถึงโครงสร้างไม้อัด ภายในอาคารคอนกรีตเปลือยเปล่าที่กรุงโซล ก่อนถูกรื้อถอน เพื่อสำรวจความเป็นไปได้ของพื้นที่ช่วงเปลี่ยนผ่านระหว่างการทำลายและการสร้างใหม่."
+      "title": "Trump commercial railing against his enemies kept airing after court blocked it",
+      "link": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
+      "summary_raw": "US attorney apologized to court, said government has stopped running Trump ads.",
+      "published": "2026-10-13T19:50:37+00:00",
+      "summary_th": "โฆษณาโจมตีคู่แข่งของโดนัลด์ ทรัมป์ ยังคงออกอากาศต่อไปแม้ศาลจะมีคำสั่งบล็อกแล้ว ซึ่งต่อมาอัยการสหรัฐฯ ได้ออกมาขอโทษต่อศาลและยืนยันว่ารัฐบาลได้หยุดเผยแพร่โฆษณาของทรัมป์แล้ว เพื่อปฏิบัติตามคำสั่งศาลและหลีกเลี่ยงข้อครหาเกี่ยวกับการไม่เคารพคำตัดสินของกระบวนการยุติธรรม."
     },
     {
       "source": "Dezeen",
       "category": "design",
-      "title": "Profondo seating by Zenith Interiors among five new products on Dezeen Showroom",
-      "link": "https://www.dezeen.com/2026/10/12/profondo-seating-zenith-interiors-furniture-accessories-dezeen-showroom/",
-      "summary_raw": "Dezeen Showroom: a collection of fully upholstered, pillowy seating comprising a sofa and armchair is among five new products featured on Dezeen Showroom. Profondo seating by Zenith Interiors Australian workplace brand Zenith's Profondo seating range is made up of a sofa and armchair that share U-shaped armrests and thickly padded seats. Available in a selection The post Profondo seating by Zenith Interiors among five new products on Dezeen Showroom appeared first on Dezeen .",
-      "published": "2026-10-12T18:00:25+00:00",
-      "summary_th": "คอลเลกชันที่นั่ง Profondo จาก Zenith Interiors แบรนด์เฟอร์นิเจอร์สำนักงานออสเตรเลีย ถูกนำเสนอเป็นหนึ่งในห้าผลิตภัณฑ์ใหม่บน Dezeen Showroom โดยมีทั้งโซฟาและเก้าอี้เท้าแขนที่โดดเด่นด้วยเบาะหนานุ่มและที่วางแขนรูปตัว U เน้นความสบายและมีให้เลือกหลากหลาย."
+      "title": "OMA to convert Houston coffee plant into music school with instrument-informed architecture",
+      "link": "https://www.dezeen.com/2026/10/13/oma-convert-houston-coffee-plant-flama/",
+      "summary_raw": "Architecture studio OMA has broken ground on the Frank Liu Jr Academy for Music and Arts charter school in Houston, a pre-K through eighth-grade institution housed in a former coffee plant. The three-storey Frank Liu Jr Academy for Music and Arts (FLAMA) building will be organised around Montessori learning principles, according to the team, and The post OMA to convert Houston coffee plant into music school with instrument-informed architecture appeared first on Dezeen .",
+      "published": "2026-10-13T19:00:36+00:00",
+      "summary_th": "สตูดิโอสถาปัตยกรรม OMA เริ่มโครงการเปลี่ยนโรงงานกาแฟเก่าในฮิวสตันให้เป็นโรงเรียนสอนดนตรี Frank Liu Jr Academy for Music and Arts (FLAMA) สำหรับนักเรียนระดับอนุบาลถึงประถม 8 โดยมีสถาปัตยกรรมที่ได้รับแรงบันดาลใจจากเครื่องดนตรีและจัดตามหลักการเรียนรู้แบบมอนเตสซอรี่ ตัวอาคารสามชั้นนี้จะเป็นศูนย์กลางการศึกษาศิลปะและดนตรีที่ผสมผสานการออกแบบเข้ากับปรัชญาการเรียนรู้ได้อย่างลงตัว"
     },
     {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "summary_raw": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-      "published": "2026-10-12T17:56:56+00:00",
-      "summary_th": "Meta ได้เปิดตัวโมเดล AI \"Muse Wonder\" ซึ่งเป็นโมเดลขั้นสูงตัวแรกของบริษัท โดยเป็นโมเดลที่ใหญ่กว่าและมีความสามารถสูงกว่า Muse Spark อย่างมาก ทำคะแนน Benchmark ได้ดีขึ้น และให้ผลลัพธ์ที่ดีกว่าสำหรับงานที่ซับซ้อน เช่น การเขียนโค้ด."
-    },
-    {
-      "source": "The Verge",
+      "source": "Ars Technica",
       "category": "tech",
-      "title": "The Social Reckoning is flopping at the box office",
-      "link": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
-      "summary_raw": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend against a budget that's somewhere within the $30-42 million range. That would make it [&#8230;]",
-      "published": "2026-10-12T17:20:57-04:00",
-      "summary_th": "ภาพยนตร์ \"The Social Reckoning\" ทำรายได้ไม่ดีนักที่ Box Office โดยทำเงินได้เพียง 5.5 ล้านดอลลาร์ในสุดสัปดาห์ที่ผ่านมา เทียบกับงบประมาณสร้าง 30-42 ล้านดอลลาร์ แม้จะมีข้อความสำคัญที่ต้องการสื่อสาร แต่ก็ยังคงไม่ประสบความสำเร็จด้านรายได้."
+      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+      "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+      "summary_raw": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
+      "published": "2026-10-13T18:23:33+00:00",
+      "summary_th": "Disney เสนอเงิน 20 ล้านดอลลาร์เพื่อซื้อเทคโนโลยีแชทบอทของ Character.AI ที่มีประเด็นฉาวโฉ่และเคยถูกเชื่อมโยงกับคดีการฆ่าตัวตายของเด็ก ข้อเสนอนี้บ่งชี้ถึงความสนใจของ Disney ในเทคโนโลยี AI แชทบอท แม้จะมีข้อกังวลด้านจริยธรรมที่สำคัญ ซึ่งอาจส่งผลต่อภาพลักษณ์ของบริษัทหากไม่มีการจัดการที่เหมาะสม."
     },
     {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "summary_raw": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-      "published": "2026-10-12T17:19:14+00:00",
-      "summary_th": "WindBorne สตาร์ทอัพใน Silicon Valley ที่ใช้บอลลูนตรวจสภาพอากาศและ AI ในการพยากรณ์อากาศ ได้รับสัญญามูลค่าเกือบ 50 ล้านดอลลาร์สหรัฐฯ จากกองทัพอากาศสหรัฐฯ สำหรับการให้บริการข้อมูลสภาพอากาศเพื่อสนับสนุนภารกิจทางทหาร."
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "summary_raw": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-      "published": "2026-10-12T15:45:00+00:00",
-      "summary_th": "Honeyjar พัฒนาเครื่องมือ AI เพื่อปรับปรุงกระบวนการประชาสัมพันธ์และการสื่อสารของทุกบริษัท โดยมีเป้าหมายที่จะแก้ไขปัญหาความไม่มีประสิทธิภาพในกระบวนการ PR ที่ผู้เชี่ยวชาญหลายคนมองว่ายังบกพร่องอยู่ ให้ดีขึ้นด้วยเทคโนโลยี AI."
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "summary_raw": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "published": "2026-10-12T15:31:19+00:00",
-      "summary_th": "Brad Smith ประธาน Microsoft เรียกร้องให้มีกฎระเบียบควบคุม AI อย่างเร่งด่วน โดยชี้ว่าผลิตภัณฑ์ทั่วไปอย่างนมและเครื่องซักผ้ายังมีการกำกับดูแลมากกว่าบริษัท AI ซึ่งเขาเชื่อว่าสหราชอาณาจักรอยู่ในตำแหน่งที่ดีที่สุดในการขับเคลื่อนกฎระเบียบนี้."
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "summary_raw": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-      "published": "2026-10-12T15:27:59+00:00",
-      "summary_th": "Blueprints AI สตาร์ทอัพจาก Santa Monica พัฒนาซอฟต์แวร์ที่สามารถสร้างพิมพ์เขียวสำหรับงานก่อสร้างที่ถูกต้องตามกฎหมายได้ภายในไม่กี่นาที โดยแปลงจากภาพถ่าย ไฟล์ PDF หรือภาพสเก็ตช์ ทำให้กระบวนการขออนุญาตก่อสร้างรวดเร็วและมีประสิทธิภาพยิ่งขึ้น."
-    },
-    {
-      "source": "Brand Inside",
-      "category": "economy",
-      "title": "อย่าไว้ใจ AI จนหมดใจ ‘สัตยา นาเดลลา’ ซีอีโอ Microsoft บอกควรมี ‘เบรกฉุกเฉิน’ ไว้สั่งหยุดเวลาเกิดเหตุไม่ดีขึ้น",
-      "link": "https://brandinside.asia/models-as-insider-risks-in-the-super-intelligence-era/",
-      "summary_raw": "ซีอีโอบิ๊กเทคยังคงกังวลถึงความเสี่ยงจาก AI โดยครั้งนี้ สัตยา นาเดลลา มองว่า ยิ่ง AI เก่งขึ้นและทำงานแทนมนุษย์ได้มากเท่าไร ก็ยิ่งต้องมีระบบควบคุมที่รัดกุมมากขึ้น The post อย่าไว้ใจ AI จนหมดใจ ‘สัตยา นาเดลลา’ ซีอีโอ Microsoft บอกควรมี ‘เบรกฉุกเฉิน’ ไว้สั่งหยุดเวลาเกิดเหตุไม่ดีขึ้น first appeared on Brand Inside .",
-      "published": "2026-10-12T15:09:38+00:00",
-      "summary_th": "สัตยา นาเดลลา ซีอีโอ Microsoft เตือนไม่ควรเชื่อใจ AI อย่างหมดใจ และเสนอให้มี \"เบรกฉุกเฉิน\" เพื่อหยุดระบบ AI เมื่อเกิดเหตุการณ์ไม่พึงประสงค์ โดยเน้นย้ำว่ายิ่ง AI มีความสามารถสูงขึ้น ก็ยิ่งต้องมีระบบควบคุมที่เข้มงวดมากขึ้น."
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "tarek atoui turns tate modern’s turbine hall into a giant experimental orchestra",
-      "link": "https://www.designboom.com/art/tarek-atoui-tate-modern-turbine-hall-giant-experimental-orchestra-installation-hyundai-commission/",
-      "summary_raw": "the lebanese sound artist brings sculptural instruments and multisensory installations to london's turbine hall for the 2026 hyundai commission. The post tarek atoui turns tate modern’s turbine hall into a giant experimental orchestra appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-12T14:12:03+00:00",
-      "summary_th": "Tarek Atoui ศิลปินเสียงชาวเลบานอน จะเปลี่ยน Turbine Hall ของ Tate Modern ในลอนดอน ให้เป็นวงออร์เคสตราทดลองขนาดใหญ่ โดยจัดแสดงเครื่องดนตรีประติมากรรมและงานติดตั้งที่กระตุ้นประสาทสัมผัสหลายส่วน ซึ่งเป็นส่วนหนึ่งของ Hyundai Commission ปี 2026."
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "BIG stacks floating terraces above green public space in tirana",
-      "link": "https://www.designboom.com/architecture/big-bjarke-ingels-group-floating-terraces-green-public-space-tirana-fountain-plaza-albania/",
-      "summary_raw": "a translucent facade, slender columns, and an open ground plane shape a proposal that brings public space, community facilities, and the surrounding landscape into a single architectural framework. The post BIG stacks floating terraces above green public space in tirana appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-12T14:00:19+00:00",
-      "summary_th": "สตูดิโอ BIG เสนอการออกแบบอาคารในกรุงติรานา ด้วยระเบียงลอยซ้อนกันเหนือพื้นที่สาธารณะสีเขียว โดยใช้ façade โปร่งแสง เสาเพรียวบาง และพื้นที่ชั้นล่างแบบเปิด เพื่อผสานพื้นที่สาธารณะ สิ่งอำนวยความสะดวกชุมชน และภูมิทัศน์โดยรอบเข้าด้วยกันในโครงสร้างสถาปัตยกรรมเดียว."
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Meta has some Wonder Full new AI models",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "summary_raw": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available [&#8230;]",
-      "published": "2026-10-12T13:00:00-04:00",
-      "summary_th": "Meta กำลังเร่งพัฒนา AI โดยเปิดตัวโมเดลใหม่ 2 ตัวคือ Muse Wonder และ Muse Wonder Full ซึ่งเป็นโมเดลที่พัฒนาต่อยอดจาก Muse Spark และ Muse agent โดย Meta มั่นใจว่าโมเดลใหม่นี้มีศักยภาพทัดเทียมกับ AI ที่ดีที่สุดในอุตสาหกรรม."
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
-      "link": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
-      "summary_raw": "Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest political donations in American history - has been funneled into the Senate [&#8230;]",
-      "published": "2026-10-12T12:52:54-04:00",
-      "summary_th": "Elon Musk บริจาคเงินให้พรรครีพับลิกันแล้วกว่า 276 ล้านดอลลาร์ ตั้งแต่เดือนกรกฎาคม ทำให้เขากลายเป็นผู้บริจาครายใหญ่ที่สุดของพรรคและผู้บริจาครายใหญ่ที่สุดในการเลือกตั้งกลางเทอม โดย 158 ล้านดอลลาร์จากจำนวนนี้ถูกส่งไปยังกองทุนของวุฒิสภา."
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Gustaf Westman creates Mickey Mouse-shaped sofa and cup for Disney",
-      "link": "https://www.dezeen.com/2026/10/12/gustaf-westman-mickey-mouse-collection-disney/",
-      "summary_raw": "Swedish designer Gustaf Westman has teamed up with media company Disney to transform its Mickey Mouse character into furniture and accessories that convey \"joy and playfulness\" ahead of a wider product collaboration. Westman, who is known for his rounded, colourful designs, revealed the first three items in the Disney collaboration: a sofa, cup and a The post Gustaf Westman creates Mickey Mouse-shaped sofa and cup for Disney appeared first on Dezeen .",
-      "published": "2026-10-12T12:00:31+00:00",
-      "summary_th": "Gustaf Westman ดีไซเนอร์ชาวสวีเดน ร่วมมือกับ Disney สร้างสรรค์เฟอร์นิเจอร์และของตกแต่งรูปมิกกี้เมาส์ เพื่อถ่ายทอดความสนุกสนานและมีสีสันสดใส โดยเตรียมเปิดตัวคอลเลกชันสินค้าขนาดใหญ่ในอนาคต สินค้า 3 ชิ้นแรกที่เปิดเผยคือ โซฟาและถ้วย."
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "The Yandex outage probably didn’t blitz Russian bots",
-      "link": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
-      "summary_raw": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been circulating around social media platforms, showing a sharp decline [&#8230;]",
-      "published": "2026-10-12T11:43:07-04:00",
-      "summary_th": "การโจมตีด้วยโดรนของยูเครนต่อศูนย์ข้อมูลรัสเซีย ทำให้การจราจรของบอทออนไลน์ลดลงอย่างเห็นได้ชัด แต่จากข้อมูลของ Cloudflare ชี้ว่าการลดลงนี้อาจไม่ใช่กิจกรรมบอทแบบที่คนส่วนใหญ่เชื่อมโยงกับรัสเซีย โดยไม่ได้มีผลกระทบต่อบอทโฆษณาที่ใช้แพลตฟอร์มของ Yandex มากนัก."
-    },
-    {
-      "source": "Brand Inside",
-      "category": "economy",
-      "title": "Siam Paragon Bangkok Watch Week 2026 สูตรสำเร็จ ‘สยามพิวรรธน์’ สร้าง Global Luxury Community",
-      "link": "https://brandinside.asia/siam-paragon-luxury-community/",
-      "summary_raw": "ปรากฏการณ์นาฬิการะดับโลก! Siam Paragon ต้อนรับนักสะสมท็อปโลก 400 ชีวิต ขนทัพ 45 แบรนด์หรูเปิดตัว 200 รุ่นเอ็กซ์คลูซีฟ พร้อม FHH Academy Lounge ครั้งแรกในอาเซียน The post Siam Paragon Bangkok Watch Week 2026 สูตรสำเร็จ ‘สยามพิวรรธน์’ สร้าง Global Luxury Community first appeared on Brand Inside .",
-      "published": "2026-10-12T11:00:16+00:00",
-      "summary_th": "สยามพารากอนจัดงาน Siam Paragon Bangkok Watch Week 2026 ต้อนรับนักสะสมนาฬิกาทั่วโลก 400 คน นำเสนอ 45 แบรนด์หรู และเปิดตัว 200 รุ่นเอ็กซ์คลูซีฟ พร้อม FHH Academy Lounge แห่งแรกในอาเซียน ตอกย้ำการเป็นศูนย์กลางลักชัวรีระดับโลก."
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
-      "link": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
-      "summary_raw": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console that taps into the company's modular lineup of mounts. You could already mount the Switch 2 in numerous [&#8230;]",
-      "published": "2026-10-12T11:00:00-04:00",
-      "summary_th": "Mechanism ได้เปิดตัวเคส \"Basecase\" สำหรับ Switch 2 ในราคา 49 ดอลลาร์สหรัฐฯ หลังจากล่าช้าไปบ้าง เคสแบบสวมนี้รองรับการติดตั้งแบบโมดูลาร์ของบริษัท ทำให้ผู้ใช้งานสามารถติดตั้งเครื่อง Switch 2 ได้หลากหลายรูปแบบตามความต้องการ."
-    },
-    {
-      "source": "ประชาชาติธุรกิจ",
+      "source": "CNBC Markets",
       "category": "stock",
-      "title": "ราคาทองวันนี้ (12 ต.ค. 69) ปรับลง 100 บาท ทองรูปพรรณ 67,250 บาท",
-      "link": "https://www.prachachat.net/finance/news-2079595",
-      "summary_raw": "อัพเดตล่าสุด 12 ต.ค. 2569 เวลา 17.09 น. ราคาทองคำประจำวันนี้ (12 ต.ค. 2569) ปรับลง 100 บาท เมื่อเปรียบเทียบกับราคาปิดวานนี้ ทองรูปพรรณขายออกที่บาทละ 67,250 บาท ตามข้อมูลจากเว็บไซต์ของสมาคมค้าทองคำ หรือ Gold Traders Association ณ เวลา 17.09 น. ที่ผ่าน &#8230; อ่านข่าวต้นฉบับ: ราคาทองวันนี้ (12 ต.ค. 69) ปรับลง 100 บาท ทองรูปพรรณ 67,250 บาท",
-      "published": "2026-10-12T10:37:11+00:00",
-      "summary_th": "ราคาทองคำวันนี้ (12 ต.ค. 2569) ปรับลดลง 100 บาท เมื่อเทียบกับราคาปิดเมื่อวานนี้ โดยราคาขายออกทองรูปพรรณอยู่ที่บาทละ 67,250 บาท ตามข้อมูลจากสมาคมค้าทองคำ ณ เวลา 17.09 น. แสดงถึงแนวโน้มราคาที่ลดลง."
+      "title": "We're upgrading our Goldman Sachs rating after a strong quarter bodes well for the future",
+      "link": "https://www.cnbc.com/investingclub/2026/10/13/were-upgrading-our-goldman-sachs-rating-after-a-strong-quarter-bodes-well-for-the-future.html",
+      "summary_raw": "From an execution perspective, Goldman appears to be firing on all cylinders.",
+      "published": "2026-10-13T18:16:53+00:00",
+      "summary_th": "เรากำลังปรับเพิ่มอันดับเครดิตของ Goldman Sachs หลังจากผลประกอบการที่แข็งแกร่งในไตรมาสล่าสุด ซึ่งเป็นสัญญาณที่ดีสำหรับอนาคตของบริษัท จากมุมมองของการดำเนินงาน Goldman Sachs ดูเหมือนจะทำผลงานได้อย่างยอดเยี่ยมในทุกๆ ด้าน และมีแนวโน้มที่จะเติบโตต่อเนื่องในระยะยาว."
     },
     {
-      "source": "Brand Inside",
-      "category": "economy",
-      "title": "AIS เปิดตัว AIS eZY2Fly eSIM ตอบทุกโจทย์ของนักเดินทางรุ่นใหม่ ให้ทั้งอิสระเลือกแพ็กเกจความคุ้มค่า และความอุ่นใจ",
-      "link": "https://brandinside.asia/ais-ezy2fly-esim/",
-      "summary_raw": "อิสระทุกการเดินทาง! AIS เปิดตัว eZY2Fly eSIM ชูแนวคิด \"อีสรภาพ\" เจาะกลุ่มนักเดินทางรุ่นใหม่ มอบความคุ้มค่าและเน็ต 5G อุ่นใจตลอด 24 ชั่วโมง The post AIS เปิดตัว AIS eZY2Fly eSIM ตอบทุกโจทย์ของนักเดินทางรุ่นใหม่ ให้ทั้งอิสระเลือกแพ็กเกจความคุ้มค่า และความอุ่นใจ first appeared on Brand Inside .",
-      "published": "2026-10-12T10:30:52+00:00",
-      "summary_th": "AIS เปิดตัว eZY2Fly eSIM ภายใต้แนวคิด \"อีสรภาพ\" เพื่อตอบโจทย์นักเดินทางรุ่นใหม่ มอบความอิสระในการเลือกแพ็กเกจที่คุ้มค่า พร้อมบริการอินเทอร์เน็ต 5G ตลอด 24 ชั่วโมง ช่วยให้การเดินทางสะดวกสบายและอุ่นใจยิ่งขึ้น."
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Apple’s HomeView ad is confusing to everyone except parents",
+      "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+      "summary_raw": "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos. But the spot has parents - those [&#8230;]",
+      "published": "2026-10-13T18:10:00-04:00",
+      "summary_th": "โฆษณา HomeView ของ Apple สำหรับจอแสดงผลอัจฉริยะแบบใหม่ สร้างความสับสนแก่คนทั่วไป ด้วยภาพครอบครัว 5 คนที่วุ่นวายในกิจวัตรยามเช้า ทั้งการตะโกน ของรก และกุญแจหาย ซึ่งแตกต่างจากภาพลักษณ์เรียบร้อยของ Apple อย่างสิ้นเชิง แต่ผู้ปกครองกลับเข้าใจและเข้าถึงโฆษณานี้เป็นอย่างดี เพราะสะท้อนความเป็นจริงในชีวิตประจำวันของพวกเขา."
     },
     {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Grimshaw completes rammed-earth visitor centre for Twelve Apostles in Australia",
-      "link": "https://www.dezeen.com/2026/10/12/grimshaw-visitor-centre-twelve-apostles-australia/",
-      "summary_raw": "Architecture studio Grimshaw and landscape architect Aspect Studios have completed a visitor experience centre for one of Australia's most-visited natural landmarks, the Twelve Apostles in Victoria. Located at the top of the site in Port Campbell National Park, the 3,300-square-metre visitor centre is designed by Grimshaw and Aspect Studios with rammed-earth walls intended to resemble The post Grimshaw completes rammed-earth visitor centre for Twelve Apostles in Australia appeared first on Dezee",
-      "published": "2026-10-12T10:30:37+00:00",
-      "summary_th": "สตูดิโอสถาปัตยกรรม Grimshaw และ Aspect Studios ได้สร้างศูนย์บริการนักท่องเที่ยวขนาด 3,300 ตร.ม. สำหรับ Twelve Apostles จุดแลนด์มาร์กสำคัญในอุทยานแห่งชาติ Port Campbell รัฐวิกตอเรีย ออสเตรเลีย โดยออกแบบผนังดินอัดให้กลมกลืนกับธรรมชาติและเป็นมิตรต่อสิ่งแวดล้อม."
-    },
-    {
-      "source": "ประชาชาติธุรกิจ",
+      "source": "CNBC Markets",
       "category": "stock",
-      "title": "ไทยแลนด์ พาวิลเลี่ยน ชูหลักทรงงานรัชกาลที่ 9 ต้นแบบรับมือความท้าทาย",
-      "link": "https://www.prachachat.net/finance/news-2079882",
-      "summary_raw": "ไทยแลนด์ พาวิลเลี่ยน งาน IMF-World Bank Group Annual Meetings” นำเสนอแนวคิด Empowering People, Building Resilience” นำเสนอหลักการทรงงานรัชกาลที่ 9 เป็นต้นแบบสร้างภูมิคุ้มกัน พร้อมรับมือความท้าทายในโลก ดร.วิรไท สันติประภพ อดีตผู้ว่าการธนาคารแห่งประเทศ &#8230; อ่านข่าวต้นฉบับ: ไทยแลนด์ พาวิลเลี่ยน ชูหลักทรงงานรัชกาลที่ 9 ต้นแบบรับมือความท้าทาย",
-      "published": "2026-10-12T10:27:21+00:00",
-      "summary_th": "ไทยแลนด์ พาวิลเลี่ยน ในงาน IMF-World Bank Group Annual Meetings นำเสนอแนวคิด \"Empowering People, Building Resilience\" โดยชูหลักการทรงงานของรัชกาลที่ 9 เป็นต้นแบบในการสร้างภูมิคุ้มกันและรับมือกับความท้าทายต่างๆ ของโลก."
+      "title": "J&J's 6% slide on an imperfect quarter is a gift to prospective buyers",
+      "link": "https://www.cnbc.com/investingclub/2026/10/13/jj-falls-6percent-on-an-imperfect-quarter-why-this-is-a-good-chance-to-buy.html",
+      "summary_raw": "J&amp;J's pharmaceutical division is humming along, and the MedTech problems should be temporary.",
+      "published": "2026-10-13T17:44:27+00:00",
+      "summary_th": "ราคาหุ้น J&J ลดลง 6% หลังผลประกอบการไตรมาสที่ไม่สมบูรณ์ ถูกมองว่าเป็นโอกาสดีสำหรับผู้ที่ต้องการเข้าซื้อหุ้น แม้จะมีปัญหาในส่วน MedTech ซึ่งคาดว่าจะเป็นเพียงชั่วคราว แต่ธุรกิจยาของบริษัทยังคงเติบโตอย่างแข็งแกร่ง ทำให้เป็นหุ้นที่น่าสนใจในระยะยาว."
+    },
+    {
+      "source": "Hugging Face Blog",
+      "category": "ai",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "summary_raw": "",
+      "published": "2026-10-13T17:05:48+00:00",
+      "summary_th": "ตัวแทน AI ที่รวดเร็วและเป็นส่วนตัวสามารถทำงานบนอุปกรณ์ได้ด้วย LFM2.5-24B-A2B เทคโนโลยีนี้ช่วยให้การประมวลผลข้อมูลส่วนบุคคลเป็นไปอย่างมีประสิทธิภาพและปลอดภัย โดยไม่จำเป็นต้องส่งข้อมูลออกไปภายนอกเครื่อง เพิ่มความเป็นส่วนตัวและความเร็วในการทำงานของ AI Agent อย่างมาก ถือเป็นก้าวสำคัญในการพัฒนา AI ที่เน้นความเป็นส่วนตัว."
     },
     {
       "source": "Dezeen",
       "category": "design",
-      "title": "Ten things to have on your radar ahead of Dutch Design Week 2026",
-      "link": "https://www.dezeen.com/2026/10/12/ten-exhibitions-installations-dutch-design-week-2026/",
-      "summary_raw": "Dutch Design Week kicks off in Eindhoven this Saturday. To help you navigate the many exhibitions, installations and events taking place across the city, here are 10 of our picks. From 17 to 25 October, Dutch Design Week will take over multiple locations across Eindhoven, the Netherlands. Both established and emerging designers and studios will The post Ten things to have on your radar ahead of Dutch Design Week 2026 appeared first on Dezeen .",
-      "published": "2026-10-12T10:00:56+00:00",
-      "summary_th": "Dutch Design Week 2026 จัดขึ้นที่เมือง Eindhoven ประเทศเนเธอร์แลนด์ ระหว่างวันที่ 17-25 ตุลาคม โดยรวบรวมนิทรรศการ งานติดตั้ง และกิจกรรมมากมายจากนักออกแบบทั้งหน้าเก่าและหน้าใหม่ทั่วเมือง Dezeen ได้คัดเลือก 10 ไฮไลต์ที่น่าสนใจในงานนี้."
+      "title": "Wheeler Kearns Architects staggers brown-metal house on Lake Michigan shore",
+      "link": "https://www.dezeen.com/2026/10/13/timber-lane-retreat-wheeler-kearns-architects/",
+      "summary_raw": "US studio Wheeler Kearns Architects has completed a brown-metal and limestone house organised around a courtyard on the shore of Lake Michigan, in Michigan, USA. Known as Timber Lane Retreat, the 2026 house is composed of three volumes – two, two-story gabled forms that align with a central courtyard and an offset single-story box with The post Wheeler Kearns Architects staggers brown-metal house on Lake Michigan shore appeared first on Dezeen .",
+      "published": "2026-10-13T17:00:35+00:00",
+      "summary_th": "Wheeler Kearns Architects ได้สร้างบ้านพัก Timber Lane Retreat ริมทะเลสาบมิชิแกนในปี 2026 ที่ใช้โลหะสีน้ำตาลและหินปูนเป็นวัสดุหลัก โครงสร้างแบ่งเป็นสามส่วนที่จัดวางอย่างเป็นระเบียบและกลมกลืนรอบลานภายในอาคาร โดยมีสองชั้นรูปทรงจั่วและกล่องชั้นเดียวที่เยื้องออกไป ซึ่งช่วยสร้างความโดดเด่นและผสานเข้ากับธรรมชาติโดยรอบอย่างลงตัว นับเป็นสถาปัตยกรรมที่สะท้อนความงดงามของสิ่งแวดล้อม."
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "summary_raw": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department [&#8230;]",
+      "published": "2026-10-13T16:45:25-04:00",
+      "summary_th": "พนักงานของ OpenAI ชื่อ อับดุลราห์มัน อัลโฟซาน ชาวซาอุดีอาระเบีย วัย 35 ปี ถูกจับกุมหลังบริษัทพบอุปกรณ์บันทึกเสียงขั้นสูงซ่อนอยู่ในห้องประชุมของสำนักงาน โดยเขาถูกตั้งข้อหาพยายามดักฟังการสื่อสารด้วยวาจา ซึ่งทำให้เกิดข้อสงสัยเกี่ยวกับความปลอดภัยภายในองค์กรและการรักษาข้อมูลลับของบริษัทเทคโนโลยียักษ์ใหญ่แห่งนี้."
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "It looks like Apple Music is getting a new icon",
+      "link": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
+      "summary_raw": "Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly sharper angle than the original. A new Apple Music logo was also spotted last month on the Apple Music Hall website, [&#8230;]",
+      "published": "2026-10-13T16:05:02-04:00",
+      "summary_th": "ไอคอนแอป Apple Music สีแดงอันเป็นเอกลักษณ์ กำลังจะถูกเปลี่ยนเป็นสีขาวดำใน iOS 27.2 เบต้าล่าสุด โดยมีการปรับองศาของโน้ตตัวที่แปดให้คมขึ้นเล็กน้อย และโลโก้ใหม่นี้ยังถูกพบในเว็บไซต์ Apple Music Hall ก่อนหน้านี้ บ่งบอกถึงการปรับโฉมครั้งใหม่ของบริการเพื่อความทันสมัยและสอดคล้องกับภาพลักษณ์ของ Apple ในปัจจุบัน."
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "garden divides perkins&will’s são paulo office tower into two stacked volumes",
+      "link": "https://www.designboom.com/architecture/garden-perkinswill-sao-paulo-office-tower-two-stacked-volumes-jeronimo-faria-lima/",
+      "summary_raw": "jeronimo faria lima combines a screen-printed glass facade, two stacked volumes, and an elevated garden, using patterned glazing and planted terraces to shape the tower’s appearance and connect it with the surrounding urban fabric. The post garden divides perkins&#038;will’s são paulo office tower into two stacked volumes appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-10-13T15:45:01+00:00",
+      "summary_th": "อาคารสำนักงานของ Perkins&Will ในเซาเปาโล ที่ออกแบบโดย Jeronimo Faria Lima โดดเด่นด้วยการแบ่งโครงสร้างเป็นสองส่วนที่วางซ้อนกันและคั่นด้วยสวนลอยฟ้าด้านใน อาคารนี้ใช้ฟาซาดกระจกพิมพ์ลายและระเบียงพืชพรรณที่ปลูกไว้ ซึ่งไม่เพียงแต่กำหนดรูปลักษณ์ภายนอก แต่ยังช่วยเชื่อมโยงอาคารเข้ากับบริบทเมืองโดยรอบได้อย่างลงตัวและส่งเสริมพื้นที่สีเขียวในเขตเมือง."
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Shopify opens its catalog up to more AI agents",
+      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "summary_raw": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists [&#8230;]",
+      "published": "2026-10-13T15:42:42-04:00",
+      "summary_th": "Shopify ขยายวิสัยทัศน์สู่การค้าแบบเอเจนท์มากขึ้น โดยเปิดให้ AI Agent สามารถเข้าถึงและเลือกซื้อสินค้าจากแค็ตตาล็อกของ Shopify ที่มีมากกว่าหนึ่งพันล้านรายการ ผู้ซื้อจะสามารถตั้งค่า AI Agent ให้ดำเนินการซื้อสินค้าแทนตนเองได้ เพิ่มความสะดวกและเปิดช่องทางใหม่ในการช้อปปิ้งออนไลน์ ซึ่งเป็นการพลิกโฉมประสบการณ์การซื้อสินค้าแบบเดิม."
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "stock",
+      "title": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
+      "link": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html",
+      "summary_raw": "UnitedHealth Group said it expects 2026 adjusted earnings of at least $20.50 per share, up from a previous outlook of $19.50 to $20.00 per share.",
+      "published": "2026-10-13T15:04:35+00:00",
+      "summary_th": "UnitedHealth Group รายงานผลประกอบการสูงกว่าที่คาดการณ์ไว้และปรับเพิ่มคาดการณ์ผลกำไร โดยคาดว่ากำไรที่ปรับปรุงแล้วในปี 2026 จะอยู่ที่อย่างน้อย 20.50 ดอลลาร์ต่อหุ้น จากเดิม 19.50-20.00 ดอลลาร์ แม้จะบริหารจัดการค่าใช้จ่ายทางการแพทย์ที่สูง แสดงถึงความสามารถในการดำเนินงานที่แข็งแกร่ง."
     },
     {
       "source": "Dezeen",
       "category": "design",
-      "title": "BIG designs cloud-like Tirana Fountain Plaza raised above public park",
-      "link": "https://www.dezeen.com/2026/10/12/tirana-fountain-tower-big-albania/",
-      "summary_raw": "Cloaked in layers of white disks, architecture studio BIG has revealed plans for a mixed-use building in Tirana containing apartments, offices, cultural spaces and water features. Named Tirana Fountain Plaza, the cloud-like building will be raised on slim white columns over Rinia Park, designed to keep the ground level largely open as a public space. The post BIG designs cloud-like Tirana Fountain Plaza raised above public park appeared first on Dezeen .",
-      "published": "2026-10-12T09:30:56+00:00",
-      "summary_th": "สตูดิโอสถาปัตยกรรม BIG เปิดเผยแผนอาคาร Tirana Fountain Plaza ในกรุงติรานา อาคารรูปทรงคล้ายก้อนเมฆสีขาวจะลอยอยู่เหนือ Rinia Park ด้วยเสาเพรียวบาง เพื่อให้พื้นที่ด้านล่างยังคงเป็นพื้นที่สาธารณะ ภายในประกอบด้วยอพาร์ตเมนต์ สำนักงาน พื้นที่วัฒนธรรม และองค์ประกอบน้ำ."
+      "title": "Waterfront designed to support magpie population among projects from Shanghai Jiao Tong University",
+      "link": "https://www.dezeen.com/2026/10/13/architecture-spatial-systems-shanghai-jiao-tong-university-schoolshows/",
+      "summary_raw": "Dezeen School Shows: a proposal that integrates findings from magpie behavioural research into the landscape design of a Melbourne waterfront is among the projects from students at Shanghai Jiao Tong University. Also featured are a game designed to educate users about recycling and a proposal to transform Shanghai's North Caoxi Road into a \"sports and vitality The post Waterfront designed to support magpie population among projects from Shanghai Jiao Tong University appeared first on Dezeen .",
+      "published": "2026-10-13T15:00:57+00:00",
+      "summary_th": "นักศึกษาจาก Shanghai Jiao Tong University เสนอโครงการออกแบบภูมิทัศน์ริมน้ำเมลเบิร์นที่ส่งเสริมประชากรนกแม็กพาย โดยอาศัยการวิจัยพฤติกรรมนก นอกจากนี้ยังมีเกมรณรงค์การรีไซเคิล และแนวคิดเปลี่ยนถนน North Caoxi Road ในเซี่ยงไฮ้ให้เป็นพื้นที่กีฬาและส่งเสริมสุขภาพ โครงการเหล่านี้แสดงให้เห็นถึงนวัตกรรมและความใส่ใจต่อสิ่งแวดล้อมและสังคมจากนักศึกษา."
     },
     {
-      "source": "Brand Inside",
-      "category": "economy",
-      "title": "ปัญหาเศรษฐกิจไม่กลัว กลัว ‘ความขัดแย้ง’ มากกว่า? ผลสำรวจของ World Economic Forum บอก สิ่งที่น่ากังวลที่สุดตอนนี้คือ ปัญหาภูมิรัฐศาสตร์ และ AI",
-      "link": "https://brandinside.asia/world-economic-forum-global-risks-report-2026/",
-      "summary_raw": "ในทุกปี ‘World Economic Forum’ จะจัดทำรายงาน ‘The Global Risks Report’ ซึ่งเป็นผลสำรวจผู้เชี่ยวชาญ เพื่อสอบถามถึงความเสี่ยงในอีก 2 ปีข้างหน้า The post ปัญหาเศรษฐกิจไม่กลัว กลัว ‘ความขัดแย้ง’ มากกว่า? ผลสำรวจของ World Economic Forum บอก สิ่งที่น่ากังวลที่สุดตอนนี้คือ ปัญหาภูมิรัฐศาสตร์ และ AI first appeared on Brand Inside .",
-      "published": "2026-10-12T09:07:13+00:00",
-      "summary_th": "ผลสำรวจ The Global Risks Report ของ World Economic Forum ชี้ว่าผู้เชี่ยวชาญมองว่าความเสี่ยงที่น่ากังวลที่สุดใน 2 ปีข้างหน้าไม่ใช่ปัญหาเศรษฐกิจ แต่เป็นความขัดแย้งทางภูมิรัฐศาสตร์และความเสี่ยงจาก AI ซึ่งอาจส่งผลกระทบในวงกว้าง."
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "summary_raw": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty and Halo being played in a web [&#8230;]",
+      "published": "2026-10-13T15:00:48-04:00",
+      "summary_th": "Xbox เตรียมรับมือกับกระแสเกมย้อนยุคที่ขับเคลื่อนด้วย AI อย่างเป็นทางการ โดยมองเห็นศักยภาพจากการที่ AI สามารถช่วยในการพอร์ตเกมคลาสสิกไปยังอุปกรณ์ใหม่ๆ หรือแม้แต่รวมโค้ดเกมต่างๆ เข้าด้วยกัน เช่น การเล่น Call of Duty ผสมสเก็ตบอร์ด หรือ Halo บนเว็บเบราว์เซอร์ ซึ่งสร้างประสบการณ์การเล่นเกมแบบใหม่และเปิดโอกาสให้ผู้เล่นได้สัมผัสเกมในรูปแบบที่ไม่เคยมีมาก่อน."
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "architectural photography as an experience of space – david altrath",
+      "link": "https://www.designboom.com/architecture/david-altrath-architectural-photography-experience-space-guest-essay/",
+      "summary_raw": "in a personal reflection on his practice, the architectural photographer considers what happens between experiencing a building in person and translating that experience into a photograph. The post architectural photography as an experience of space &#8211; david altrath appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-10-13T10:50:16+00:00",
+      "summary_th": "เดวิด อัลทราธ ช่างภาพสถาปัตยกรรม ได้สะท้อนมุมมองส่วนตัวเกี่ยวกับการทำงานของเขา โดยพิจารณาถึงกระบวนการและความแตกต่างระหว่างการสัมผัสประสบการณ์ในอาคารจริงกับการแปลประสบการณ์เหล่านั้นให้เป็นภาพถ่าย เพื่อสื่อสารความเป็นสถาปัตยกรรมให้ผู้ชมเข้าใจ เขาสำรวจว่าภาพถ่ายสามารถจับแก่นแท้ของพื้นที่ได้อย่างไร."
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "fiat multiplay concept transforms family car into pickup with sliding rear module",
+      "link": "https://www.designboom.com/technology/fiat-multiplay-concept-family-car-pickup-sliding-rear-module-paris-motor-show-2026/",
+      "summary_raw": "fiat unveils the multiplay concept car at the 2026 paris motor show, with a sliding rear module that transforms a family vehicle into a pickup. The post fiat multiplay concept transforms family car into pickup with sliding rear module appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-10-13T10:31:40+00:00",
+      "summary_th": "Fiat ได้เผยโฉมรถยนต์ต้นแบบ Multiplay Concept ในงาน Paris Motor Show ปี 2026 ซึ่งมาพร้อมกับโมดูลด้านหลังที่สามารถเลื่อนได้ นวัตกรรมนี้ทำให้สามารถเปลี่ยนรถยนต์สำหรับครอบครัวให้กลายเป็นรถกระบะได้ตามต้องการ เพิ่มความยืดหยุ่นและความหลากหลายในการใช้งาน ตอบโจทย์ทั้งการขนส่งและไลฟ์สไตล์ที่แตกต่างกันของผู้ใช้งานได้อย่างลงตัว."
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Openings \"dissolve boundaries\" at Sable House by Allan Joyce Architects",
+      "link": "https://www.dezeen.com/2026/10/13/sable-house-allan-joyce-architects/",
+      "summary_raw": "Local studio Allan Joyce Architects used courtyards and covered walkways to connect this charred timber-clad home in Nottinghamshire, UK, to its countryside surroundings. Perched on a verdant plot, the five-bedroom Sable House dwelling replaces a 1950s house that had been home to the client and their family for more than 20 years. Allan Joyce Architects The post Openings \"dissolve boundaries\" at Sable House by Allan Joyce Architects appeared first on Dezeen .",
+      "published": "2026-10-13T10:30:28+00:00",
+      "summary_th": "Allan Joyce Architects ได้ออกแบบ Sable House ใน Nottinghamshire, สหราชอาณาจักร ด้วยการใช้ลานภายในและทางเดินเชื่อมต่อเพื่อผสานบ้านที่หุ้มด้วยไม้เผาเข้ากับภูมิทัศน์ชนบทโดยรอบ บ้าน 5 ห้องนอนนี้มาแทนที่บ้านเดิมปี 1950 ที่ครอบครัวอาศัยมานานกว่า 20 ปี สะท้อนการออกแบบที่เปิดรับธรรมชาติและสร้างขอบเขตที่เลือนลางระหว่างภายในและภายนอก."
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "\"Pioneering conservationist\" Donald Insall dies aged 100",
+      "link": "https://www.dezeen.com/2026/10/13/donald-insall-dies-aged-100/",
+      "summary_raw": "Architect Donald Insall, founder of Donald Insall Associates and known for his conservation and renovation work, including on Windsor Castle, has died at the age of 100. Insall, whose death was announced in a statement from his studio, was best known for his work in conservation, which he saw as different to preservation. \"Preservation he said The post \"Pioneering conservationist\" Donald Insall dies aged 100 appeared first on Dezeen .",
+      "published": "2026-10-13T10:00:16+00:00",
+      "summary_th": "โดนัลด์ อินซอลล์ สถาปนิกและผู้ก่อตั้ง Donald Insall Associates ผู้บุกเบิกด้านการอนุรักษ์อาคารและเป็นที่รู้จักจากผลงานบูรณะปราสาทวินด์เซอร์ ได้เสียชีวิตลงแล้วด้วยวัย 100 ปี ผลงานของเขามุ่งเน้นการอนุรักษ์ที่แตกต่างจากการสงวน ซึ่งหมายถึงการรักษามรดกทางสถาปัตยกรรมให้คงอยู่และใช้งานได้จริง เขาทิ้งมรดกอันยิ่งใหญ่ไว้ในวงการอนุรักษ์."
     }
   ]
 }
