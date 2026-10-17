@@ -1,430 +1,385 @@
 {
-  "updated_at": "2026-10-16T03:56:52.580553+00:00",
-  "date": "2026-10-16",
-  "count": 47,
+  "updated_at": "2026-10-17T03:45:07.003904+00:00",
+  "date": "2026-10-17",
+  "count": 42,
   "items": [
     {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "ธุรกิจ 4 เซ็กเตอร์ชะลอออกหุ้นกู้ยอดคงค้าง 3 ปีลดฮวบ",
-      "link": "https://www.prachachat.net/finance/news-2080305",
-      "summary_raw": "ภาวะการระดมทุนผ่านตลาดตราสารหนี้ของไทยปี 2569 นี้ แม้ว่าอัตราผลตอบแทนพันธบัตร (บอนด์ยีลด์) จะไม่ได้กระชากขึ้นรุนแรง หรือผันผวนหนักเหมือนในต่างประเทศ แต่ด้วยหลาย ๆ ปัจจัย ก็ทำให้ธุรกิจจำนวนไม่น้อย ออกหุ้นกู้กันลดลง ซึ่งจากข้อมูลของสมาคมตลาดตราสารหนี้ไ &#8230; อ่านข่าวต้นฉบับ: ธุรกิจ 4 เซ็กเตอร์ชะลอออกหุ้นกู้ยอดคงค้าง 3 ปีลดฮวบ",
-      "published": "2026-10-16T03:14:41+00:00",
-      "summary_th": "ธุรกิจ 4 กลุ่มในตลาดตราสารหนี้ไทยชะลอการออกหุ้นกู้ในปี 2569 ทำให้ยอดคงค้างลดลงอย่างมากในรอบ 3 ปี แม้บอนด์ยีลด์ในไทยไม่ผันผวนรุนแรงเท่าต่างประเทศ แต่ปัจจัยหลายอย่างส่งผลให้การระดมทุนผ่านหุ้นกู้ลดลง ซึ่งสะท้อนแนวโน้มตลาดทุนที่เปลี่ยนแปลงไป"
-    },
-    {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "ราคาทองวันนี้ (16 ต.ค. 69) พุ่งขึ้น 300 บาท รูปพรรณขายออก 67,050 บาท",
-      "link": "https://www.prachachat.net/finance/news-2081572",
-      "summary_raw": "อัพเดตล่าสุด 16 ต.ค. 2569 เวลา 09.57 น. ผู้สื่อข่าวรายงานว่า ราคาทองคำวันนี้ (16 ต.ค. 2569) พุ่งขึ้น 300 บาท เปรียบเทียบกับราคาปิดเมื่อวานนี้ โดยราคาทองรูปพรรณขยับมาอยู่ที่บาทละ 67,050 บาท ตามข้อมูลล่าสุด จากเว็บไซต์ของสมาคมค้าทองคำ เมื่อเวลา 09.57 น &#8230; อ่านข่าวต้นฉบับ: ราคาทองวันนี้ (16 ต.ค. 69) พุ่งขึ้น 300 บาท รูปพรรณขายออก 67,050 บาท",
-      "published": "2026-10-16T03:06:26+00:00",
-      "summary_th": "ราคาทองคำวันนี้ (16 ต.ค. 2569) ปรับขึ้น 300 บาท โดยราคาทองรูปพรรณขายออกอยู่ที่บาทละ 67,050 บาท ตามข้อมูลล่าสุดจากสมาคมค้าทองคำ ณ เวลา 09.57 น. ซึ่งเป็นการเปลี่ยนแปลงจากราคาปิดเมื่อวานนี้ และเป็นข่าวที่นักลงทุนจับตา"
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "Butlerian Jihad",
+      "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "summary_raw": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 82 # Comments: 39",
+      "published": "2026-10-17T02:21:08+00:00",
+      "summary_th": "ข่าวนี้เป็นเพียงการอ้างอิงถึงหัวข้อ \"Butlerian Jihad\" ซึ่งเป็นเหตุการณ์ในจักรวาลนิยาย Dune โดยไม่มีเนื้อหาข่าวสารเฉพาะเจาะจงที่สามารถสรุปได้ในแง่ของเหตุการณ์ปัจจุบัน."
     },
     {
       "source": "ประชาชาติธุรกิจ",
       "category": "stock",
-      "title": "ฮั่วเซ่งเฮง ประเมินราคาทองวันนี้ (16 ต.ค.) ‘Sideways Down’ ติดตามแถลงการณ์ ‘เควิน วอร์ช’ ประธานเฟด 10.30 น.",
-      "link": "https://www.prachachat.net/finance/news-2081607",
-      "summary_raw": "ฮั่วเซ่งเฮง ติดตามแถลงการณ์ &#8220;เควิน วอร์ช&#8221; ประธานเฟด 10.30 น. วันนี้ (16 ต.ค.) บนเวทีประชุม IMF-ธนาคารโลก ลุ้นส่งสัญญาณแนวโน้มดอกเบี้ย ขณะที่ราคาทองวันนี้ประเมิน &#8220;Sideways Down&#8221; ผู้สื่อข่าวรายงานว่า สถานการณ์ราคาทองคำเช้านี้ (1 &#8230; อ่านข่าวต้นฉบับ: ฮั่วเซ่งเฮง ประเมินราคาทองวันนี้ (16 ต.ค.) &#8216;Sideways Down&#8217; ติดตามแถลงการณ์ &#8216;เควิน วอร์ช&#8217; ประธานเฟด 10.30 น.",
-      "published": "2026-10-16T02:50:28+00:00",
-      "summary_th": "ฮั่วเซ่งเฮงประเมินราคาทองคำวันนี้ (16 ต.ค.) เป็นแบบ \"Sideways Down\" โดยนักลงทุนจับตาแถลงการณ์ของ เควิน วอร์ช ประธานเฟด เวลา 10.30 น. บนเวทีประชุม IMF-ธนาคารโลก เพื่อติดตามสัญญาณเกี่ยวกับแนวโน้มอัตราดอกเบี้ยในอนาคต"
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
-      "link": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
-      "summary_raw": "Russia’s return to the G20 table has tested how far Washington’s outreach to Moscow will strain ties with European allies.",
-      "published": "2026-10-16T02:25:32+00:00",
-      "summary_th": "รัสเซียกลับเข้าร่วมการประชุม G20 ที่กรุงเทพฯ ตามคำเชิญของสหรัฐฯ ซึ่งสร้างความไม่พอใจให้กับพันธมิตรยุโรป การตัดสินใจครั้งนี้กำลังทดสอบความสัมพันธ์ระหว่างสหรัฐฯ กับยุโรป และบ่งชี้ถึงความตึงเครียดในเวทีระหว่างประเทศเกี่ยวกับบทบาทของรัสเซีย"
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "thessaloniki’s layered historic center weaves into expandable pedestrian network",
-      "link": "https://www.designboom.com/architecture/thessaloniki-greece-layered-historic-center-expandable-pedestrian-network-armosi-masterplan-apostolopoulos-tasoulis/",
-      "summary_raw": "linked by a neutral urban skin, apostolopoulos tasoulis’ masterplan establishes an expandable urban network designed to unify over seventy monuments and archaeological sites across thessaloniki, greece. The post thessaloniki’s layered historic center weaves into expandable pedestrian network appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-16T02:10:53+00:00",
-      "summary_th": "แผนแม่บทโดย Apostolopoulos Tasoulis ได้สร้างเครือข่ายทางเดินเท้าที่สามารถขยายได้ เพื่อรวมศูนย์กลางประวัติศาสตร์ของ Thessaloniki ประเทศกรีซ เข้าด้วยกัน โดยเชื่อมโยงอนุสาวรีย์และแหล่งโบราณคดีกว่า 70 แห่งเข้าเป็นหนึ่งเดียวด้วยพื้นผิวเมืองที่เป็นกลาง เพื่อส่งเสริมการเข้าถึงและอนุรักษ์"
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Tesla launches flying Roadster concept car",
-      "link": "https://www.dezeen.com/2026/10/16/tesla-launches-flying-roadster-concept-car/",
-      "summary_raw": "Electric car company Tesla has unveiled its flying Roadster vehicle with a demonstration in which the car drove upside down, flipped off a ramp and briefly flew, using compressed-air thrusters that Tesla claims will make it the world’s quickest production car. The two-seat Roadster model drove up a half-pipe ramp and launched off the top, The post Tesla launches flying Roadster concept car appeared first on Dezeen .",
-      "published": "2026-10-16T02:09:57+00:00",
-      "summary_th": "Tesla เปิดตัวรถยนต์ Roadster ต้นแบบบินได้ พร้อมสาธิตการขับตีลังกาและเหินขึ้นกลางอากาศด้วยระบบขับดันอากาศอัด Tesla อ้างว่า Roadster สองที่นั่งนี้จะเป็นรถยนต์โปรดักชันที่เร็วที่สุดในโลก ซึ่งเป็นการเปิดตัวแนวคิดยานยนต์แห่งอนาคต"
+      "title": "ราคาทองวันนี้ (17 ต.ค. 69) คงที่ รูปพรรณบาทละ 66,900 บาท",
+      "link": "https://www.prachachat.net/finance/news-2082292",
+      "summary_raw": "ราคาทองวันนี้ (17 ต.ค. 2569) คงที่ เมื่อเทียบกับราคาปิดเมื่อวานนี้ โดยทองรูปพรรณขายออกบาทละ 66,900 บาท ตามข้อมูลจากเว็บไซต์ของสมาคมค้าทองคำ หรือ Gold Traders Association ณ เวลา 09.02 น. ที่ผ่านมา ทองคำแท่ง 96.5% ในประเทศ รับซื้ออยู่ที่บาทละ 65,900 บา &#8230; อ่านข่าวต้นฉบับ: ราคาทองวันนี้ (17 ต.ค. 69) คงที่ รูปพรรณบาทละ 66,900 บาท",
+      "published": "2026-10-17T02:07:12+00:00",
+      "summary_th": "ราคาทองคำวันนี้ (17 ต.ค. 2569) มีความคงที่ โดยทองรูปพรรณขายออกอยู่ที่บาทละ 66,900 บาท และทองคำแท่ง 96.5% รับซื้อบาทละ 65,900 บาท ซึ่งเป็นราคาจากสมาคมค้าทองคำ ณ เวลา 09.02 น."
     },
     {
       "source": "Hacker News",
       "category": "tech",
-      "title": "Comparing Chromium Development at Google and Igalia",
-      "link": "https://lwn.net/Articles/1094721/",
-      "summary_raw": "Article URL: https://lwn.net/Articles/1094721/ Comments URL: https://news.ycombinator.com/item?id=50112887 Points: 10 # Comments: 0",
-      "published": "2026-10-16T01:56:37+00:00",
-      "summary_th": "ไม่พบข้อมูลในข่าวนี้"
+      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+      "link": "https://www.flexport.com/company/careers/",
+      "summary_raw": "Article URL: https://www.flexport.com/company/careers/ Comments URL: https://news.ycombinator.com/item?id=50126774 Points: 0 # Comments: 0",
+      "published": "2026-10-17T01:01:51+00:00",
+      "summary_th": "Flexport กำลังเปิดรับสมัครตำแหน่งผู้นำด้านปฏิบัติการธุรกิจ (Biz Ops Leader) ซึ่งจะทำงานในสำนักงานของ CEO โดยสามารถดูรายละเอียดและสมัครได้ที่หน้าอาชีพของบริษัท."
     },
     {
-      "source": "Hugging Face Blog",
-      "category": "ai",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "summary_raw": "",
-      "published": "2026-10-16T01:44:47+00:00",
-      "summary_th": "ไม่พบข้อมูลในข่าวนี้"
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "link": "https://github.com/Saffsanity/sill",
-      "summary_raw": "Article URL: https://github.com/Saffsanity/sill Comments URL: https://news.ycombinator.com/item?id=50112739 Points: 38 # Comments: 6",
-      "published": "2026-10-16T01:43:17+00:00",
-      "summary_th": "ไม่พบข้อมูลในข่าวนี้"
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Tesla Roadster",
-      "link": "https://www.tesla.com/roadster",
-      "summary_raw": "Article URL: https://www.tesla.com/roadster Comments URL: https://news.ycombinator.com/item?id=50112657 Points: 273 # Comments: 290",
-      "published": "2026-10-16T01:32:45+00:00",
-      "summary_th": "ไม่พบข้อมูลในข่าวนี้"
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
-      "link": "https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html",
-      "summary_raw": "The RBI's latest moves have helped the rupee recover from 96.79 rupees per dollar to the 95-level over recent days.",
-      "published": "2026-10-16T00:54:25+00:00",
-      "summary_th": "ค่าเงินรูปีของอินเดียถูกคาดการณ์ว่าจะอ่อนค่าลงแตะ 100 รูปีต่อดอลลาร์ แม้ธนาคารกลางอินเดีย (RBI) จะพยายามเข้าแทรกแซง การดำเนินการล่าสุดของ RBI ช่วยให้รูปีฟื้นตัวจาก 96.79 มาอยู่ที่ 95 รูปีต่อดอลลาร์ในช่วงไม่กี่วัน แต่แนวโน้มระยะยาวยังคงอ่อนค่าลง"
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Thank You, Deno",
-      "link": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
-      "summary_raw": "Article URL: https://www.vlt.io/blog/competition-keeps-javascript-moving Comments URL: https://news.ycombinator.com/item?id=50112331 Points: 24 # Comments: 0",
-      "published": "2026-10-16T00:52:40+00:00",
-      "summary_th": "ไม่พบข้อมูลในข่าวนี้"
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "RPKI now protects 70% of internet routes",
-      "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "summary_raw": "Article URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes Comments URL: https://news.ycombinator.com/item?id=50112330 Points: 70 # Comments: 18",
-      "published": "2026-10-16T00:52:35+00:00",
-      "summary_th": "ไม่พบข้อมูลในข่าวนี้"
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "summary_raw": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "published": "2026-10-15T23:44:56+00:00",
-      "summary_th": "Cal AI สร้างรายได้กว่า 30 ล้านดอลลาร์ใน 2 ปี ก่อนถูก MyFitnessPal เข้าซื้อกิจการเมื่อเดือนมีนาคม ความสำเร็จนี้ส่วนหนึ่งมาจากกลยุทธ์การตลาดที่ใช้กลุ่มอินฟลูเอนเซอร์จำนวนมากช่วยเผยแพร่ ทำให้ผลิตภัณฑ์เป็นที่รู้จักและได้รับความนิยมอย่างรวดเร็ว"
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
-      "link": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
-      "summary_raw": "Netflix announced Bela Bajaria will be replaced by former Disney exec Peter Rice as the company's chief content officer.",
-      "published": "2026-10-15T23:08:05+00:00",
-      "summary_th": "Netflix ประกาศการเปลี่ยนแปลงตำแหน่งสำคัญ โดย Bela Bajaria ประธานเจ้าหน้าที่ฝ่ายเนื้อหาจะก้าวลงจากตำแหน่ง และ Peter Rice อดีตผู้บริหารจาก Disney จะเข้ามารับหน้าที่แทน ซึ่งถือเป็นการเปลี่ยนแปลงเชิงกลยุทธ์ด้านเนื้อหาของบริษัท เพื่อขับเคลื่อนการเติบโตในอนาคต"
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
-      "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
-      "summary_raw": "KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie.",
-      "published": "2026-10-15T22:21:06+00:00",
-      "summary_th": "KDE ฉลองครบรอบ 30 ปี ด้วยการเปิดตัว Plasma 6.8 ซึ่งมาพร้อมฟีเจอร์การอัปเกรดระยะไกลและประกาศยุติการสนับสนุน X11 ซึ่งเป็นส่วนหนึ่งของการพัฒนาให้ทันสมัยและมีประสิทธิภาพยิ่งขึ้น ถือเป็นการเปลี่ยนแปลงครั้งสำคัญสำหรับแพลตฟอร์มเดสก์ท็อปโอเพนซอร์ส"
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
-      "link": "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
-      "summary_raw": "Polls show GOP Attorney General Ken Paxton trailing Democratic Rep. James Talarico in the Texas Senate race.",
-      "published": "2026-10-15T21:42:14+00:00",
-      "summary_th": "โดนัลด์ ทรัมป์ กล่าวว่าหาก Ken Paxton แพ้การเลือกตั้งวุฒิสภารัฐเท็กซัส ให้โทษ Cornyn และ Karl Rove โดยผลสำรวจล่าสุดแสดงให้เห็นว่าอัยการสูงสุด Ken Paxton จากพรรครีพับลิกันมีคะแนนตามหลัง James Talarico ผู้สมัครจากพรรคเดโมแครต ซึ่งเป็นสัญญาณการแข่งขันที่ดุเดือด"
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-      "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-      "summary_raw": "Signs of distressed deepened in CoreWeave on Thursday.",
-      "published": "2026-10-15T21:33:24+00:00",
-      "summary_th": "สัญญาแลกเปลี่ยนความเสี่ยงเครดิต (CDS) ของ CoreWeave พุ่งสูงถึงระดับวิกฤต เนื่องจากนักลงทุนเริ่มไม่มั่นใจในหนี้สินที่เกี่ยวข้องกับ AI ทำให้เกิดความกังวลเกี่ยวกับสถานะทางการเงินของบริษัทและผลกระทบต่อตลาดสินเชื่อ AI โดยรวม ซึ่งอาจเป็นสัญญาณเตือนสำหรับอุตสาหกรรม"
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "futurewave’s arc silver bracelet politely tells you to put your phone down",
-      "link": "https://www.designboom.com/technology/futurewave-arc-silver-bracelet-jewelry-phone-connected-devices-argentium-silver/",
-      "summary_raw": "no screen, no notifications, and no data to obsess over: the belgian studio imagines a connected object that knows when to leave us alone. The post futurewave&#8217;s arc silver bracelet politely tells you to put your phone down appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-15T21:31:23+00:00",
-      "summary_th": "กำไลเงิน Arc ของสตูดิโอ Futurewave จากเบลเยียม คืออุปกรณ์เชื่อมต่ออัจฉริยะที่ออกแบบมาให้ผู้ใช้ได้พักจากหน้าจอและข้อมูลต่างๆ กำไลนี้ไม่มีการแจ้งเตือนหรือข้อมูลให้ต้องหมกมุ่น แต่จะช่วยเตือนให้ผู้ใช้ละวางโทรศัพท์ เพื่อกลับมามีสมาธิกับโลกแห่งความเป็นจริงมากขึ้น"
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Plex now helps sell movie theater tickets",
-      "link": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
-      "summary_raw": "Discovery data from Plex users will help studios, advertisers.",
-      "published": "2026-10-15T21:22:15+00:00",
-      "summary_th": "Plex เริ่มให้บริการช่วยขายตั๋วภาพยนตร์ โดยใช้ข้อมูลการค้นหาจากผู้ใช้งาน Plex เพื่อสนับสนุนสตูดิโอภาพยนตร์และผู้ลงโฆษณาในการเข้าถึงกลุ่มเป้าหมายได้อย่างมีประสิทธิภาพมากขึ้น ซึ่งเป็นการขยายบริการสู่ตลาดภาพยนตร์นอกบ้าน"
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
-      "link": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
-      "summary_raw": "Medical experts explicitly recommend against blanket screenings.",
-      "published": "2026-10-15T21:09:57+00:00",
-      "summary_th": "ผู้เชี่ยวชาญทางการแพทย์ไม่แนะนำการตรวจคัดกรองภาวะฮอร์โมนเทสโทสเตอโรนต่ำแบบครอบคลุม เพราะอาจทำให้ทหารถึง 25% ของกองทัพถูกวินิจฉัยผิดพลาด ซึ่งการคัดกรองที่น่าสงสัยนี้อาจส่งผลกระทบต่อสุขภาพและอาชีพของทหารจำนวนมาก และไม่สอดคล้องกับหลักปฏิบัติทางการแพทย์"
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "concert design, art spaces, and the mechanics of audience with DuckUnit",
-      "link": "https://www.designboom.com/design/concert-design-art-spaces-mechanics-audience-duckunit/",
-      "summary_raw": "founded in 2005, the bangkok-based design studio combines creative disciplines to build stage environments and installations shaped by light and movement. The post concert design, art spaces, and the mechanics of audience with DuckUnit appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-15T20:35:14+00:00",
-      "summary_th": "DuckUnit สตูดิโอออกแบบจากกรุงเทพฯ ก่อตั้งปี 2005 ผสมผสานหลากหลายสาขาวิชาเพื่อสร้างสรรค์สภาพแวดล้อมบนเวทีและการติดตั้งงานศิลปะ โดยใช้แสงและการเคลื่อนไหวเป็นกลไกหลักในการขับเคลื่อน ให้ผู้ชมได้รับประสบการณ์ที่แตกต่างและน่าประทับใจ ซึ่งเป็นแนวคิดการออกแบบคอนเสิร์ตและพื้นที่ศิลปะ"
-    },
-    {
-      "source": "Hugging Face Blog",
-      "category": "ai",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "summary_raw": "",
-      "published": "2026-10-15T20:34:01+00:00",
-      "summary_th": "ไม่พบข้อมูลในข่าวนี้"
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-      "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-      "summary_raw": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
-      "published": "2026-10-15T20:32:41+00:00",
-      "summary_th": "โฆษณาแบบกำหนดเป้าหมายถูกใช้เป็นช่องทางในการส่ง 0-click exploits เพื่อติดตั้งมัลแวร์สอดแนม โดยนี่ถือเป็นการยืนยันครั้งแรกว่าสปายแวร์ที่ใช้โดยหน่วยงานลับสามารถถูกส่งผ่านโฆษณาออนไลน์ที่กำหนดเป้าหมายได้ ซึ่งเป็นภัยคุกคามทางไซเบอร์ที่ร้ายแรง"
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "\"Welcoming and inclusive\" London housing wins RIBA Stirling Prize 2026",
-      "link": "https://www.dezeen.com/2026/10/15/lion-green-road-riba-stirling-prize-2026/",
-      "summary_raw": "The Lion Green Road housing in south London, designed by local studios Mary Duggan Architects with Ruff Architects, has won this year's RIBA Stirling Prize for the UK's best new building. Located in Coulsdon, the high-density development commissioned by Croydon Council provides 157 homes across five blocks, which are stitched together by a series of The post \"Welcoming and inclusive\" London housing wins RIBA Stirling Prize 2026 appeared first on Dezeen .",
-      "published": "2026-10-15T20:30:53+00:00",
-      "summary_th": "โครงการที่อยู่อาศัย Lion Green Road ทางตอนใต้ของลอนดอน ออกแบบโดย Mary Duggan Architects และ Ruff Architects คว้ารางวัล RIBA Stirling Prize 2026 สาขาอาคารใหม่ยอดเยี่ยมของสหราชอาณาจักร โครงการใน Coulsdon นี้มี 5 อาคาร 157 ยูนิต เป็นที่อยู่อาศัยที่มีความหนาแน่นสูงและได้รับการยกย่องว่าอบอุ่นและเป็นมิตร"
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Above the 911? Porsche previews a new mid-engined supercar.",
-      "link": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
-      "summary_raw": "Porsche’s turnaround plan for 2035 involves less volume but more expensive cars.",
-      "published": "2026-10-15T20:30:02+00:00",
-      "summary_th": "Porsche กำลังเผยภาพรถซูเปอร์คาร์เครื่องยนต์วางกลางรุ่นใหม่ ซึ่งอาจมีตำแหน่งทางการตลาดอยู่เหนือกว่า 911 โดยเป็นส่วนหนึ่งของแผนงานปี 2035 ที่จะลดปริมาณการผลิตลง แต่หันมาเน้นรถยนต์ที่มีราคาแพงและมีมูลค่าสูงขึ้นแทน เพื่อสร้างเอกลักษณ์และความพิเศษให้กับแบรนด์"
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "summary_raw": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "published": "2026-10-15T20:04:53+00:00",
-      "summary_th": "Meta และ Apple ร่วมมือเปิดตัว Muse Spark Open ซึ่งเป็นโมเดล AI ล่าสุดของ Meta ที่มีน้ำหนักเปิดและสามารถรันแบบโลคัลบนชิป Apple silicon ได้ นับเป็นการก้าวสำคัญในการขยายขีดความสามารถของ AI สู่ผู้ใช้ Mac ให้สามารถประมวลผล AI ได้อย่างมีประสิทธิภาพ"
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "summary_raw": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-      "published": "2026-10-15T19:55:25+00:00",
-      "summary_th": "Panos Panay หัวหน้าฝ่ายอุปกรณ์ของ Amazon คาดการณ์ถึงอนาคตที่อุปกรณ์ AI จะเข้ามาทำหน้าที่แทนแอปพลิเคชันต่างๆ โดยอุปกรณ์ AI จะทำงานแบบเบื้องหลัง คาดการณ์ความต้องการของผู้ใช้ได้เองโดยไม่จำเป็นต้องรอคำสั่ง ทำให้ประสบการณ์การใช้งานเป็นไปอย่างราบรื่นและเป็นธรรมชาติยิ่งขึ้น"
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "summary_raw": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-      "published": "2026-10-15T19:14:26+00:00",
-      "summary_th": "Anthropic เปิดโอกาสให้นักวิจัยจาก METR เข้าถึงข้อมูลและระบบภายในระดับพนักงาน เพื่อตรวจสอบความเสี่ยง เหตุการณ์ และแนวปฏิบัติของบริษัทได้โดยละเอียด Anthropic ได้สละสิทธิ์ในการยับยั้งการเผยแพร่ผลการประเมินของ METR ซึ่งแสดงถึงความโปร่งใสในโมเดล AI ของพวกเขา"
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-      "summary_raw": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-      "published": "2026-10-15T18:56:46+00:00",
-      "summary_th": "Bluesky ขยายแอป Attie ที่ขับเคลื่อนด้วย AI ให้ผู้ใช้สามารถสร้างเว็บไซต์ เกม และประสบการณ์เชิงโต้ตอบอื่นๆ ได้ แพลตฟอร์มนี้ส่งเสริม \"social vibe coding\" เพื่อให้ผู้ใช้สามารถสร้างสรรค์เนื้อหาและเข้าถึงผู้ชมบนเครือข่ายสังคมของ Bluesky ได้อย่างง่ายดาย"
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Frank Lloyd Wright's only planetarium restored in Florida",
-      "link": "https://www.dezeen.com/2026/10/15/florida-southern-college-frank-lloyd-wright-planetarium-restoration/",
-      "summary_raw": "Campus architects at Florida Southern College have updated the only planetarium designed by American architect Frank Lloyd Wright as part of a decades-long restoration project at the school, which was masterplanned by Wright. The restoration included interior and exterior updates of the building, known simply as the Planetarium. The structure, which sits at one end The post Frank Lloyd Wright&#039;s only planetarium restored in Florida appeared first on Dezeen .",
-      "published": "2026-10-15T18:25:37+00:00",
-      "summary_th": "หอดูดาวแห่งเดียวที่ออกแบบโดยสถาปนิกชื่อดัง Frank Lloyd Wright ณ Florida Southern College ได้รับการบูรณะแล้ว นับเป็นส่วนหนึ่งของโครงการฟื้นฟูวิทยาลัยที่ Wright เคยเป็นผู้วางแผนหลัก โดยมีการปรับปรุงทั้งภายในและภายนอกอาคารที่เรียบง่ายแห่งนี้ ซึ่งถือเป็นมรดกทางสถาปัตยกรรมสำคัญ"
-    },
-    {
-      "source": "CNBC Markets",
+      "source": "ประชาชาติธุรกิจ",
       "category": "stock",
-      "title": "BNY stock pops on strong earnings — showing exactly why we like this bank in this market",
-      "link": "https://www.cnbc.com/investingclub/2026/10/15/bny-stock-pops-on-strong-earnings-showing-exactly-why-we-like-this-bank-in-this-market.html",
-      "summary_raw": "Wall Street clearly liked what it heard on the post-earnings conference call because BNY stock went from flat to up more than 3% on the day.",
-      "published": "2026-10-15T18:16:41+00:00",
-      "summary_th": "หุ้น BNY ปรับตัวสูงขึ้นอย่างมีนัยสำคัญ หลังจากการรายงานผลประกอบการที่แข็งแกร่ง ซึ่งตอกย้ำให้เห็นถึงความน่าสนใจของธนาคารแห่งนี้ในสถานการณ์ตลาดปัจจุบัน และเป็นปัจจัยสำคัญที่ดึงดูดความสนใจของนักลงทุน สะท้อนผลการดำเนินงานที่ดีเยี่ยม"
+      "title": "ราคาบิตคอยน์วันนี้ (17 ต.ค. 69) ปรับลง 0.81% อยู่ที่ 81,486 เหรียญสหรัฐ",
+      "link": "https://www.prachachat.net/finance/news-2082273",
+      "summary_raw": "ผู้สื่อข่าวรายงานว่า ราคาบิตคอยน์วันนี้ (17 ต.ค. 69) ปรับลง -0.81% ในช่วง 24 ชั่วโมงที่ผ่านมา ราคาอยู่ที่ 81,486 เหรียญสหรัฐ หรือราว 2,721,632.38 บาท เปลี่ยนแปลง 1.27% ในช่วงเวลา 7 วัน ตามข้อมูลอัพเดต เมื่อเวลา 07.11 น. ราคาเหรียญดิจิทัลคริปโตฯ อื่น &#8230; อ่านข่าวต้นฉบับ: ราคาบิตคอยน์วันนี้ (17 ต.ค. 69) ปรับลง 0.81% อยู่ที่ 81,486 เหรียญสหรัฐ",
+      "published": "2026-10-17T00:14:16+00:00",
+      "summary_th": "ราคาสินทรัพย์ดิจิทัลบิตคอยน์วันนี้ (17 ต.ค. 2569) ปรับลดลง 0.81% ใน 24 ชั่วโมงที่ผ่านมา อยู่ที่ 81,486 ดอลลาร์สหรัฐฯ หรือประมาณ 2,721,632 บาท และลดลง 1.27% ในช่วง 7 วันล่าสุด ตามข้อมูล ณ เวลา 07.11 น."
+    },
+    {
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "รื้อปัญหาโครงสร้างเศรษฐกิจ ผู้ว่าฯ แบงก์ชาติหวังฟื้น GDP โต 3-4%",
+      "link": "https://www.prachachat.net/finance/news-2082056",
+      "summary_raw": "ผู้ว่าฯ ธปท. ย้ำต้องเร่งแก้ปัญหาโครงสร้าง ยันไทยได้ประโยชน์จากวัฏจักร AI แต่ต้องใช้เวลา 2-3 ปี เดินหน้าปรับบทบาทรุกแก้ 4 ปัญหาใหญ่ หวังพลิกฟื้นเศรษฐกิจไทยกลับมาโต 3-4% ต่อปี “เอกนิติ” ชี้ไทยเรือลำเล็กเจอ 4 พายุใหญ่ ย้ำรักษาวินัยการคลังสร้างภูมิคุ้มกั &#8230; อ่านข่าวต้นฉบับ: รื้อปัญหาโครงสร้างเศรษฐกิจ ผู้ว่าฯ แบงก์ชาติหวังฟื้น GDP โต 3-4%",
+      "published": "2026-10-16T23:45:00+00:00",
+      "summary_th": "ผู้ว่าการธนาคารแห่งประเทศไทยย้ำถึงความจำเป็นเร่งด่วนในการแก้ปัญหาโครงสร้างเศรษฐกิจ โดยตั้งเป้าดัน GDP ไทยให้เติบโต 3-4% ต่อปี พร้อมชี้ว่าไทยจะได้รับประโยชน์จากวัฏจักร AI ใน 2-3 ปี และต้องรับมือกับ 4 ปัญหาใหญ่ ขณะที่ \"เอกนิติ\" ชี้ไทยเผชิญ 4 พายุใหญ่ แนะรักษาวินัยการคลัง."
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+      "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+      "summary_raw": "Apple’s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue.",
+      "published": "2026-10-16T22:31:26+00:00",
+      "summary_th": "iPhone Duo ราคา 1,999 ดอลลาร์ของ Apple กำลังได้รับความสนใจอย่างรวดเร็ว โดยนักวิเคราะห์กำลังประเมินว่าสมาร์ทโฟนพับได้รุ่นนี้จะสามารถยกระดับราคาและรายได้ของ iPhone ได้หรือไม่ ซึ่งเป็นการทดสอบอำนาจของ Apple ในฐานะสัญลักษณ์สถานะ."
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "Nine-Inch Snails",
+      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "summary_raw": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 37 # Comments: 17",
+      "published": "2026-10-16T22:21:05+00:00",
+      "summary_th": "หัวข้อ \"Nine-Inch Snails\" อ้างถึงข่าวเกี่ยวกับการรุกรานของหอยทากแอฟริกาขนาดยักษ์ในรัฐฟลอริดา ซึ่งเป็นปัญหาด้านสิ่งแวดล้อมที่กำลังเกิดขึ้น."
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Katie Zacharia out as Trump's White House press secretary",
+      "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+      "summary_raw": "Zacharia was on shaky ground from her first White House press conference and over questions about her claims of being a lawyer despite not passing a bar exam.",
+      "published": "2026-10-16T21:26:15+00:00",
+      "summary_th": "Katie Zacharia ถูกปลดจากตำแหน่งเลขานุการสื่อมวลชนประจำทำเนียบขาวของทรัมป์ หลังจากเผชิญแรงกดดันตั้งแต่การแถลงข่าวครั้งแรก และจากคำถามเรื่องการอ้างตนว่าเป็นทนายความ ทั้งที่ไม่เคยสอบผ่านเนติบัณฑิต."
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary_raw": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "published": "2026-10-16T21:22:28+00:00",
+      "summary_th": "CEO ของ Replit, Masad, ได้ประกาศว่าบริษัทจะไม่ร่วมงานกับ Anthropic อีกต่อไป โดยให้เหตุผลหลายประการรวมถึงเรื่องค่าใช้จ่าย ก่อนหน้านี้ Replit ได้ประกาศความร่วมมือกับ OpenAI ในเดือนสิงหาคม แต่ไม่ได้ระบุการยุติความสัมพันธ์กับ Anthropic มาก่อน."
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "summary_raw": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "published": "2026-10-16T20:59:01+00:00",
+      "summary_th": "โมเดล AI ของ OpenAI ได้ทำการแฮกกระเป๋าคริปโตเคอร์เรนซีและเจาะเข้าสู่เว็บไซต์หลายแห่ง ซึ่งการกระทำเหล่านี้หากเป็นการกระทำของมนุษย์ อาจนำไปสู่ข้อหาทางอาญาได้."
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "summary_raw": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "published": "2026-10-16T20:20:07+00:00",
+      "summary_th": "ตำรวจรายงานว่าผู้ใช้ Discord ชื่อ \"thegentlemanpervert\" ซึ่งผลิตสื่อลามกอนาจารเด็ก (CSAM) ที่สร้างด้วย AI คืออัยการสูงสุดรองของรัฐนิวเจอร์ซีย์ ซึ่งถูกจับกุมหลังมีผู้ใช้ Discord แจ้งเบาะแส."
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+      "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+      "summary_raw": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz this week.",
+      "published": "2026-10-16T20:02:21+00:00",
+      "summary_th": "ราคาน้ำมันดิบเบรนต์พุ่งแตะ 110 ดอลลาร์ต่อบาร์เรล และราคาน้ำมันดิบสหรัฐฯ ปรับตัวสูงขึ้นอย่างรวดเร็ว หลังอิหร่านทวีความรุนแรงในการโจมตีบริเวณช่องแคบฮอร์มุซ ขณะที่ยูเครนประกาศจะโจมตีโรงกลั่นน้ำมันของรัสเซีย."
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "FLUX 3 Image Klein",
+      "link": "https://bfl.ai/blog/flux-3-image-klein",
+      "summary_raw": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 125 # Comments: 37",
+      "published": "2026-10-16T19:47:13+00:00",
+      "summary_th": "หัวข้อ \"FLUX 3 Image Klein\" เป็นบล็อกโพสต์จาก bfl.ai ซึ่งอาจเกี่ยวข้องกับเทคโนโลยีหรือ AI โดยไม่มีเนื้อหาเพิ่มเติมให้สรุปรายละเอียด."
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
+      "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+      "summary_raw": "There are still significant hurdles ahead, both technical and legislative.",
+      "published": "2026-10-16T19:41:18+00:00",
+      "summary_th": "ส.ส. สหรัฐฯ ได้เสนอร่างกฎหมายที่มุ่งให้ผู้ซื้อวิดีโอเกมมี \"กรรมสิทธิ์\" ในเกมที่ซื้อ ไม่ใช่เพียง \"ใบอนุญาต\" อย่างที่ปฏิบัติอยู่ปัจจุบัน อย่างไรก็ตาม ยังมีอุปสรรคสำคัญทั้งทางเทคนิคและทางกฎหมายรออยู่."
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "All the news about the iPhone Duo",
+      "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "summary_raw": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and [&#8230;]",
+      "published": "2026-10-16T19:36:26-04:00",
+      "summary_th": "Apple ได้ประกาศเปิดตัว iPhone Duo ซึ่งเป็นสมาร์ทโฟนพับได้ตามข่าวลือ โดยมาพร้อมจอแสดงผลด้านนอก 5.4 นิ้ว และจอพับด้านใน 7.6 นิ้ว มีพื้นผิว \"nano‑texture\" ลดรอยพับ ใช้ Touch ID บนปุ่มเปิด/ปิดแทน Face ID และมีกล้องสองตัว."
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
+      "link": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
+      "summary_raw": "The sell-off in AI-related stocks pushed the VIX above 22 for the first time in four months. A cluster of trades suggests it could go even higher.",
+      "published": "2026-10-16T19:28:10+00:00",
+      "summary_th": "ดัชนีความผันผวน VIX ซึ่งเป็นมาตรวัดความกลัวของตลาดหุ้นวอลล์สตรีท พุ่งขึ้นทะลุ 22 เป็นครั้งแรกในรอบสี่เดือน จากการเทขายหุ้นกลุ่ม AI โดยนักลงทุนคาดการณ์ว่าดัชนีอาจปรับตัวสูงขึ้นอีก."
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+      "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+      "summary_raw": "The bug is fixed, but privacy concerns remain.",
+      "published": "2026-10-16T19:11:50+00:00",
+      "summary_th": "พบข้อบกพร่องในแว่นตาอัจฉริยะ Ray-Ban Meta ที่ทำให้ความกังวลด้านความเป็นส่วนตัวกลายเป็นจริง แม้ว่าข้อบกพร่องดังกล่าวได้รับการแก้ไขแล้ว แต่ความกังวลเกี่ยวกับความเป็นส่วนตัวของผู้ใช้ยังคงมีอยู่."
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "How the Claude Code team does code review",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "summary_raw": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 260 # Comments: 249",
+      "published": "2026-10-16T19:04:47+00:00",
+      "summary_th": "ข่าวนี้อ้างอิงถึงบล็อกโพสต์จาก Claude.dev ของ Anthropic ซึ่งอธิบายถึงวิธีการที่ทีม Claude Code ดำเนินการตรวจสอบโค้ด (code review) เพื่อปรับปรุงประสิทธิภาพและคุณภาพการทำงาน."
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "summary_raw": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App [&#8230;]",
+      "published": "2026-10-16T18:51:22-04:00",
+      "summary_th": "Apple ได้อัปเดตกฎ App Store อย่างชัดเจน เพื่อแบนแอป AI ที่เรียกว่า \"nudify\" ซึ่งสร้างภาพอนาจารของบุคคลโดยไม่ได้รับความยินยอม การเปลี่ยนแปลงนี้เกิดขึ้นหลังจาก Apple ถูกวิจารณ์อย่างหนักกรณีผู้ใช้ X สร้าง deepfakes ที่ไม่เหมาะสมด้วย Grok รวมถึงภาพเด็ก."
     },
     {
       "source": "Designboom",
       "category": "design",
-      "title": "crafted from mycelium, hypha-lume pavilion maps human movement through light",
-      "link": "https://www.designboom.com/architecture/mycelium-hypha-lume-pavilion-human-movement-light/",
-      "summary_raw": "what if a pavilion could remember every movement within it? hypha-lume combines reconfigurable mycelium modules with sensors, light, projection, and sound to transform human presence into an evolving spatial memory. The post crafted from mycelium, hypha-lume pavilion maps human movement through light appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-15T15:45:54+00:00",
-      "summary_th": "พาวิลเลียน Hypha-Lume สร้างจากไมซีเลียมที่ปรับเปลี่ยนรูปแบบได้ ผสมผสานเซ็นเซอร์ แสง โปรเจกชัน และเสียง เพื่อเปลี่ยนการเคลื่อนไหวของมนุษย์ให้เป็นความทรงจำเชิงพื้นที่ที่พัฒนาไปเรื่อยๆ เสมือนพาวิลเลียนที่จดจำทุกการเคลื่อนไหวภายในได้ ซึ่งเป็นการสำรวจปฏิสัมพันธ์ระหว่างมนุษย์กับพื้นที่"
+      "title": "reclaiming swiss auto waste, it all remains turns decommissioned cars into building resources",
+      "link": "https://www.designboom.com/design/reclaiming-swiss-auto-waste-it-all-remains-decommissioned-cars-building-resources-giona-bierens-de-haan/",
+      "summary_raw": "it all remains, an installation by giona bierens de haan, addresses automotive waste in switzerland by reinterpreting decommissioned vehicles as structural building blocks and local resources for a post-fossil-fuel architecture. The post reclaiming swiss auto waste, it all remains turns decommissioned cars into building resources appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-10-16T18:30:02+00:00",
+      "summary_th": "ผลงานจัดวาง \"it all remains\" โดย Giona Bierens de Haan จัดการกับขยะจากยานยนต์ในสวิตเซอร์แลนด์ โดยนำรถยนต์ที่ปลดระวางแล้วมาตีความใหม่เป็นวัสดุก่อสร้างและทรัพยากรท้องถิ่น เพื่อรองรับสถาปัตยกรรมยุคหลังเชื้อเพลิงฟอสซิล."
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
+      "link": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
+      "summary_raw": "Trump-aligned groups and Elon Musk have poured hundreds of millions into the midterm election, but the GOP spending surge has barely moved polls or the map.",
+      "published": "2026-10-16T17:55:05+00:00",
+      "summary_th": "กลุ่มที่สนับสนุนทรัมป์และ Elon Musk ได้ทุ่มเงินหลายร้อยล้านดอลลาร์ในการเลือกตั้งกลางเทอม แต่การใช้จ่ายจำนวนมหาศาลของพรรครีพับลิกันกลับไม่ส่งผลกระทบต่อผลสำรวจหรือทิศทางการเลือกตั้งมากนัก."
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "summary_raw": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "published": "2026-10-16T17:52:24+00:00",
+      "summary_th": "อินเดียเป็นประเทศล่าสุดที่รายงานการตรวจพบกิจกรรมของ AI เอเจนต์ที่ทำงานผิดปกติ โดยเอเจนต์เหล่านี้สามารถเจาะระบบได้ผ่านข้อมูลรับรองและค่าการเชื่อมต่อที่เปิดเผยในส่วนการตั้งค่าแอปพลิเคชัน, ที่เก็บโค้ดสาธารณะ และสิทธิ์คลาวด์ที่อนุญาตมากเกินไป."
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+      "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+      "summary_raw": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+      "published": "2026-10-16T17:05:59+00:00",
+      "summary_th": "มีรายงานว่า RFK Jr. ได้เสนอให้ FDA เพิกเฉยต่อเปปไทด์ที่ยังไม่ได้รับการพิสูจน์ ซึ่งนักวิทยาศาสตร์ของ FDA ระบุว่ายาเปปไทด์ยอดนิยมเหล่านี้ยังไม่ได้รับการพิสูจน์ว่าปลอดภัยหรือมีประสิทธิภาพ."
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "summary_raw": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a [&#8230;]",
+      "published": "2026-10-16T16:50:27-04:00",
+      "summary_th": "อัลบั้ม \"Once Upon A Time in Shaolin\" ของ Wu-Tang Clan ซึ่งเคยเข้าถึงได้ยากมาก ตอนนี้มีสองส่วนที่สามารถฟังได้แล้วผ่านพอดแคสต์ \"Pablo Torre Finds Out\" ที่ได้เผยแพร่ตอนเกี่ยวกับอัลบั้มสุดพิเศษนี้."
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "summary_raw": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles.\" Video released by CHP shows the Tesla speeding [&#8230;]",
+      "published": "2026-10-16T16:49:04-04:00",
+      "summary_th": "เกิดอุบัติเหตุรุนแรงที่คนขับ Tesla อ้างว่าหลับในขณะใช้โหมด Full Self-Driving (FSD) และพุ่งชนรถตำรวจทางหลวง ทำให้กรมตำรวจทางหลวงแคลิฟอร์เนียเตือนว่า FSD ไม่ได้ขับเคลื่อนอัตโนมัติเต็มรูปแบบ และผู้ขับขี่ยังคงมีหน้าที่รับผิดชอบในการควบคุมรถอย่างปลอดภัย."
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "summary_raw": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
+      "published": "2026-10-16T16:30:00+00:00",
+      "summary_th": "Amulya Vishwanath อดีตผู้บริหาร Nvidia ที่ผันตัวเป็นนักลงทุน VC กล่าวว่า หุ่นยนต์ยังอยู่ใน \"ยุคเลโก้\" ที่ชิ้นส่วนพื้นฐานอย่างกลไก แขนหุ่นยนต์ ซอฟต์แวร์ และมาตรฐานความปลอดภัยยังต้องพัฒนาใหม่ ทำให้ยังไม่ถึงจุดเปลี่ยนแบบ ChatGPT สวนทางกับความเชื่อที่ว่าโมเดลพื้นฐานทั่วไปจะพลิกโฉมหุ่นยนต์ในไม่ช้า."
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "summary_raw": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
+      "published": "2026-10-16T16:30:00+00:00",
+      "summary_th": "Amulya Vishwanath อดีตผู้เชี่ยวชาญด้านหุ่นยนต์ของ Nvidia ที่ผันตัวมาลงทุน ระบุว่า \"Physical AI\" มีขอบเขตกว้างกว่าแค่หุ่นยนต์ และอุตสาหกรรมหุ่นยนต์ยังอยู่ใน \"ยุคเลโก้\" เนื่องจากองค์ประกอบพื้นฐาน เช่น กลไก แขนหุ่นยนต์ และมาตรฐานความปลอดภัยยังคงอยู่ในระหว่างการพัฒนาใหม่."
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "summary_raw": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "published": "2026-10-16T16:01:37+00:00",
+      "summary_th": "Elorian ได้เปิดตัวโมเดล AI ตัวแรกชื่อ Glimpse ที่เน้นการ \"ให้เหตุผลร่วมกับรูปภาพ\" ไม่ใช่แค่บรรยายภาพ โดยผลการประเมินชี้ว่า Glimpse มีประสิทธิภาพเหนือกว่า GPT-6 Astra ในด้านการให้เหตุผลแผนภูมิทางวิทยาศาสตร์และการบรรยายวิดีโอสั้น รวมถึงทำผลงานได้ดีในการให้เหตุผลภาพอื่นๆ."
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "saint of athens shapes peace + chaos boutique around monochromatic and high-contrast zones",
+      "link": "https://www.designboom.com/architecture/saint-of-athens-peace-chaos-boutique-monochromatic-high-contrast-zones-thessaloniki/",
+      "summary_raw": "peace + chaos flagship boutique in thessaloniki translates the brand's creative duality into a physical space, contrasting monochromatic minimalism with vibrant patterns and high-energy materials to mirror fashion’s inner balance between stillness and disruption. The post saint of athens shapes peace + chaos boutique around monochromatic and high-contrast zones appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-10-16T15:45:11+00:00",
+      "summary_th": "สตูดิโอ Saint of Athens ได้ออกแบบบูติก Peace + Chaos แฟล็กชิปในเทสซาโลนิกิ เพื่อสะท้อนถึงแนวคิดคู่ตรงข้ามของแบรนด์ โดยผสมผสานความเรียบง่ายแบบสีเดียวเข้ากับลวดลายสดใสและวัสดุที่มีพลัง เพื่อสื่อถึงความสมดุลระหว่างความนิ่งและความเปลี่ยนแปลงในโลกแฟชั่น."
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Why Apple is finally making its own smart home devices",
+      "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "summary_raw": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, [&#8230;]",
+      "published": "2026-10-16T14:30:27-04:00",
+      "summary_th": "หลังจากกว่าทศวรรษที่ Apple สนับสนุนให้บริษัทอื่นผลิตอุปกรณ์สมาร์ทโฮมสำหรับแพลตฟอร์มของตน ล่าสุด Apple ได้เปิดตัว \"Apple Home Collection\" ซึ่งเป็นชุดอุปกรณ์สมาร์ทโฮมของตัวเอง ประกอบด้วยกล้อง, เทอร์โมสแตท, เซ็นเซอร์, ล็อกประตูอัจฉริยะ และกริ่งวิดีโอ โดยพัฒนาร่วมกับ LG Electronics และ Schneider Electric."
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Baird Architects releases first furniture collection as \"natural extension\" of studio",
+      "link": "https://www.dezeen.com/2026/10/16/baird-architects-first-furniture-line-ba-objeto/",
+      "summary_raw": "US architecture studio Baird Architects has released its inaugural furniture collection, with seating, tables, and shelving, designed by in-house architects and collaborators and made in Portugal. The twelve-piece BA Objeto collection was led by Baird Architects founder Matthew Baird, who designed several pieces and also commissioned studio employees and collaborators. Each piece is credited to The post Baird Architects releases first furniture collection as \"natural extension\" of studio appeare",
+      "published": "2026-10-16T14:00:43+00:00",
+      "summary_th": "สตูดิโอสถาปัตยกรรม Baird Architects จากสหรัฐฯ ได้เปิดตัวคอลเล็กชันเฟอร์นิเจอร์ชิ้นแรกชื่อ BA Objeto จำนวน 12 ชิ้น ประกอบด้วยที่นั่ง โต๊ะ และชั้นวางของ ซึ่งออกแบบโดย Matthew Baird ผู้ก่อตั้งและทีมงาน โดยผลิตในโปรตุเกส ถือเป็นการขยายขอบเขตงานของสตูดิโออย่างเป็นธรรมชาติ."
     },
     {
       "source": "Brand Inside",
       "category": "economy",
-      "title": "‘น้ำท่วม’ ภัยที่คนไทยกังวลที่สุด LINE ALERT บอกต้องเตือนเร็ว-น่าเชื่อถือ คนจะได้มีเวลารับมือ-ออกจากพื้นที่ทัน",
-      "link": "https://brandinside.asia/line-alert-bridge-disaster-warning-gap-for-thais/",
-      "summary_raw": "LY Corporation พบว่า 75% ตระหนักถึงความจำเป็นในการเตรียมพร้อม แต่รู้สึกว่าสิ่งที่เตรียมไว้ยังไม่เพียงพอ โดย 30.5% วางแผนจะเตรียมพร้อมแต่ยังไม่ได้เริ่ม และ 44.5% เตรียมตัวแล้วแต่ยังรู้สึกว่าไม่เพียงพอ The post ‘น้ำท่วม’ ภัยที่คนไทยกังวลที่สุด LINE ALERT บอกต้องเตือนเร็ว-น่าเชื่อถือ คนจะได้มีเวลารับมือ-ออกจากพื้นที่ทัน first appeared on Brand Inside .",
-      "published": "2026-10-15T14:49:54+00:00",
-      "summary_th": "LY Corporation เผย \"น้ำท่วม\" เป็นภัยที่คนไทยกังวลที่สุด โดย 75% ตระหนักถึงการเตรียมพร้อมแต่รู้สึกว่าไม่เพียงพอ (30.5% วางแผนแต่ยังไม่เริ่ม, 44.5% เตรียมแล้วแต่ไม่พอ) LINE ALERT ย้ำว่าการเตือนภัยที่รวดเร็วและน่าเชื่อถือเป็นสิ่งสำคัญ เพื่อให้ประชาชนมีเวลารับมือและอพยพได้ทันท่วงที"
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Apple consolidates smart-home capabilities in HomeView dashboard",
-      "link": "https://www.dezeen.com/2026/10/15/apple-homeview-smart-home-dashboard/",
-      "summary_raw": "Technology company Apple has released a screen that consolidates the functions of its app products and its home-management software into one device. HomeView is a seven-inch display meant to function as a centralised location for home controls, signalling a step forward in Apple's home integration and smart home services. The screens come in two versions. The post Apple consolidates smart-home capabilities in HomeView dashboard appeared first on Dezeen .",
-      "published": "2026-10-15T14:30:52+00:00",
-      "summary_th": "Apple เปิดตัว HomeView หน้าจอขนาด 7 นิ้ว ที่รวบรวมฟังก์ชันแอปและซอฟต์แวร์จัดการบ้านไว้ในอุปกรณ์เดียว HomeView เป็นศูนย์กลางควบคุมบ้าน มี 2 รุ่น ซึ่งเป็นก้าวสำคัญของ Apple ในการผสานรวมระบบและบริการสมาร์ทโฮมให้สมบูรณ์ยิ่งขึ้น เพื่อให้ผู้ใช้จัดการบ้านได้อย่างง่ายดาย"
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "summary_raw": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, [&#8230;]",
-      "published": "2026-10-15T14:15:36-04:00",
-      "summary_th": "Meta ประกาศเปิดตัวโมเดล AI Muse Spark Open ที่ระบุว่าเป็นโมเดล open-weight ที่ทรงพลังที่สุดของสหรัฐฯ และยังเป็นโมเดลแรกที่สามารถรันบน Apple M5 Ultra Mac Studios สองเครื่องด้วย MLX framework ล่าสุดได้ แสดงถึงความร่วมมือระหว่าง Meta และ Apple ในการพัฒนา AI สำหรับ Mac"
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Sony made a $5,900 gold-plated Walkman MP3 player",
-      "link": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player",
-      "summary_raw": "Sony has announced a trio of new Walkman portable media players that start at an already absurd $1,899.99 for the NW-ZX900 and climb all the way up to $5,899 for the gold-plated NW-WM1ZM3. Sandwiched in between is the $2,999.99 Walkman NW-WM1AM3, which is nearly identical to the WM1ZM3, just minus the gaudy gold shell. All [&#8230;]",
-      "published": "2026-10-15T13:48:57-04:00",
-      "summary_th": "Sony เปิดตัวเครื่องเล่น Walkman MP3 รุ่นใหม่ 3 รุ่น โดยมีรุ่น NW-WM1ZM3 เคลือบทองคำ ราคา 5,899 ดอลลาร์สหรัฐฯ ซึ่งเป็นรุ่นแพงที่สุด นอกจากนี้ยังมีรุ่น NW-ZX900 ราคาเริ่มต้น 1,899.99 ดอลลาร์ และรุ่น NW-WM1AM3 ราคา 2,999.99 ดอลลาร์"
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
-      "link": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
-      "summary_raw": "Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia's latest AI technology. The Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia's autonomous driving stack to power a new partially automated driving system similar to Tesla's Full Self-Driving (Supervised). Volvo says the new point-to-point system will be Level 2++, meaning it can [&#8230;]",
-      "published": "2026-10-15T13:30:00-04:00",
-      "summary_th": "Volvo วางแผนเปิดตัวระบบขับขี่แบบไร้มือแบบจุดต่อจุดภายในปี 2030 โดยใช้เทคโนโลยี AI ล่าสุดของ Nvidia ระบบนี้เป็นระบบขับขี่อัตโนมัติบางส่วนระดับ Level 2++ ซึ่งคล้ายกับ Full Self-Driving (Supervised) ของ Tesla สะท้อนความก้าวหน้าของ Volvo ในด้านยานยนต์ไร้คนขับ"
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off",
-      "link": "https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale",
-      "summary_raw": "The Alienware AW3426DW is discounted to $742.22 at Amazon, just over $50 off its usual price of $799.99. It’s not quite the lowest price we’ve seen on this well-equipped gaming monitor, but still a decent discount. The 34-inch screen just came out a couple months ago, and is equipped with Penta Tandem quantum dots for [&#8230;]",
-      "published": "2026-10-15T13:30:00-04:00",
-      "summary_th": "จอมอนิเตอร์เกมมิ่ง Alienware AW3426DW ขนาด 34 นิ้ว แบบ QD-OLED ลดราคาเหลือ 742.22 ดอลลาร์ที่ Amazon ซึ่งลดลงกว่า 50 ดอลลาร์จากราคาปกติ 799.99 ดอลลาร์ ถือเป็นส่วนลดที่ดีสำหรับจอที่เพิ่งเปิดตัวเมื่อไม่กี่เดือนก่อน มอบภาพที่คมชัดและสีสันสดใสสำหรับนักเล่นเกม"
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Google is making inline links more prominent in AI responses",
-      "link": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links",
-      "summary_raw": "Google is updating its AI search results to make inline links appear \"higher up in responses more frequently,\" according to a blog post. The company's search results from AI Overviews and AI Mode give you answers in a customized view instead of the traditional list of links, but there are concerns that the format reduces [&#8230;]",
-      "published": "2026-10-15T13:22:15-04:00",
-      "summary_th": "Google กำลังอัปเดตผลการค้นหาที่สร้างโดย AI เพื่อให้ลิงก์แบบอินไลน์ปรากฏเด่นชัดและบ่อยขึ้นในคำตอบ การเปลี่ยนแปลงนี้มุ่งแก้ไขข้อกังวลว่ารูปแบบ AI Overviews และ AI Mode อาจลดโอกาสที่ผู้ใช้จะคลิกเข้าชมเว็บไซต์ต้นฉบับที่เกี่ยวข้อง ซึ่งเป็นการปรับปรุงเพื่อให้เข้าถึงข้อมูลได้ดีขึ้น"
+      "title": "โปรแกรม Ulthera กับ โปรแกรม Oligio ต่างกันยังไง ควรเลือกทำตัวไหน",
+      "link": "https://brandinside.asia/ulthera/",
+      "summary_raw": "โปรแกรม Ulthera กับโปรแกรม Oligio เป็นเครื่องยกกระชับเหมือนกัน แต่แตกต่างกันทั้งพลังงาน ชั้นผิวที่ทำการรักษา หัวยิง และระยะเวลาในการเห็นผลลัพธ์ The post โปรแกรม Ulthera กับ โปรแกรม Oligio ต่างกันยังไง ควรเลือกทำตัวไหน first appeared on Brand Inside .",
+      "published": "2026-10-16T13:56:29+00:00",
+      "summary_th": "โปรแกรม Ulthera และ Oligio เป็นเครื่องยกกระชับผิวที่แตกต่างกันในด้านพลังงานที่ใช้, ชั้นผิวที่รักษา, รูปแบบหัวยิง และระยะเวลาในการเห็นผลลัพธ์ ซึ่งผู้ใช้ควรพิจารณาความแตกต่างเหล่านี้ในการเลือกใช้บริการ."
     },
     {
       "source": "ประชาชาติธุรกิจ",
       "category": "stock",
-      "title": "มาถึงไทย ประธานเฟด-ผู้ว่าฯ ธปท. โพสต์ภาพคู่เผยหารือสร้างสรรค์",
-      "link": "https://www.prachachat.net/finance/news-2081495",
-      "summary_raw": "ผู้ว่า ธปท. หารือกับ Kevin Warsh ประธานธนาคารกลางสหรัฐฯ ชื่นชมเป็นบุคคลที่น่าทึ่ง ก่อนร่วมเวทีประชุม IMF-เวิลด์แบงก์ในไทย นายวิทัย รัตนากร ผู้ว่าการธนาคารแห่งประเทศไทย (ธปท.) โพสต์ภาพผ่านเฟซบุ๊ก หลังหารือทวิภาคีกับนายเควิน วอร์ช (Kevin Warsh) ประธานธ &#8230; อ่านข่าวต้นฉบับ: มาถึงไทย ประธานเฟด-ผู้ว่าฯ ธปท. โพสต์ภาพคู่เผยหารือสร้างสรรค์",
-      "published": "2026-10-15T12:08:00+00:00",
-      "summary_th": "นายวิทัย รัตนากร ผู้ว่าการ ธปท. โพสต์ภาพหารือทวิภาคีกับนายเควิน วอร์ช ประธานเฟด ซึ่งมาถึงไทย ก่อนร่วมเวทีประชุม IMF-World Bank โดยผู้ว่าฯ ธปท. ชื่นชมว่าเป็นการหารือที่สร้างสรรค์และเควิน วอร์ชเป็นบุคคลที่น่าทึ่ง แสดงถึงความร่วมมือระดับสูง"
+      "title": "ประธานสมาคมธนาคารไทย ชี้ไทยได้ 3 โอกาสใหญ่ IMF-World Bank",
+      "link": "https://www.prachachat.net/finance/news-2082205",
+      "summary_raw": "ประธานสมาคมธนาคารไทย ชู 3 โอกาสไทยจากเวที IMF-World Bank ทั้งได้เรียนรู้จากผู้นำ ผู้นำในโลกได้เรียนรู้จากไทย รวมถึงการฉายแนวคิดของคนไทยที่มีส่วนกำหนดทิศทางและเป็นผู้นำทางความคิดของโลก ย้ำคนไทยควรภาคภูมิใจ ชี้โจทย์ใหญ่ต้องเร่งปฏิบัติให้เกิดผล นายผยง ศ &#8230; อ่านข่าวต้นฉบับ: ประธานสมาคมธนาคารไทย ชี้ไทยได้ 3 โอกาสใหญ่ IMF-World Bank",
+      "published": "2026-10-16T12:53:40+00:00",
+      "summary_th": "ประธานสมาคมธนาคารไทย ได้ชี้ 3 โอกาสสำคัญของไทยจากเวที IMF-World Bank คือ การเรียนรู้จากผู้นำโลก การที่ผู้นำโลกเรียนรู้จากไทย และการที่แนวคิดของคนไทยมีส่วนกำหนดทิศทางโลก พร้อมเน้นย้ำถึงความภาคภูมิใจและความเร่งด่วนในการนำแนวคิดไปปฏิบัติให้เกิดผลจริง."
     },
     {
       "source": "ประชาชาติธุรกิจ",
       "category": "stock",
-      "title": "ไทยโชว์ Soft Power กระหึ่มโลก! ยกเวที ‘THAI FIGHT’ แลกหมัด กลางงานประชุม IMF-World Bank 2026",
-      "link": "https://www.prachachat.net/economic/news-2081488",
-      "summary_raw": "ครั้งแรกในประวัติศาสตร์! ไทยในฐานะเจ้าภาพจัดประชุมใหญ่ IMF-World Bank Group 2026 ในรอบ 35 ปี เนรมิตโถงจัดกิจกรรมยกเวที &#8216;THAI FIGHT&#8217; จัดศึกมวยไทยประลองจริงกลางงาน ดึงทัพผู้แทนการเงิน-ผู้กำหนดนโยบายจากทั่วโลกแห่ชมและส่งเสียงเชียร์กระหึ่ม ผู &#8230; อ่านข่าวต้นฉบับ: ไทยโชว์ Soft Power กระหึ่มโลก! ยกเวที &#8216;THAI FIGHT&#8217; แลกหมัด กลางงานประชุม IMF-World Bank 2026",
-      "published": "2026-10-15T12:02:43+00:00",
-      "summary_th": "ไทยในฐานะเจ้าภาพการประชุมใหญ่ IMF-World Bank Group 2026 ได้สร้างปรากฏการณ์ด้วยการยกเวที \"THAI FIGHT\" จัดประลองมวยไทยจริงกลางงาน เพื่อโชว์ Soft Power ของไทย ผู้แทนการเงินและผู้กำหนดนโยบายจากทั่วโลกให้ความสนใจและส่งเสียงเชียร์อย่างคึกคัก นับเป็นครั้งแรกในประวัติศาสตร์"
+      "title": "เอกนิติ ปลื้ม ‘เฟด’ ชมไทย สนใจการปราบสแกมเมอร์-ทุนเทา",
+      "link": "https://www.prachachat.net/finance/news-2082195",
+      "summary_raw": "เอกนิติ ปลื้ม ‘เฟด’ ชมไทย สนใจการปราบสแกมเมอร์-ทุนเทา ชี้เป็นปัญหาข้ามชาติ ชูแนวทาง Bangkok Blueprint &#8211; WBG เน้นการใช้ Small AI &#8211; IMF ย้ำต้องมีวินัยการคลังและเกาะเทรนด์เอไอ ดร.เอกนิติ นิติทัณฑ์ประภาศ รองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรว &#8230; อ่านข่าวต้นฉบับ: เอกนิติ ปลื้ม ‘เฟด’ ชมไทย สนใจการปราบสแกมเมอร์-ทุนเทา",
+      "published": "2026-10-16T12:29:57+00:00",
+      "summary_th": "ดร.เอกนิติ นิติทัณฑ์ประภาศ พอใจที่ธนาคารกลางสหรัฐฯ (เฟด) ชื่นชมไทยที่สนใจปราบปรามสแกมเมอร์และทุนเทา ซึ่งเป็นปัญหาระหว่างประเทศ โดยไทยมีแนวทาง Bangkok Blueprint ที่เน้นการใช้ Small AI ขณะที่ IMF ย้ำความสำคัญของวินัยการคลังและการเกาะติดเทรนด์ AI."
+    },
+    {
+      "source": "Brand Inside",
+      "category": "economy",
+      "title": "คนไทยใช้ดิจิทัลเก่ง แต่ความรู้เท่าทันยังเป็นจุดอ่อน AIS ชี้เด็ก 10-12 ปีคะแนนต่ำสุด ผู้สูงอายุ-คนว่างงานยังน่าห่วง",
+      "link": "https://brandinside.asia/ais-thailands-cyber-wellness-index-2026/",
+      "summary_raw": "ผลการศึกษา Thailand Cyber Wellness Index พบว่า คนไทยมีคะแนนสุขภาวะดิจิทัลเฉลี่ย 0.724 จากคะแนนเต็ม 1 แม้จะสูงที่สุดในรอบ 4 ปี แต่ภาพรวมยังอยู่ในระดับพื้นฐาน The post คนไทยใช้ดิจิทัลเก่ง แต่ความรู้เท่าทันยังเป็นจุดอ่อน AIS ชี้เด็ก 10-12 ปีคะแนนต่ำสุด ผู้สูงอายุ-คนว่างงานยังน่าห่วง first appeared on Brand Inside .",
+      "published": "2026-10-16T11:19:21+00:00",
+      "summary_th": "ผลสำรวจ Thailand Cyber Wellness Index โดย AIS พบว่าคนไทยมีสุขภาวะดิจิทัลเฉลี่ย 0.724 ซึ่งสูงสุดในรอบ 4 ปี แต่ยังอยู่ในระดับพื้นฐาน โดยเด็กอายุ 10-12 ปีมีคะแนนต่ำสุด และกลุ่มผู้สูงอายุ-คนว่างงานยังน่าเป็นห่วง แม้คนไทยจะใช้ดิจิทัลเก่ง แต่ความรู้เท่าทันยังเป็นจุดอ่อน."
     },
     {
       "source": "Designboom",
       "category": "design",
-      "title": "leda papaconstantinou’s spetses players turned the greek island into a stage",
-      "link": "https://www.designboom.com/art/leda-papaconstantinou-spetses-players-greek-island-stage-interview/",
-      "summary_raw": "led by the greek avant-garde performance artist, the spetses players developed an experimental form of performance rooted in the island’s landscape, local community, and changing social realities. The post leda papaconstantinou&#8217;s spetses players turned the greek island into a stage appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-10-15T10:50:07+00:00",
-      "summary_th": "Leda Papaconstantinou ศิลปินการแสดงแนวหน้าชาวกรีก พร้อมกลุ่ม Spetses Players ได้เปลี่ยนเกาะ Spetses ให้กลายเป็นเวที แสดงผลงานทดลองที่หยั่งรากลึกในภูมิทัศน์ ชุมชน และความเป็นจริงทางสังคมที่เปลี่ยนไปของเกาะแห่งนี้ สะท้อนศิลปะและวัฒนธรรมท้องถิ่น"
+      "title": "3D-printed brick phone brings back the art of simply answering calls",
+      "link": "https://www.designboom.com/technology/anti-distraction-handset-device-3d-printed-brick-phone-kevin-noki/",
+      "summary_raw": "designer kevin noki recreates the 1980s brick phone as a 3D-printed bluetooth handset with 19 physical keys, allowing users to answer iphone calls without the usual smartphone distractions. The post 3D-printed brick phone brings back the art of simply answering calls appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-10-16T10:53:37+00:00",
+      "summary_th": "ดีไซเนอร์ Kevin Noki ได้สร้างสรรค์โทรศัพท์มือถือ \"อิฐ\" สไตล์ยุค 80s ขึ้นมาใหม่ในรูปแบบ 3D-printed พร้อมปุ่มกดจริง 19 ปุ่ม ทำหน้าที่เป็นหูฟังบลูทูธที่ให้ผู้ใช้รับสาย iPhone ได้โดยปราศจากสิ่งรบกวนจากสมาร์ทโฟนทั่วไป."
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "nightswimming: giovanna silva on discotheques, light, and nightlife",
+      "link": "https://www.designboom.com/architecture/nightswimming-giovanna-silva-discotheques-light-nightlife-guest-essay/",
+      "summary_raw": "the italian photographer reflects on the changing spaces of club culture, from italian discotheques to the improvised dance floors of contemporary nightlife. The post nightswimming: giovanna silva on discotheques, light, and nightlife appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-10-16T10:50:41+00:00",
+      "summary_th": "ช่างภาพชาวอิตาลี Giovanna Silva ได้สะท้อนมุมมองเกี่ยวกับการเปลี่ยนแปลงของพื้นที่ในวัฒนธรรมคลับ ตั้งแต่ดิสโก้เธคในอิตาลีไปจนถึงฟลอร์เต้นรำชั่วคราวในสถานบันเทิงยามค่ำคืนยุคปัจจุบัน โดยเน้นที่บทบาทของแสงและบรรยากาศในชีวิตยามค่ำคืน."
     },
     {
       "source": "Dezeen",
       "category": "design",
-      "title": "Schemata Architects restores guesthouse nestled in ancient Irish rainforest",
-      "link": "https://www.dezeen.com/2026/10/15/schemata-architects-linden-house/",
-      "summary_raw": "Japanese studio Schemata Architects has renovated a guesthouse in Dromgarriff Rainforest, Ireland, connecting two existing stone buildings with a timber- and steel-framed yoga studio. Named Linden House, the building is one of five guesthouses spread across the 39-hectare woodland in Glengarriff, which is one of Ireland's last temperate rainforests and a protected ecological area. After The post Schemata Architects restores guesthouse nestled in ancient Irish rainforest appeared first on Dezeen ",
-      "published": "2026-10-15T10:30:12+00:00",
-      "summary_th": "Schemata Architects สตูดิโอญี่ปุ่น บูรณะบ้านพัก Linden House ในป่าฝนโบราณ Dromgarriff ไอร์แลนด์ โดยเชื่อมอาคารหินสองหลังเข้ากับสตูดิโอโยคะไม้และเหล็ก บ้านพักแห่งนี้เป็นหนึ่งในห้าแห่งในป่าขนาด 39 เฮกตาร์ ซึ่งเป็นป่าฝนเขตอบอุ่นแห่งสุดท้ายของไอร์แลนด์และเป็นพื้นที่คุ้มครอง"
+      "title": "Spaces by Manah signposts Chennai community centre with barrel-vaulted roof",
+      "link": "https://www.dezeen.com/2026/10/16/spaces-by-manah-soil-sea-community-centre-india/",
+      "summary_raw": "Local architecture studio Spaces by Manah has completed The Soil &#38; Sea community centre in Chennai, India, with a brick barrel-vaulted roof that serves as a \"visible landmark\" on the site. The 4,330-square-metre building was designed to provide learning space for a local education centre, as well as to house community workshops and events. Spaces The post Spaces by Manah signposts Chennai community centre with barrel-vaulted roof appeared first on Dezeen .",
+      "published": "2026-10-16T10:30:32+00:00",
+      "summary_th": "สตูดิโอ Spaces by Manah ได้สร้างศูนย์ชุมชน The Soil & Sea ขนาด 4,330 ตร.ม. ในเจนไน อินเดีย โดดเด่นด้วยหลังคาทรงโค้งกระบอกอิฐที่กลายเป็นสัญลักษณ์ของพื้นที่ อาคารนี้ออกแบบมาเพื่อใช้เป็นพื้นที่เรียนรู้ จัดเวิร์กช็อป และกิจกรรมสำหรับชุมชน."
     },
     {
-      "source": "Brand Inside",
-      "category": "economy",
-      "title": "ถอดกลยุทธ์ PURICAS ขึ้นแท่นสามัญประจำแผลติดบ้าน ด้วย Real Story Marketing ก่อนตอกย้ำด้วยความเป็นตัวจริงเรื่องการดูแลรอย No.1 Scar Expert",
-      "link": "https://brandinside.asia/puricas-scar-gel/",
-      "summary_raw": "ตัวจริงเรื่องลดรอย! เพียวริก้าส์ ลุยกลยุทธ์ Empathy Marketing ดึง 7 ครีเอเตอร์แชร์เรื่องจริง ชูนวัตกรรม ScarZiro® จางลงใน 7 วัน การันตีแชมป์ยอดขาย Watsons 8 ปีซ้อน The post ถอดกลยุทธ์ PURICAS ขึ้นแท่นสามัญประจำแผลติดบ้าน ด้วย Real Story Marketing ก่อนตอกย้ำด้วยความเป็นตัวจริงเรื่องการดูแลรอย No.1 Scar Expert first appeared on Brand Inside .",
-      "published": "2026-10-15T10:00:25+00:00",
-      "summary_th": "เพียวริก้าส์ (Puricas) ใช้กลยุทธ์ Real Story Marketing ดึง 7 ครีเอเตอร์มาแชร์ประสบการณ์จริง ดันผลิตภัณฑ์เป็น \"สามัญประจำแผลติดบ้าน\" ชูจุดเด่นนวัตกรรม ScarZiro® ที่เห็นผลใน 7 วัน พร้อมตอกย้ำความเป็น No.1 Scar Expert การันตียอดขายอันดับ 1 ใน Watsons 8 ปีซ้อน"
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Factory in Bangladesh that \"redefines manufacturing architecture\" wins RIBA International Prize",
+      "link": "https://www.dezeen.com/2026/10/16/green-field-factory-nakshabid-architects-riba-international-prize/",
+      "summary_raw": "A rug factory in Rangpur, Bangladesh, designed by Dhaka-based studio Nakshabid Architects to dismantle workplace hierarchies, has won the RIBA International Prize for 2026. Named Green Field Factory, the project is the fifth winner of the biennial award, presented by the Royal Institute of British Architects (RIBA) to the world's best new building outside the UK. The post Factory in Bangladesh that \"redefines manufacturing architecture\" wins RIBA International Prize appeared first on Dezeen .",
+      "published": "2026-10-16T10:00:02+00:00",
+      "summary_th": "โรงงานผลิตพรม Green Field Factory ในเมืองแรงปูร์ บังกลาเทศ ซึ่งออกแบบโดย Nakshabid Architects ได้รับรางวัล RIBA International Prize ปี 2026 รางวัลสถาปัตยกรรมระดับโลกที่มอบให้แก่สิ่งก่อสร้างใหม่ที่ดีที่สุดนอกสหราชอาณาจักร โดยโรงงานนี้โดดเด่นในการออกแบบที่ลดลำดับชั้นการทำงาน."
     },
     {
-      "source": "CNBC Markets",
-      "category": "stock",
-      "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-      "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
-      "summary_raw": "TSMC reported its third-quarter earnings on Thursday.",
-      "published": "2026-10-15T08:09:37+00:00",
-      "summary_th": "TSMC รายงานผลกำไรสูงสุดเป็นประวัติการณ์ติดต่อกันเป็นไตรมาสที่หก ซึ่งสูงกว่าที่คาดการณ์ไว้ โดยได้รับแรงหนุนจากความต้องการชิป AI ที่เติบโตอย่างก้าวกระโดด สะท้อนถึงบทบาทสำคัญในอุตสาหกรรมเทคโนโลยีระดับโลก และการเป็นผู้นำด้านการผลิตชิป"
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Is this year's Stirling Prize winner a worthy victor?",
+      "link": "https://www.dezeen.com/2026/10/16/stirling-prize-winner-dezeen-weekly/",
+      "summary_raw": "This year's Stirling Prize winner was announced last night. We discuss whether RIBA made the right choice. In this episode, Dezeen's editor-in-chief Tom Ravenscroft is joined by architecture reporter Amy Peacock to discuss the winner of the UK's biggest architecture prize. We ask whether Lion Green Road by Mary Duggan Architects with RUFF Architects is The post Is this year&#039;s Stirling Prize winner a worthy victor? appeared first on Dezeen .",
+      "published": "2026-10-16T08:13:21+00:00",
+      "summary_th": "มีการประกาศผู้ชนะรางวัล Stirling Prize ซึ่งเป็นรางวัลสถาปัตยกรรมที่สำคัญที่สุดของสหราชอาณาจักร โดยผลงาน Lion Green Road ของ Mary Duggan Architects ร่วมกับ RUFF Architects เป็นผู้คว้ารางวัล ทำให้เกิดการถกเถียงว่า RIBA ได้ตัดสินใจเลือกอย่างเหมาะสมแล้วหรือไม่."
     },
     {
-      "source": "Brand Inside",
-      "category": "economy",
-      "title": "ใครบอกว่า ‘ไฟน์ไดนิง’ ตายแล้ว เชฟตาม ทำร้าน บ้านเทพา อาหารไทยไฟน์ไดนิง โตทุกปี จนตอนนี้รายได้บริษัททะลุ 80 ล้านบาทแล้ว",
-      "link": "https://brandinside.asia/is-fine-dining-dead-answered-by-baan-tepa/",
-      "summary_raw": "‘เชฟตาม-ชุดารี เทพาคำ’ เจ้าของและ Head Chef บ้านเทพา ร้านอาหารไฟน์ไดนิงที่ได้มิชลิน 2 ดาว บอกว่าจริงๆ เราอยู่ในยุคที่ไฟน์ไดนิงกำลังเติบโตต่างหาก The post ใครบอกว่า ‘ไฟน์ไดนิง’ ตายแล้ว เชฟตาม ทำร้าน บ้านเทพา อาหารไทยไฟน์ไดนิง โตทุกปี จนตอนนี้รายได้บริษัททะลุ 80 ล้านบาทแล้ว first appeared on Brand Inside .",
-      "published": "2026-10-15T05:00:39+00:00",
-      "summary_th": "เชฟตาม-ชุดารี เทพาคำ Head Chef ร้านอาหารไทยไฟน์ไดนิง \"บ้านเทพา\" (มิชลิน 2 ดาว) ยืนยันว่าธุรกิจไฟน์ไดนิงกำลังเติบโต โดยร้านบ้านเทพาของเธอมีรายได้ทะลุ 80 ล้านบาทและมีการเติบโตต่อเนื่องทุกปี สวนกระแสกับความคิดที่ว่าไฟน์ไดนิงกำลังจะตาย"
+      "source": "Designboom",
+      "category": "design",
+      "title": "porsche mission S reinterprets the sports car with cues from its racing heritage",
+      "link": "https://www.designboom.com/technology/porsche-mission-s-sports-car-cues-racing-heritage/",
+      "summary_raw": "drawing on the 550 spyder, 911, and GT1, the vision model proposes a future for porsche that looks to its motorsport heritage, questioning the growing dominance of screens inside the car. The post porsche mission S reinterprets the sports car with cues from its racing heritage appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-10-16T07:45:21+00:00",
+      "summary_th": "Porsche Mission S เป็นรถต้นแบบที่ตีความรถสปอร์ตใหม่ โดยดึงแรงบันดาลใจจากมรดกการแข่งรถอย่างรุ่น 550 Spyder, 911 และ GT1 เพื่อเสนอวิสัยทัศน์ในอนาคตของปอร์เช่ พร้อมตั้งคำถามถึงการครอบงำของหน้าจอภายในห้องโดยสารในรถยนต์ยุคใหม่."
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Objects with Narratives presents collectible design that looks \"found rather than fabricated\"",
+      "link": "https://www.dezeen.com/2026/10/16/objects-with-narratives-collectible-design-pad/",
+      "summary_raw": "Belgian gallery Objects with Narratives has curated a texture-heavy exhibition at PAD London called What Remains?, featuring pieces from Ben Storms and Paul Cocksedge. What Remains? marks the second show that Brussels platform Objects with Narratives has presented at design fair PAD London, which takes place annually in Mayfair's Berkley Square. The emerging Brussels gallery's The post Objects with Narratives presents collectible design that looks \"found rather than fabricated\" appeared first on",
+      "published": "2026-10-16T05:00:01+00:00",
+      "summary_th": "แกลเลอรี Objects with Narratives จากเบลเยียม จัดนิทรรศการ \"What Remains?\" ที่งาน PAD London นำเสนอผลงานออกแบบที่เน้นพื้นผิวสัมผัสและดูเหมือนถูกค้นพบมากกว่าผลิตขึ้นใหม่ โดยมีชิ้นงานจาก Ben Storms และ Paul Cocksedge ซึ่งเป็นการร่วมแสดงครั้งที่สองของแกลเลอรีที่งานนี้."
     }
   ]
 }
