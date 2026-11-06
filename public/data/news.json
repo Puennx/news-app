@@ -1,466 +1,466 @@
 {
-  "updated_at": "2026-11-05T05:56:05.540386+00:00",
-  "date": "2026-11-05",
+  "updated_at": "2026-11-06T05:57:19.566342+00:00",
+  "date": "2026-11-06",
   "count": 51,
   "items": [
     {
+      "source": "Brand Inside",
+      "category": "economy",
+      "title": "Nose Tea เปิดแบรนด์ใหม่ ขาย ‘ชาขนมไทย’ ชื่อ ‘รัชนี’ จะดื่มก็ได้ จะเคี้ยวก็ดี เริ่มต้น 100 บาท มีหมด ชาบัวลอย-ชาขนมเบื้อง-ชาข้าวเหนียวเปียกลำไย",
+      "link": "https://brandinside.asia/ratchanee-nose-tea-new-brand/",
+      "summary_raw": "Nose Tea เปิดตัว ‘รัชนี’ ในนิยามของการเป็น “ชาขนมไทย” ที่นำบัวลอยไข่หวาน ข้าวเหนียวเปียกลำไย และขนมเบื้อง มาตีความใหม่ เป็นชาที่จะดื่มหรือเคี้ยวก็ได้ในแก้วเดียว The post Nose Tea เปิดแบรนด์ใหม่ ขาย ‘ชาขนมไทย’ ชื่อ ‘รัชนี’ จะดื่มก็ได้ จะเคี้ยวก็ดี เริ่มต้น 100 บาท มีหมด ชาบัวลอย-ชาขนมเบื้อง-ชาข้าวเหนียวเปียกลำไย first appeared on Brand Inside .",
+      "published": "2026-11-06T05:45:52+00:00",
+      "summary_th": ""
+    },
+    {
       "source": "CNBC Top News",
       "category": "economy",
-      "title": "Russia, China may be more aggressive if they feel Trump is on \"his way out\": Brookings",
-      "link": "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html",
-      "summary_raw": "Russia and China may be more aggressive if they feel that U.S. President Donald Trump is on \"his way out\" after the Democratic Party flipped the midterms.",
-      "published": "2026-11-05T05:30:27+00:00",
-      "summary_th": "สถาบัน Brookings ชี้ว่ารัสเซียและจีนอาจมีท่าทีแข็งกร้าวมากขึ้น หากพวกเขารู้สึกว่าประธานาธิบดีโดนัลด์ ทรัมป์ของสหรัฐฯ กำลังจะพ้นจากตำแหน่ง หลังพรรคเดโมแครตพลิกชนะการเลือกตั้งกลางเทอม ซึ่งอาจส่งผลต่อพลวัตทางภูมิรัฐศาสตร์"
+      "title": "India as an AI hedge? The country's stocks could see robust inflows as markets globally tank",
+      "link": "https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html",
+      "summary_raw": "Over the last month, India's benchmark Nifty 50 has gained nearly 8%, outperforming global tech-heavy markets such as South Korea, Taiwan and the U.S.",
+      "published": "2026-11-06T05:41:51+00:00",
+      "summary_th": ""
     },
     {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "ธปท. หยุดรับคำขอใบอนุญาตร้านแลกเงินชั่วคราว เตรียมยกระดับมาตรฐานธุรกิจใหม่",
-      "link": "https://www.prachachat.net/finance/news-2091496",
-      "summary_raw": "ธปท. เตรียมยกระดับมาตรฐานธุรกิจ Money Changer พร้อมประกาศปิดรับสมัครการยื่นขอใบอนุญาตชั่วคราวปี 2570 ชี้ผู้ที่จะประกอบธุรกิจในปีหน้า ต้องยื่นขอภายในปี 2569 นี้ ระบุกลับมาเปิดรับใหม่ปี 2571 นางสาวพิมพ์พันธ์ เจริญขวัญ ผู้ช่วยผู้ว่าการ สายตลาดการเงิน ธน &#8230; อ่านข่าวต้นฉบับ: ธปท. หยุดรับคำขอใบอนุญาตร้านแลกเงินชั่วคราว เตรียมยกระดับมาตรฐานธุรกิจใหม่",
-      "published": "2026-11-05T05:28:33+00:00",
-      "summary_th": "ธนาคารแห่งประเทศไทย (ธปท.) ประกาศหยุดรับคำขอใบอนุญาตร้านแลกเงินชั่วคราวในปี 2570 เพื่อยกระดับมาตรฐานธุรกิจ Money Changer ผู้ที่ต้องการประกอบธุรกิจในปีหน้าต้องยื่นภายในปี 2569 นี้เท่านั้น โดย ธปท. จะกลับมาเปิดรับคำขอใหม่อีกครั้งในปี 2571"
-    },
-    {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "แบงก์ชาติ เกาะติดผลกระทบ “ทรัมป์” แพ้เลือกตั้ง เอฟเฟกต์ “ค่าเงิน-ราคาน้ำมัน-การค้า”",
-      "link": "https://www.prachachat.net/finance/news-2091484",
-      "summary_raw": "ธปท. ชี้ผลเลือกตั้งสหรัฐฯ เปลี่ยนขั้วอำนาจสภาสูง-สภาล่าง ตลาดตอบรับทันที น้ำมันร่วง 9% คาดสงครามจบเร็ว หุ้นพุ่งรับสัญญาญบวก จับตาทิศทางนโยบายทรัมป์กระทบเศรษฐกิจโลก-ไทย พร้อมประเมินเศรษฐกิจไทยยังอยู่ในภาวะ K-shaped ธปท. เดินหน้าดูแลเสถียรภาพพร้อมประคั &#8230; อ่านข่าวต้นฉบับ: แบงก์ชาติ เกาะติดผลกระทบ &#8220;ทรัมป์&#8221; แพ้เลือกตั้ง เอฟเฟกต์ &#8220;ค่าเงิน-ราคาน้ำมัน-การค้า&#8221;",
-      "published": "2026-11-05T05:06:50+00:00",
-      "summary_th": "ธนาคารแห่งประเทศไทย (ธปท.) กำลังติดตามผลกระทบจากการเลือกตั้งสหรัฐฯ ที่เปลี่ยนขั้วอำนาจในสภาสูงและสภาล่าง ส่งผลให้ตลาดตอบรับทันที ทั้งราคาน้ำมันร่วง 9% และหุ้นปรับขึ้น ธปท. ยังคงจับตานโยบายของทรัมป์ที่มีผลต่อเศรษฐกิจโลกและไทย พร้อมประเมินเศรษฐกิจไทยยังคงอยู่ในภาวะฟื้นตัวแบบ K-shaped"
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
+      "link": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
+      "summary_raw": "Bob McNally predicts that both Brent and West Texas Intermediate futures will jump above $100.",
+      "published": "2026-11-06T05:27:24+00:00",
+      "summary_th": ""
     },
     {
       "source": "Brand Inside",
       "category": "economy",
-      "title": "ใครว่า ‘โรงรับจำนำ’ มีไว้สำหรับคนอับจนหนทาง? คนไทยใช้หาทุน ไปคว้าโอกาส ตอนเศรษฐกิจฟื้น Easy Money บอก ลูกค้า 90% ไถ่ของคืนได้หมด",
-      "link": "https://brandinside.asia/easy-money-customers-use-pawn-loans-to-seize-opportunities/",
-      "summary_raw": "สิทธิวิชญ์บอกว่า คนที่มาใช้บริการโรงรับจำนำไม่ใช่คนที่อับจนหนทาง แต่เป็นวิธีการเบิกเงินที่ “ฉลาด” โดยกว่า 90% ของลูกค้า Easy Money สามารถไถ่ถอนทรัพย์สินคืน The post ใครว่า ‘โรงรับจำนำ’ มีไว้สำหรับคนอับจนหนทาง? คนไทยใช้หาทุน ไปคว้าโอกาส ตอนเศรษฐกิจฟื้น Easy Money บอก ลูกค้า 90% ไถ่ของคืนได้หมด first appeared on Brand Inside .",
-      "published": "2026-11-05T05:00:56+00:00",
-      "summary_th": "Easy Money เผยว่าโรงรับจำนำไม่ใช่แค่ที่พึ่งสุดท้าย แต่คนไทยจำนวนมากใช้เป็นช่องทาง \"ฉลาด\" ในการหาทุนเพื่อคว้าโอกาสช่วงเศรษฐกิจฟื้นตัว โดย 90% ของลูกค้าสามารถไถ่ถอนทรัพย์สินคืนได้ แสดงให้เห็นถึงการใช้บริการเพื่อสภาพคล่องทางการเงิน"
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Lemmings CSS Animation",
-      "link": "https://markblah.github.io/lemmings/",
-      "summary_raw": "Article URL: https://markblah.github.io/lemmings/ Comments URL: https://news.ycombinator.com/item?id=50375354 Points: 4 # Comments: 1",
-      "published": "2026-11-05T04:54:10+00:00",
-      "summary_th": "\"Lemmings CSS Animation\" เป็นผลงานแอนิเมชันที่สร้างขึ้นโดยใช้ CSS ซึ่งแสดงตัวละคร Lemmings ที่เป็นที่รู้จักจากเกมคลาสสิก โดยผู้สนใจสามารถดูผลงานและอ่านคอมเมนต์เพิ่มเติมได้ทางลิงก์บทความที่ให้ไว้"
-    },
-    {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "Bitget ชี้บิตคอยน์ลุ้นกลับทิศ เปิดสถิติหลังเลือกตั้งสหรัฐผ่านจุดต่ำสุดใน 1 เดือน",
-      "link": "https://www.prachachat.net/finance/news-2091467",
-      "summary_raw": "Bitget มองตลาดคริปโตยังมีโอกาสฟื้นตัว แม้เดโมแครตครองเสียงข้างมากสองสภาสหรัฐ ชี้สถิติหลังเลือกตั้งกลางเทอม บิตคอยน์มักผ่านจุดต่ำสุดของรอบภายใน 1 เดือน จับตาแนวรับสำคัญ 76,000 ดอลลาร์ พร้อมประเมินเหตุแฮกแพลตฟอร์มคริปโตกระทบความเชื่อมั่นเพียงระยะสั้น น &#8230; อ่านข่าวต้นฉบับ: Bitget ชี้บิตคอยน์ลุ้นกลับทิศ เปิดสถิติหลังเลือกตั้งสหรัฐผ่านจุดต่ำสุดใน 1 เดือน",
-      "published": "2026-11-05T04:32:34+00:00",
-      "summary_th": "Bitget ประเมินว่าตลาดคริปโตยังมีโอกาสฟื้นตัว แม้เดโมแครตจะครองเสียงข้างมากทั้งสองสภาสหรัฐฯ โดยสถิติชี้ว่าหลังเลือกตั้งกลางเทอม บิตคอยน์มักผ่านจุดต่ำสุดของรอบภายใน 1 เดือน พร้อมจับตาแนวรับสำคัญที่ 76,000 ดอลลาร์ และเชื่อว่าเหตุการณ์แฮกแพลตฟอร์มคริปโตจะส่งผลกระทบต่อความเชื่อมั่นในระยะสั้นเท่านั้น"
-    },
-    {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "บล.กสิกรไทย มองไทยรับโชค! ดาต้าเซ็นเตอร์สหรัฐ เสี่ยงชะงัก ชู 6 หุ้นรับอานิสงส์",
-      "link": "https://www.prachachat.net/finance/news-2091462",
-      "summary_raw": "บล.กสิกรไทย (KS) มองชัยชนะเดโมแครตเพิ่มความเสี่ยงโครงการดาต้าเซ็นเตอร์สหรัฐล่าช้า 12-18 เดือน เปิดโอกาสกระจายฐานลงทุนสู่ไทย ชู WHA-AMATA-GULF-BGRIM-EASTW-WHAUP รับอานิสงส์ บริษัทหลักทรัพย์ กสิกรไทย จำกัด (มหาชน) หรือ KS ประเมินว่า ชัยชนะของผู้ว่าการร &#8230; อ่านข่าวต้นฉบับ: บล.กสิกรไทย มองไทยรับโชค! ดาต้าเซ็นเตอร์สหรัฐ เสี่ยงชะงัก ชู 6 หุ้นรับอานิสงส์",
-      "published": "2026-11-05T04:25:33+00:00",
-      "summary_th": "บล.กสิกรไทย (KS) ชี้ว่าประเทศไทยจะได้รับประโยชน์ หลังชัยชนะของพรรคเดโมแครตในการเลือกตั้งสหรัฐฯ อาจทำให้โครงการดาต้าเซ็นเตอร์ในสหรัฐฯ ชะงักงัน 12-18 เดือน เปิดโอกาสให้เงินลงทุนไหลเข้าไทย KS แนะนำ 6 หุ้นที่ได้รับอานิสงส์ ได้แก่ WHA, AMATA, GULF, BGRIM, EASTW, และ WHAUP"
-    },
-    {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "ราคาทองวันนี้ (5 พ.ย. 69) พุ่งขึ้น 1,100 บาท ทองรูปพรรณบาทละ 66,300 บาท",
-      "link": "https://www.prachachat.net/finance/news-2091383",
-      "summary_raw": "อัพเดตล่าสุด 5 พ.ย. 2569 เวลา 11.03 น. ราคาทองคำวันนี้ (5 พ.ย. 2569) พุ่งขึ้น 1,100 บาท เมื่อเทียบกับราคาปิดวานนี้ ทองรูปพรรณขายออกที่บาทละ 66,300 บาท อ้างอิงข้อมูลล่าสุดจากสมาคมค้าทองคำ ที่เผยแพร่ผ่านทางเว็บไซต์ เมื่อเวลา 11.03 น. ที่ผ่านมา ทองคำแท่ &#8230; อ่านข่าวต้นฉบับ: ราคาทองวันนี้ (5 พ.ย. 69) พุ่งขึ้น 1,100 บาท ทองรูปพรรณบาทละ 66,300 บาท",
-      "published": "2026-11-05T04:15:31+00:00",
-      "summary_th": "ราคาทองคำวันนี้ (5 พ.ย. 2569) ปรับขึ้น 1,100 บาท เมื่อเทียบกับราคาปิดเมื่อวานนี้ โดยราคาทองรูปพรรณขายออกอยู่ที่บาทละ 66,300 บาท อ้างอิงข้อมูลล่าสุดจากสมาคมค้าทองคำ ณ เวลา 11.03 น. ซึ่งเป็นการปรับขึ้นอย่างมีนัยสำคัญ"
+      "title": "‘ธนินท์’ มองอนาคตโรงงาน ใช้หุ่นยนต์ทำงาน 24 ชั่วโมง ไม่ต้องมีสวัสดิการ ไม่ต้องเปิดไฟ ต้นทุนถูกลง",
+      "link": "https://brandinside.asia/dhanin-shares-vision-on-ai-and-humanoid-robots/",
+      "summary_raw": "ธนินท์ มองว่า AI จะช่วยให้มนุษย์ทำงานเก่งขึ้น และมีประสิทธิภาพมากกว่าเดิม เพราะคนหนึ่งคนสามารถทำงานได้มากขึ้นในเวลา และใช้ทรัพยากรน้อยลง ตามแนวคิดทำน้อยได้มาก The post ‘ธนินท์’ มองอนาคตโรงงาน ใช้หุ่นยนต์ทำงาน 24 ชั่วโมง ไม่ต้องมีสวัสดิการ ไม่ต้องเปิดไฟ ต้นทุนถูกลง first appeared on Brand Inside .",
+      "published": "2026-11-06T05:08:16+00:00",
+      "summary_th": ""
     },
     {
       "source": "CNBC Top News",
       "category": "economy",
-      "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
-      "link": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
-      "summary_raw": "Growing competition for semiconductor talent is fueling a battle over trade secrets as Chinese chipmakers gain ground.",
-      "published": "2026-11-05T03:53:18+00:00",
-      "summary_th": "สงครามแย่งชิงบุคลากรในอุตสาหกรรมชิปกำลังทวีความรุนแรงขึ้น โดยมีการต่อสู้แย่งชิงความลับทางการค้าเป็นเดิมพัน ขณะที่บริษัทผลิตชิปของจีนกำลังก้าวขึ้นมาเป็นคู่แข่งที่แข็งแกร่งและมีอิทธิพลมากขึ้นในตลาดโลก"
+      "title": "Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections",
+      "link": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+      "summary_raw": "Oil prices rose Friday as investors weighed the risk of renewed U.S.-Iran military escalation after the midterms, alongside prospects for a diplomatic breakthrough.",
+      "published": "2026-11-06T05:06:56+00:00",
+      "summary_th": ""
     },
     {
-      "source": "Designboom",
-      "category": "design",
-      "title": "SpY installs giant black triangle in madrid square to explore urban surveillance",
-      "link": "https://www.designboom.com/art/spy-giant-black-triangle-madrid-square-urban-surveillance-panopticon/",
-      "summary_raw": "the 20-meter black triangular intervention is equipped with concealed viewing apertures and apex-mounted CCTV cameras that return fragmented live feeds of the surrounding plaza. The post SpY installs giant black triangle in madrid square to explore urban surveillance appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-11-05T03:15:28+00:00",
-      "summary_th": "ศิลปิน SpY ได้ติดตั้งประติมากรรมรูปสามเหลี่ยมสีดำขนาดยักษ์สูง 20 เมตร กลางจัตุรัสในกรุงมาดริด โดยมีช่องมองภาพที่ซ่อนอยู่และกล้องวงจรปิดที่ปลายยอด เพื่อสำรวจประเด็นการเฝ้าระวังในพื้นที่เมืองผ่านภาพสดที่แตกเป็นเสี่ยงๆ"
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "‘หยวนต้า’ ชูหุ้นไต้หวันรับเมกะเทรนด์ AI เปิดทางลงทุน TSMC ผ่าน DR ‘TAIWAN19’",
+      "link": "https://www.prachachat.net/finance/news-2092328",
+      "summary_raw": "บล.หยวนต้า เปิดมุมมองลงทุนหุ้นไต้หวันรับกระแส AI และความต้องการชิปขั้นสูง ผ่าน DR “TAIWAN19” อ้างอิงกองทุน ETF หุ้นใหญ่ไต้หวัน 50 บริษัท นำโดย TSMC พร้อม MediaTek และ Foxconn ซื้อขายเป็นเงินบาทผ่านตลาดหุ้นไทย บริษัทหลักทรัพย์ หยวนต้า (ประเทศไทย) จำกั &#8230; อ่านข่าวต้นฉบับ: &#8216;หยวนต้า&#8217; ชูหุ้นไต้หวันรับเมกะเทรนด์ AI เปิดทางลงทุน TSMC ผ่าน DR &#8216;TAIWAN19&#8217;",
+      "published": "2026-11-06T04:54:33+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "ราคาทองวันนี้ (6 พ.ย. 69) ร่วงลง 1,050 บาท ทองรูปพรรณบาทละ 65,000 บาท",
+      "link": "https://www.prachachat.net/finance/news-2092120",
+      "summary_raw": "อัพเดตล่าสุด 6 พ.ย. 2569 เวลา 11.38 น. ราคาทองคำวันนี้ (6 พ.ย. 2569) ร่วงลง 1,050 บาท เมื่อเทียบกับราคาปิดวานนี้ ทองรูปพรรณขายออกที่บาทละ 65,000 บาท อ้างอิงข้อมูลล่าสุดจากสมาคมค้าทองคำ ที่เผยแพร่ผ่านทางเว็บไซต์ เมื่อเวลา 11.38 น. ที่ผ่านมา ทองคำแท่งม &#8230; อ่านข่าวต้นฉบับ: ราคาทองวันนี้ (6 พ.ย. 69) ร่วงลง 1,050 บาท ทองรูปพรรณบาทละ 65,000 บาท",
+      "published": "2026-11-06T04:42:05+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "How accurately did science fiction stories predict AI?",
+      "link": "https://jamesyu.org/science-fiction-predictions-of-ai/",
+      "summary_raw": "Article URL: https://jamesyu.org/science-fiction-predictions-of-ai/ Comments URL: https://news.ycombinator.com/item?id=50388263 Points: 7 # Comments: 1",
+      "published": "2026-11-06T04:36:22+00:00",
+      "summary_th": ""
     },
     {
       "source": "Brand Inside",
       "category": "economy",
-      "title": "เดิน 10,000 ก้าวต่อวัน ช่วยลดเสี่ยง ‘เบาหวาน-มะเร็ง’ Garmin เผยวิจัย เปลี่ยนพฤติกรรมเล็กๆ น้อยๆ ทำให้ ‘แก่แบบสุขภาพดี’ นานขึ้น บางเคสยืดเวลาได้เกือบสิบปี",
-      "link": "https://brandinside.asia/garmin-health-summit-2026/",
-      "summary_raw": "‘การ์มิน’ เปิดเวที Garmin Health Summit 2026 ครั้งแรกในประเทศไทย โดยรวมผู้เชี่ยวชาญด้านสุขภาพ นักวิจัย และผู้นำจากหลากหลายอุตสาหกรรมทั่วโลก เพื่อพูดคุยถึงอนาคตของการดูแลสุขภาพผ่านนวัตกรรมดิจิทัล การพัฒนาโซลูชัน และแลกเปลี่ยนมุมมองของเทคโนโลยีติดตามสุขภาพ The post เดิน 10,000 ก้าวต่อวัน ช่วยลดเสี่ยง ‘เบาหวาน-มะเร็ง’ Garmin เผยวิจัย เปลี่ยนพฤติกรรมเล็กๆ น้อยๆ ทำให้ ‘แก่แบบสุขภาพดี’ นานขึ้น บางเคสยืดเวลาได้เกือบสิบปี first appeared on Brand Inside .",
-      "published": "2026-11-05T02:46:26+00:00",
-      "summary_th": "Garmin จัดงาน Garmin Health Summit 2026 ครั้งแรกในไทย โดยผู้เชี่ยวชาญเผยว่า การเดิน 10,000 ก้าวต่อวันช่วยลดความเสี่ยงเบาหวานและมะเร็งได้ ทำให้แก่แบบสุขภาพดีนานขึ้นถึงเกือบสิบปี งานนี้รวบรวมผู้เชี่ยวชาญเพื่อหารืออนาคตสุขภาพผ่านนวัตกรรมดิจิทัลและการติดตามสุขภาพ"
+      "title": "ทรู “AI-First Telco Tech” ปี 2570: ส่ง AI คุมเน็ตเวิร์ก ปั้น 1,100 mini-CEOs รุก B2B สู้ศึกเศรษฐกิจ",
+      "link": "https://brandinside.asia/true-ai-first-telco-tech-2027/",
+      "summary_raw": "ทรู คอร์ปอเรชั่น ประกาศเดินหน้าแผนยุทธศาสตร์ปี 2570 ก้าวเข้าสู่ปีที่ 2 ภายใต้กรอบ “Big Moves” เพื่อปรับโครงสร้างองค์กรสู่การเป็น “AI-first telco tech” หรือองค์กรเทคโนโลยีที่มีฐานบริการโทรคมนาคมและขับเคลื่อนธุรกิจด้วยปัญญาประดิษฐ์เป็นแกนหลัก The post ทรู “AI-First Telco Tech” ปี 2570: ส่ง AI คุมเน็ตเวิร์ก ปั้น 1,100 mini-CEOs รุก B2B สู้ศึกเศรษฐกิจ first appeared on Brand Inside .",
+      "published": "2026-11-06T04:21:00+00:00",
+      "summary_th": ""
     },
     {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "summary_raw": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-      "published": "2026-11-05T01:26:22+00:00",
-      "summary_th": "มีรายงานว่า Apple กำลังปรับลดงบประมาณที่ใช้สำหรับ AI ภายในองค์กรอย่างมีนัยสำคัญ โดยเน้นไปที่การลดค่าใช้จ่ายด้าน AI ของทีมวิศวกรรม ซึ่งอาจส่งผลต่อการพัฒนาและนำ AI มาใช้ในโปรเจกต์ต่างๆ ของบริษัทในอนาคต"
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "แนวโน้มราคาทองวันนี้ (6 พ.ย. 69) บทวิเคราะห์โดย YLG Bullion",
+      "link": "https://www.prachachat.net/finance/news-2092296",
+      "summary_raw": "แนวโน้มราคาทองวันนี้ บริษัท วายแอลจี บูลเลี่ยน อินเตอร์เนชั่นแนล จำกัด รายงานราคาทองคำประจำวันที่ 6 พ.ย. 2569 คำแนะนำ • วานนี้ราคาเริ่มชะลอการปรับขึ้น พร้อมเริ่มมีแรงขายหลังราคาเข้าสู่สภาวะ Overbought แต่การพักตัวของราคายังไม่หลุด $4,075-4,057 ทำให้ร &#8230; อ่านข่าวต้นฉบับ: แนวโน้มราคาทองวันนี้ (6 พ.ย. 69) บทวิเคราะห์โดย YLG Bullion",
+      "published": "2026-11-06T04:10:15+00:00",
+      "summary_th": ""
     },
     {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "summary_raw": "Data center opposition crossed party lines in Tuesday’s midterms.",
-      "published": "2026-11-05T01:02:14+00:00",
-      "summary_th": "หลังการเลือกตั้งกลางเทอมของสหรัฐฯ คาดว่าจะเกิดความขัดแย้งครั้งใหญ่ขึ้นอีกเกี่ยวกับศูนย์ข้อมูล เนื่องจากมีเสียงคัดค้านศูนย์ข้อมูลจากทั้งสองพรรคการเมืองในการเลือกตั้งที่ผ่านมา"
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "‘เอกนิติ’ ชี้ต้องเร่งเจรจาการค้าช่วยผู้ประกอบการไทย รับมือความผันผวนหลังเลือกตั้งสหรัฐ",
+      "link": "https://www.prachachat.net/finance/news-2092280",
+      "summary_raw": "เอกนิติชี้ต้องเร่งเจรจาการค้าช่วยผู้ประกอบการไทย รับมือความผันผวนระยะสั้นหลังเลือกตั้งสหรัฐ ย้ำวินัยการคลังเป็นสิ่งสำคัญ ดร.เอกนิติ นิติทัณฑ์ประภาศ รองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงการคลัง เปิดเผยว่า ปัจจุบันการเมืองระหว่างประเทศ มีการเชื่อมโยง &#8230; อ่านข่าวต้นฉบับ: &#8216;เอกนิติ&#8217; ชี้ต้องเร่งเจรจาการค้าช่วยผู้ประกอบการไทย รับมือความผันผวนหลังเลือกตั้งสหรัฐ",
+      "published": "2026-11-06T04:03:17+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "กสิกรไทยชี้เลือกตั้งสหรัฐหนุนหุ้นโลก หุ้นไทยสวนทาง จากแรงกดดันหุ้นพลังงาน",
+      "link": "https://www.prachachat.net/finance/news-2092269",
+      "summary_raw": "กสิกรไทย ชี้ผลเลือกตั้งสหรัฐลดความไม่แน่นอนตลาดการเงินโลก ตลาดหุ้นทั่วโลกปรับขึ้น แต่หุ้นไทยรับแรงกดดันหุ้นพลังงานตามราคาน้ำมัน นายจงรัก รัตนเพียร ผู้จัดการใหญ่ ธนาคารกสิกรไทย กล่าวถึงผลกระทบจากเศรษฐกิจและการเลือกตั้งสหรัฐ ต่อตลาดเงินและตลาดทุนว่า ผล &#8230; อ่านข่าวต้นฉบับ: กสิกรไทยชี้เลือกตั้งสหรัฐหนุนหุ้นโลก หุ้นไทยสวนทาง จากแรงกดดันหุ้นพลังงาน",
+      "published": "2026-11-06T03:59:19+00:00",
+      "summary_th": ""
     },
     {
       "source": "Designboom",
       "category": "design",
-      "title": "PP-2 turntable reads vinyls without tonearm and inspires glass listening room in tokyo",
-      "link": "https://www.designboom.com/technology/pp-2-turntable-reads-vinyls-without-tonearm-glass-listening-room-tokyo-waiting-for-ideas/",
-      "summary_raw": "engraved floor hatches reveal a hidden record collection inside a conceptual listening room by paris-based studio waiting for ideas. The post PP-2 turntable reads vinyls without tonearm and inspires glass listening room in tokyo appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-11-05T00:30:27+00:00",
-      "summary_th": "PP-2 เครื่องเล่นแผ่นเสียงที่อ่านไวนิลโดยไม่ต้องใช้โทนอาร์ม ได้สร้างแรงบันดาลใจในการออกแบบห้องฟังเพลงกระจกในโตเกียว สตูดิโอ Waiting For Ideas จากปารีส ได้ซ่อนคอลเล็กชันแผ่นเสียงไว้ใต้พื้นห้องที่แกะสลักอย่างเป็นแนวคิด"
+      "title": "demi nguyen balances corporate branding, fintech systems, and typographic archives",
+      "link": "https://www.designboom.com/readers/demi-nguyen-corporate-branding-fintech-systems-typographic-archives/",
+      "summary_raw": "demi nguyen translates complex ideas into visual identities, digital experiences, and communication systems, balancing strategic precision with an expressive approach to storytelling. The post demi nguyen balances corporate branding, fintech systems, and typographic archives appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-11-06T03:30:41+00:00",
+      "summary_th": ""
     },
     {
       "source": "Hacker News",
       "category": "tech",
-      "title": "Starfall – Affordable, routine access to microgravity",
-      "link": "https://www.spacex.com/starfall",
-      "summary_raw": "Article URL: https://www.spacex.com/starfall Comments URL: https://news.ycombinator.com/item?id=50373308 Points: 174 # Comments: 107",
-      "published": "2026-11-05T00:18:18+00:00",
-      "summary_th": "Starfall เป็นโครงการของ SpaceX ที่มุ่งเน้นการให้บริการเข้าถึงสภาวะแรงโน้มถ่วงต่ำ (microgravity) ได้อย่างสม่ำเสมอและในราคาที่เข้าถึงได้ เพื่อสนับสนุนการวิจัยและพัฒนาในอวกาศ"
+      "title": "Pwn.college",
+      "link": "https://pwn.college/",
+      "summary_raw": "Article URL: https://pwn.college/ Comments URL: https://news.ycombinator.com/item?id=50387796 Points: 50 # Comments: 5",
+      "published": "2026-11-06T03:27:14+00:00",
+      "summary_th": ""
     },
     {
-      "source": "The Verge",
+      "source": "Hacker News",
       "category": "tech",
-      "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
-      "link": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
-      "summary_raw": "The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and gameplay that make it feel contemporary. But the mingling of time periods also extends to the development team. While Ocarina's remake was led by [&#8230;]",
-      "published": "2026-11-05T00:00:00-05:00",
-      "summary_th": "ทีมออกแบบของ Nintendo มุ่งเน้น \"ความสง่างาม\" ในการสร้างเกม Ocarina of Time ฉบับรีเมคสำหรับ Switch 2 โดยผสมผสานประสบการณ์แบบ N64 ดั้งเดิมเข้ากับกราฟิกและเกมเพลย์ที่ทันสมัย ทำให้เกมยังคงความคลาสสิกแต่ก็รู้สึกร่วมสมัย"
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "link": "https://github.com/dsx-ai-factory/nvke",
+      "summary_raw": "Article URL: https://github.com/dsx-ai-factory/nvke Comments URL: https://news.ycombinator.com/item?id=50387738 Points: 39 # Comments: 12",
+      "published": "2026-11-06T03:16:26+00:00",
+      "summary_th": ""
     },
     {
-      "source": "CNBC Markets",
-      "category": "stock",
-      "title": "Jim Cramer says this fast food giant has more room to run",
-      "link": "https://www.cnbc.com/2026/11/04/cramer-mcdonalds-q3-2026-turnaround.html",
-      "summary_raw": "CNBC’s Jim Cramer said McDonald’s turnaround is gaining traction.",
-      "published": "2026-11-04T23:50:46+00:00",
-      "summary_th": "Jim Cramer แห่ง CNBC ชี้ว่า McDonald’s กำลังฟื้นตัวได้ดีขึ้นเรื่อยๆ โดยมีแนวโน้มที่ธุรกิจจะยังคงเติบโตต่อไปได้อีก สะท้อนให้เห็นถึงความสำเร็จในการปรับกลยุทธ์และดึงดูดลูกค้ากลับมา"
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "Closed AI models dominate the price-performance frontier",
+      "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+      "summary_raw": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/ Comments URL: https://news.ycombinator.com/item?id=50387546 Points: 42 # Comments: 29",
+      "published": "2026-11-06T02:49:56+00:00",
+      "summary_th": ""
     },
     {
-      "source": "CNBC Top News",
+      "source": "Brand Inside",
       "category": "economy",
-      "title": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
-      "link": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
-      "summary_raw": "Democrats have flipped seven Senate seats, nearly 30 House districts, five governorships and up to 12 state legislative chambers in a historic 2026 midterm rout.",
-      "published": "2026-11-04T23:44:18+00:00",
-      "summary_th": "พรรคเดโมแครตสร้างประวัติศาสตร์ในการเลือกตั้งกลางเทอมปี 2026 โดยสามารถพลิกคว้าที่นั่งจากพรรครีพับลิกันได้ถึง 7 ที่นั่งในวุฒิสภา เกือบ 30 เขตในสภาผู้แทนฯ ผู้ว่าการรัฐ 5 ตำแหน่ง และสภาผู้แทนรัฐถึง 12 แห่ง ขณะที่รีพับลิกันไม่สามารถพลิกที่นั่งกลับมาได้แม้แต่ที่เดียว"
-    },
-    {
-      "source": "CNBC Markets",
-      "category": "stock",
-      "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
-      "link": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
-      "summary_raw": "Qualcomm delivered better-than-expected results but issued a weak earnings forecast.",
-      "published": "2026-11-04T23:38:11+00:00",
-      "summary_th": "หุ้น Qualcomm ร่วงลง 7% แม้จะรายงานผลประกอบการดีกว่าที่คาดการณ์ไว้ แต่กลับออกประมาณการผลกำไรที่อ่อนแอ โดยระบุว่าปัญหาการขาดแคลนหน่วยความจำยังคงส่งผลกระทบต่อยอดขายสมาร์ทโฟน ซึ่งเป็นสาเหตุให้เกิดความกังวลในตลาด"
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Images 2.6",
-      "link": "https://openai.com/index/introducing-images-2-6/",
-      "summary_raw": "Article URL: https://openai.com/index/introducing-images-2-6/ Comments URL: https://news.ycombinator.com/item?id=50372945 Points: 201 # Comments: 135",
-      "published": "2026-11-04T23:35:44+00:00",
-      "summary_th": "OpenAI ได้เปิดตัว \"Images 2.6\" ซึ่งคาดว่าเป็นการอัปเดตโมเดล AI สำหรับการประมวลผลหรือสร้างภาพ โดยมีจุดประสงค์เพื่อเพิ่มประสิทธิภาพและความสามารถในการทำงานที่เกี่ยวข้องกับภาพให้ดียิ่งขึ้น"
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "A thousand fewer paths to root",
-      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-      "summary_raw": "Article URL: https://openai.com/index/a-thousand-fewer-paths-to-root/ Comments URL: https://news.ycombinator.com/item?id=50372929 Points: 239 # Comments: 132",
-      "published": "2026-11-04T23:33:14+00:00",
-      "summary_th": "OpenAI ได้นำเสนอแนวคิด \"A thousand fewer paths to root\" ซึ่งบ่งชี้ถึงการปรับปรุงด้านความปลอดภัยและการควบคุมการเข้าถึงระบบ โดยมีเป้าหมายเพื่อลดช่องทางที่เป็นไปได้ในการเข้าถึงระดับ root หรือสิทธิ์สูงสุด ทำให้ระบบมีความปลอดภัยมากยิ่งขึ้น"
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
-      "link": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
-      "summary_raw": "Billionaire political spending met criticism from ... billionaires in the wake of Tuesday's blue wave election.",
-      "published": "2026-11-04T23:17:56+00:00",
-      "summary_th": "บรรดามหาเศรษฐีวอลล์สตรีทต่างแสดงความคิดเห็นต่อชัยชนะอย่างท่วมท้นของพรรคเดโมแครตในการเลือกตั้งกลางเทอม โดยมีการวิพากษ์วิจารณ์การใช้จ่ายทางการเมืองของกลุ่มมหาเศรษฐีด้วยกันเอง หลังจากผลการเลือกตั้ง \"คลื่นสีน้ำเงิน\" ในวันอังคาร"
-    },
-    {
-      "source": "CNBC Markets",
-      "category": "stock",
-      "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
-      "link": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
-      "summary_raw": "Figma is letting clients use more artificial intelligence features for the same price. The company would like the move to boost results in the long term.",
-      "published": "2026-11-04T23:02:39+00:00",
-      "summary_th": "ราคาหุ้น Figma ร่วงลงแม้จะรายงานผลประกอบการดีเกินคาด เนื่องจากบริษัทกำลังให้ความสำคัญกับการเติบโตในระยะยาว ด้วยการอนุญาตให้ลูกค้าใช้ฟีเจอร์ AI ได้มากขึ้นในราคาเดิม โดยหวังว่าการเคลื่อนไหวนี้จะส่งผลดีต่อผลลัพธ์ในอนาคต"
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "What was really behind Wednesday's monster rally? Trump quickly making peace",
-      "link": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
-      "summary_raw": "The stock market skyrocketed after a decisive sweep for Democrats in the 2026 midterm elections, a move that Trump's reaction added to.",
-      "published": "2026-11-04T22:55:22+00:00",
-      "summary_th": "ตลาดหุ้นพุ่งสูงขึ้นอย่างรุนแรงหลังพรรคเดโมแครตคว้าชัยชนะอย่างเด็ดขาดในการเลือกตั้งกลางเทอมปี 2026 ของสหรัฐฯ โดยปฏิกิริยาของอดีตประธานาธิบดีโดนัลด์ ทรัมป์ ที่รีบแสดงท่าทีปรองดอง ก็มีส่วนเสริมให้ตลาดตอบรับในเชิงบวก"
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
-      "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
-      "summary_raw": "And what that could mean for physical Switch game costs.",
-      "published": "2026-11-04T22:47:51+00:00",
-      "summary_th": "ซัพพลายเออร์ชิป ROM รายใหญ่ที่สุดของ Nintendo กำลังถอนตัวออกจากธุรกิจ ซึ่งอาจส่งผลกระทบโดยตรงต่อต้นทุนการผลิตเกม Nintendo Switch แบบตลับในอนาคต ทำให้ผู้เล่นอาจเห็นราคาเกมเพิ่มขึ้น"
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "summary_raw": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "published": "2026-11-04T22:45:09+00:00",
-      "summary_th": "กลุ่มล็อบบี้ด้าน AI (AI PACs) ใช้เงินหลายล้านดอลลาร์ในการหาเสียงเพื่อมีอิทธิพลต่อการเลือกตั้งกลางเทอมปี 2026 ของสหรัฐฯ แต่ได้รับผลลัพธ์ที่หลากหลาย ทำให้กลุ่มการเมืองต่างๆ เริ่มมองไปที่การเลือกตั้งครั้งต่อไปแล้ว"
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Hackers exploited iOS and Android flaws to infect phones",
-      "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-      "summary_raw": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-      "published": "2026-11-04T22:26:49+00:00",
-      "summary_th": "นักวิจัยพบว่ามีกลุ่มแฮกเกอร์ใช้ช่องโหว่ในระบบปฏิบัติการ iOS และ Android เพื่อแพร่เชื้อไปยังโทรศัพท์เป้าหมาย โดยคาดว่ากลุ่มดังกล่าวอาจได้รับการสนับสนุนจากเครมลิน เพื่อโจมตีเป้าหมายทางการทูตโดยเฉพาะ"
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "summary_raw": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-      "published": "2026-11-04T22:13:16+00:00",
-      "summary_th": "CEO ของ Nothing บริษัทสตาร์ทอัพด้านสมาร์ทโฟน เปิดเผยว่าอุปกรณ์ \"AI-first\" ที่ยังเป็นปริศนาของบริษัทจะเปิดตัวในเดือนหน้า แม้ยังไม่ชัดเจนว่าเป็นผลิตภัณฑ์ประเภทใด แต่ถูกออกแบบมาเพื่อใช้ประโยชน์จาก AI เพื่อเพิ่มประสิทธิภาพการทำงาน"
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
-      "link": "https://icode4.coffee/?p=1746",
-      "summary_raw": "Article URL: https://icode4.coffee/?p=1746 Comments URL: https://news.ycombinator.com/item?id=50372164 Points: 87 # Comments: 5",
-      "published": "2026-11-04T22:01:49+00:00",
-      "summary_th": "บทความทางเทคนิค \"Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements\" เจาะลึกถึงการโจมตี Hypervisor ของ Xbox 360 โดยเฉพาะประเด็นการปรับปรุงช่องโหว่ที่เกี่ยวข้องกับการอัปเดตที่ไม่สมบูรณ์หรือมีปัญหา เพื่อให้เข้าใจถึงกลไกความปลอดภัยและการโจมตีที่ซับซ้อนนี้"
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-      "summary_raw": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
-      "published": "2026-11-04T21:56:29+00:00",
-      "summary_th": "การวิเคราะห์ก้อนยูเรเนียมได้เผยถึงสาเหตุที่โครงการนิวเคลียร์ของเยอรมนีในอดีตล้มเหลว โดยพบว่า Heisenberg ประเมินปริมาณวัสดุที่จำเป็นต่ำกว่าความเป็นจริงอย่างมาก ซึ่งเป็นข้อผิดพลาดสำคัญที่นำไปสู่ความล้มเหลวของโครงการ"
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "summary_raw": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "published": "2026-11-04T21:56:01+00:00",
-      "summary_th": "Uber เปิดเผยว่าแทบไม่มีผู้ใช้งานที่จองบริการผ่าน AI agent เลย โดยในไตรมาสที่ผ่านมา ซึ่งเป็นช่วงที่มีผู้ใช้งานสูงสุด มีเพียง 4 คนเท่านั้นที่ใช้ AI agent ในการเรียกรถ"
-    },
-    {
-      "source": "CNBC Markets",
-      "category": "stock",
-      "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
-      "link": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
-      "summary_raw": "E.l.f. Beauty posted stronger-than-expected quarterly results on Wednesday as the company continues to see broad-based growth across its portfolio.",
-      "published": "2026-11-04T21:47:22+00:00",
-      "summary_th": "E.l.f. Beauty รายงานผลประกอบการไตรมาสแข็งแกร่งเกินคาด โดยยอดขายเพิ่มขึ้นถึง 51% และได้ปรับเพิ่มคาดการณ์ผลประกอบการตลอดทั้งปี แสดงให้เห็นถึงการเติบโตที่ครอบคลุมในทุกผลิตภัณฑ์ของบริษัท"
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
-      "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
-      "summary_raw": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
-      "published": "2026-11-04T21:38:49+00:00",
-      "summary_th": "VMware ได้เปิดตัว vSphere Express ซึ่งเป็นโซลูชันสำหรับการทำเวอร์ชวลไลเซชันที่รองรับซีพียูได้สูงสุดถึง 128 คอร์ โดยมีเป้าหมายเพื่อตอบสนองความต้องการของลูกค้าในระดับล่างถึงกลางมากขึ้น ตามที่ผู้บริหารของ VMware ระบุ"
+      "title": "เมื่อ AI ไม่ใช่แค่ผู้ช่วย แต่เป็นผู้ลงมือทำ ถอดบทเรียน Siriraj x MIT 2026 ใครต้องรับผิดชอบชีวิตผู้ป่วย?",
+      "link": "https://brandinside.asia/medical-ai-siriraj-x-mit-2026/",
+      "summary_raw": "เวทีระดับนานาชาติ Siriraj x MIT Hacking Medicine 2026 ภายใต้แนวคิดหลัก \"Agentic Healthcare: ยกระดับ AI จากโมเดลอัจฉริยะ สู่นวัตกรรมการแพทย์ที่เชื่อถือได้ กับคำถามที่ว่า เมื่อ AI ก้าวขึ้นมาเป็น \"ผู้ลงมือทำ\" ใครคือผู้ตรวจสอบ และใครต้องเป็นผู้รับผิดชอบต่อผลลัพธ์ที่เกิดขึ้นกับชีวิตผู้ป่วย? The post เมื่อ AI ไม่ใช่แค่ผู้ช่วย แต่เป็นผู้ลงมือทำ ถอดบทเรียน Siriraj x MIT 2026 ใครต้องรับผิดชอบชีวิตผู้ป่วย? first appeared on Brand Inside .",
+      "published": "2026-11-06T02:48:28+00:00",
+      "summary_th": ""
     },
     {
       "source": "Designboom",
       "category": "design",
-      "title": "andrés jaque questions the politics of utopia in an age of permanent connectivity",
-      "link": "https://www.designboom.com/architecture/andres-jaque-offpolinn-politics-utopia-age-permanent-connectivity-guest-essay/",
-      "summary_raw": "from archigram’s technological utopias to today’s infrastructures of control, OFFPOLINN's founder explores how architecture can challenge the systems shaping our collective and environmental realities. The post andrés jaque questions the politics of utopia in an age of permanent connectivity appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-11-04T21:35:34+00:00",
-      "summary_th": "Andrés Jaque ผู้ก่อตั้ง OFFPOLINN ตั้งคำถามถึงการเมืองของยูโทเปียในยุคที่เชื่อมต่อกันตลอดเวลา เขาสำรวจว่าสถาปัตยกรรมจะท้าทายระบบที่กำหนดความเป็นจริงร่วมกันและสิ่งแวดล้อมได้อย่างไร โดยเปรียบเทียบจากยูโทเปียทางเทคโนโลยีของ Archigram จนถึงโครงสร้างควบคุมในปัจจุบัน"
+      "title": "modular audio player is built using repurposed CD-ROM drives",
+      "link": "https://www.designboom.com/technology/used-cd-rom-drives-modular-aluminum-audio-player-das-pod/",
+      "summary_raw": "the aluminum CD player explores ownership, repairability, and the physical experience of music. The post modular audio player is built using repurposed CD-ROM drives appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-11-06T02:47:10+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+      "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "summary_raw": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory.",
+      "published": "2026-11-06T02:40:15+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+      "link": "https://github.com/matthewmrichter/mooftcp",
+      "summary_raw": "Article URL: https://github.com/matthewmrichter/mooftcp Comments URL: https://news.ycombinator.com/item?id=50386789 Points: 31 # Comments: 18",
+      "published": "2026-11-06T00:54:15+00:00",
+      "summary_th": ""
     },
     {
       "source": "Ars Technica",
       "category": "tech",
-      "title": "AMD's record quarter: Data center business doubles, while gaming craters",
-      "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
-      "summary_raw": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
-      "published": "2026-11-04T21:29:46+00:00",
-      "summary_th": "AMD ทำสถิติผลประกอบการไตรมาสที่ดีที่สุดด้วยรายรับ 13.4 พันล้านดอลลาร์ โดยธุรกิจดาต้าเซ็นเตอร์เติบโตเป็นสองเท่า ขณะที่รายได้จากธุรกิจเกมลดลงอย่างมากถึง 40% ซึ่งแสดงถึงการเปลี่ยนแปลงในทิศทางรายได้หลักของบริษัท"
+      "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+      "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+      "summary_raw": "\"This is going to be a game-changer.\"",
+      "published": "2026-11-06T00:17:06+00:00",
+      "summary_th": ""
     },
     {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Final chance to buy Dezeen Awards 2026 party tickets",
-      "link": "https://www.dezeen.com/2026/11/04/dezeen-awards-2026-party-tickets-final-chance/",
-      "summary_raw": "Ticket sales for this year's Dezeen Awards party, taking place on 16 November at the Royal Opera House in London, will close next week. Tickets are available until 23:59 London time on 10 November, meaning there are just a few more days left to secure your place. Book your tickets now before sales close. An [&#8230;] The post Final chance to buy Dezeen Awards 2026 party tickets appeared first on Dezeen .",
-      "published": "2026-11-04T21:00:00+00:00",
-      "summary_th": "งานปาร์ตี้ Dezeen Awards 2026 จะจัดขึ้นที่ Royal Opera House กรุงลอนดอน ในวันที่ 16 พฤศจิกายนนี้ บัตรเข้าร่วมงานจะเปิดจำหน่ายถึงวันที่ 10 พฤศจิกายน เวลา 23:59 น. ตามเวลาลอนดอน ซึ่งเป็นโอกาสสุดท้ายสำหรับผู้สนใจที่จะเข้าร่วมงานประกาศรางวัลสำคัญนี้"
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Ontario house by Brian O'Brian takes cues from farm buildings",
-      "link": "https://www.dezeen.com/2026/11/04/hemlock-house-ontario-brian-o-brian/",
-      "summary_raw": "Brian O'Brian has completed a rural weekend house in Ontario that features a slanted, corrugated-metal facade and an angled roof covered with greenery The post Ontario house by Brian O&#039;Brian takes cues from farm buildings appeared first on Dezeen .",
-      "published": "2026-11-04T20:00:00+00:00",
-      "summary_th": "Brian O'Brian สถาปนิก ได้ออกแบบบ้านพักตากอากาศในชนบทของออนแทรีโอ ประเทศแคนาดา โดยได้แรงบันดาลใจจากอาคารฟาร์ม มีจุดเด่นที่ฟาซาดโลหะลูกฟูกลาดเอียง และหลังคาทรงเหลี่ยมที่ปกคลุมด้วยพืชพรรณธรรมชาติ"
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
+      "link": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+      "summary_raw": "Here are the most breathtaking statistics from the major stock sell-off on Thursday.",
+      "published": "2026-11-05T23:39:32+00:00",
+      "summary_th": ""
     },
     {
       "source": "CNBC Markets",
       "category": "stock",
-      "title": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
-      "link": "https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html",
-      "summary_raw": "Flutter's new CEO Dan Taylor issued his first earnings report as CEO on Wednesday.",
-      "published": "2026-11-04T19:53:32+00:00",
-      "summary_th": "Dan Taylor ซีอีโอคนใหม่ของ Flutter ได้รายงานผลประกอบการครั้งแรก โดยบริษัทกำลังเผชิญกับปัญหาด้านผลกำไร เขาจึงวางเดิมพันกับการจัดโปรโมชันของ FanDuel เพื่อดึงดูดลูกค้าและกระตุ้นการเติบโตในตลาดการพนันออนไลน์"
+      "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+      "link": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+      "summary_raw": "Following a dramatic plunge in its stock price, IREN said some revenue is being delayed from 2026 until early next year.",
+      "published": "2026-11-05T23:25:02+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "summary_raw": "Certain configurations of Alpine are affected. Other distros may be as well.",
+      "published": "2026-11-05T23:09:36+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+      "link": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+      "summary_raw": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
+      "published": "2026-11-05T22:49:03+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "summary_raw": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "published": "2026-11-05T22:40:55+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "architecture that invites nature as a designer, from dissolving walls to insect-built pavilions",
+      "link": "https://www.designboom.com/architecture/nature-take-over-dissolving-walls-insect-built-pavilions/",
+      "summary_raw": "these built spaces invite natural forces into the design process, allowing materials to dissolve and buildings to change. The post architecture that invites nature as a designer, from dissolving walls to insect-built pavilions appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-11-05T22:35:12+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "stock",
+      "title": "Here's where we stand on Kimberly-Clark shares after a better-than-feared quarter",
+      "link": "https://www.cnbc.com/investingclub/2026/11/05/heres-where-we-stand-on-kimberly-clark-shares-after-a-better-than-feared-quarter.html",
+      "summary_raw": "The stock rose more than 1% Thursday during Wall Street's sell-off.",
+      "published": "2026-11-05T22:31:03+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "Sony revives the original Walkman headphones, adds USB-C",
+      "link": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+      "summary_raw": "Orange ear cushions included.",
+      "published": "2026-11-05T21:56:36+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "summary_raw": "Google is technically offering schools more choice but not the choices anyone wants.",
+      "published": "2026-11-05T21:40:36+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "SWA implements modular \"toolkit\" for a more walkable Houston",
+      "link": "https://www.dezeen.com/2026/11/05/swa-cool-connected-corridors-houston/",
+      "summary_raw": "SWA has designed a modular system including petal-shaped shade structures, outdoor lighting and planting beds that can be deployed around the city. The post SWA implements modular &quot;toolkit&quot; for a more walkable Houston appeared first on Dezeen .",
+      "published": "2026-11-05T21:25:10+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "stock",
+      "title": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025",
+      "link": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+      "summary_raw": "Companies tied to the AI buildout are all selling off as concerns mount about a slowdown following the midterm elections.",
+      "published": "2026-11-05T21:16:39+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Perrier-Jouët and Iris van Herpen partnership celebrates “biological processes that shape life”",
+      "link": "https://www.dezeen.com/2026/11/05/perrier-jouet-iris-van-herpen-partnership-biological-processes/",
+      "summary_raw": "Champagne house Perrier-Jouët has unveiled a creative collection with designer Iris van Herpen that draws on art nouveau design, soundscapes and the “invisible forces that shape the natural world”. As part of the partnership, Van Herpen created Symphonic Bloom, a sculptural piece crafted from silk and recycled 22-carat gold.&#160; The collectable sculpture was designed to [&#8230;] The post Perrier-Jouët and Iris van Herpen partnership celebrates “biological processes that shape life” appeared f",
+      "published": "2026-11-05T21:00:00+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "hurricane-proof polycarbonate wraps resilient 24-hour public library in miami",
+      "link": "https://www.designboom.com/architecture/hurricane-proof-polycarbonate-resilient-24-hour-public-library-miami-89th-studio/",
+      "summary_raw": "faced with the challenge of sheltering an automated 24-hour library from hurricanes, the design utilizes an ambiguous, geometric steel frame wrapped entirely in high-velocity polycarbonate paneling. The post hurricane-proof polycarbonate wraps resilient 24-hour public library in miami appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-11-05T20:10:03+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "summary_raw": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "published": "2026-11-05T19:48:28+00:00",
+      "summary_th": ""
     },
     {
       "source": "The Verge",
       "category": "tech",
-      "title": "X says its updated web app is way faster",
-      "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
-      "summary_raw": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Nizipli said in a blog post about the changes. [&#8230;]",
-      "published": "2026-11-04T19:25:12-05:00",
-      "summary_th": "X ได้เปิดตัวแอปพลิเคชันเวอร์ชันใหม่สำหรับเว็บ ซึ่งระบุว่าทำงานได้เร็วกว่าเดิมมาก และกำลังทยอยเปิดใช้งานทีละประเทศสำหรับผู้ใช้ที่ลงชื่อเข้าใช้ โดย Yagiz Nizipli วิศวกรหลัก ยืนยันว่าแม้จะใช้งานผ่านการเชื่อมต่อที่ช้าก็ยังเร็วขึ้น"
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Lapalma presents a cross-section of its catalogue on Dezeen Showroom",
-      "link": "https://www.dezeen.com/2026/11/04/lapalma-colourways-furniture-seating-dezeen-showroom/",
-      "summary_raw": "From colour palettes and modular seating to outdoor furniture and tables, Italian brand Lapalma has listed a selection of its most recent products on our Showroom section. The brand collaborated with&#160;architect and designer Raffaella Mangiarotti on a new palette of colourways that can be applied across its offering of products. Nine new shades join seven [&#8230;] The post Lapalma presents a cross-section of its catalogue on Dezeen Showroom appeared first on Dezeen .",
-      "published": "2026-11-04T19:00:00+00:00",
-      "summary_th": "แบรนด์เฟอร์นิเจอร์อิตาลี Lapalma ได้นำเสนอคอลเล็กชันผลิตภัณฑ์ล่าสุดบน Dezeen Showroom ซึ่งรวมถึงที่นั่งโมดูลาร์ เฟอร์นิเจอร์กลางแจ้ง และโต๊ะต่างๆ นอกจากนี้ยังได้ร่วมมือกับสถาปนิก Raffaella Mangiarotti ในการพัฒนาชุดสีใหม่ 9 เฉด เพื่อใช้กับผลิตภัณฑ์ทั้งหมด"
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Inaugural Walker Design Triennial features flesh-like speakers and post-apocalyptic scenes",
-      "link": "https://www.dezeen.com/2026/11/04/walker-design-triennial-2026-beyond-materialism/",
-      "summary_raw": "A set of speakers with flesh-like exteriors was among the conceptual design work shown at the first Walker Design Triennial in Minneapolis, The post Inaugural Walker Design Triennial features flesh-like speakers and post-apocalyptic scenes appeared first on Dezeen .",
-      "published": "2026-11-04T18:00:00+00:00",
-      "summary_th": "งานแสดง Walker Design Triennial ครั้งแรก จัดขึ้นที่มินนิอาโปลิส โดยมีการนำเสนอผลงานออกแบบเชิงแนวคิดที่น่าสนใจมากมาย หนึ่งในนั้นคือลำโพงที่มีรูปลักษณ์คล้ายผิวหนังมนุษย์ และฉากที่สื่อถึงโลกหลังวันสิ้นโลก"
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "summary_raw": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions [&#8230;]",
+      "published": "2026-11-05T19:37:56-05:00",
+      "summary_th": ""
     },
     {
       "source": "Hugging Face Blog",
       "category": "ai",
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
       "summary_raw": "",
-      "published": "2026-11-04T17:50:10+00:00",
-      "summary_th": "Dharma Field Extractor เป็นเครื่องมือที่สามารถรับเอกสารทุกรูปแบบ และดึงข้อมูลเชิงโครงสร้างออกมาในรูปแบบ JSON ได้อย่างแม่นยำ ช่วยให้การประมวลผลเอกสารเป็นไปอย่างมีประสิทธิภาพและจัดระเบียบข้อมูลได้ง่ายขึ้น"
+      "published": "2026-11-05T19:35:16+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "summary_raw": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "published": "2026-11-05T19:12:39+00:00",
+      "summary_th": ""
     },
     {
       "source": "The Verge",
       "category": "tech",
-      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-      "summary_raw": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier [&#8230;]",
-      "published": "2026-11-04T17:42:15-05:00",
-      "summary_th": "Qualcomm กำลังหันไปลงทุนครั้งใหญ่ในธุรกิจดาต้าเซ็นเตอร์ หลังยอดขายสมาร์ทโฟนลดลงประมาณ 20% เมื่อเทียบกับปี 2025 ในการประชุมผลประกอบการไตรมาส 4 ปี 2026 บริษัทได้ประกาศแผนเข้าสู่ธุรกิจ AI ดาต้าเซ็นเตอร์ โดยร่วมมือกับ Amazon และ Meta"
+      "title": "Airbnb is working on an AI travel agent",
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "summary_raw": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But [&#8230;]",
+      "published": "2026-11-05T19:06:12-05:00",
+      "summary_th": ""
     },
     {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "17 better ways Elon Musk could have wasted $446 million",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-      "summary_raw": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you [&#8230;]",
-      "published": "2026-11-04T16:45:00-05:00",
-      "summary_th": "บทความนี้วิเคราะห์ถึงแนวคิด 17 วิธีที่ดีกว่าที่ Elon Musk น่าจะนำเงิน 446 ล้านดอลลาร์ไปใช้ แทนที่จะเป็นการ \"ผลาญ\" ไปกับสิ่งที่ไม่ก่อประโยชน์ โดยตั้งข้อสังเกตถึงปัญหาของการใช้เวลาบนโซเชียลมีเดียมากเกินไป"
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "coperni closes: revisiting the fashion label’s strangest experiments in design and technology",
-      "link": "https://www.designboom.com/design/coperni-closes-revisiting-fashion-label-strangest-experiments-technology/",
-      "summary_raw": "from liquid textiles to garments embedded with microorganisms, coperni's experiments treated fashion as a platform for scientific research. The post coperni closes: revisiting the fashion label&#8217;s strangest experiments in design and technology appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-11-04T16:37:13+00:00",
-      "summary_th": "แบรนด์แฟชั่น Coperni ได้ปิดตัวลง ทิ้งไว้ซึ่งผลงานทดลองที่แปลกใหม่ในการออกแบบและเทคโนโลยี อาทิ สิ่งทอเหลว และเสื้อผ้าที่ฝังด้วยจุลินทรีย์ ซึ่งแสดงให้เห็นถึงการมองแฟชั่นเป็นแพลตฟอร์มสำหรับการวิจัยทางวิทยาศาสตร์"
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "How I learned to love an obnoxious phone grip",
-      "link": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
-      "summary_raw": "Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old told me a few months ago. This stick of butter was labeled [&#8230;]",
-      "published": "2026-11-04T16:30:00-05:00",
-      "summary_th": "บทความเล่าถึงประสบการณ์การเรียนรู้ที่จะชื่นชอบอุปกรณ์เสริมที่จับโทรศัพท์ หรือ \"phone grip\" ที่ผู้เขียนเคยคิดว่าน่ารำคาญ โดยเริ่มต้นจากการเห็นดีไซน์ที่ดูเหมือน \"เนย\" ของเพื่อน ซึ่งกลายเป็นเทรนด์ที่ได้รับความนิยมในกลุ่มวัยรุ่น"
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "cantilevered glass and concrete pavilion by APAP extends 1970s woodland house in nicosia",
-      "link": "https://www.designboom.com/architecture/cantilevered-glass-concrete-pavilion-apap-1970s-woodland-house-nicosia-diagonal/",
-      "summary_raw": "defined by shifting woodland shadows by day, the pavilion transforms at night through a tailored lighting installation that recasts its architectural geometry. The post cantilevered glass and concrete pavilion by APAP extends 1970s woodland house in nicosia appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-11-04T16:15:03+00:00",
-      "summary_th": "APAP ได้ออกแบบส่วนต่อเติมบ้านป่าไม้ยุค 1970s ในนิโคเซีย เป็นศาลาคอนกรีตและกระจกยื่นลอย ตัวอาคารเล่นกับเงาไม้ในเวลากลางวัน และแปลงโฉมในเวลากลางคืนด้วยการติดตั้งไฟที่จัดวางอย่างประณีต เพื่อเน้นรูปทรงสถาปัตยกรรมให้โดดเด่น"
-    },
-    {
-      "source": "Brand Inside",
-      "category": "economy",
-      "title": "AIS เปิดตัว E-Waste Calculator Platform แพลตฟอร์มคำนวณและวัดผลขยะอิเล็กทรอนิกส์",
-      "link": "https://brandinside.asia/ais-and-partners-roll-out-e-waste-tracking-platform/",
-      "summary_raw": "AIS ร่วมมือกับ กรมควบคุมมลพิษ และองค์การบริหารจัดการก๊าซเรือนกระจก เปิดตัว E-Waste Calculator Platform เครื่องมือที่ช่วยคำนวณการเก็บรวบรวมขยะอิเล็กทรอนิกส์ว่า ช่วยลดผลกระทบต่อสิ่งแวดล้อมได้มากแค่ไหน The post AIS เปิดตัว E-Waste Calculator Platform แพลตฟอร์มคำนวณและวัดผลขยะอิเล็กทรอนิกส์ first appeared on Brand Inside .",
-      "published": "2026-11-04T14:39:19+00:00",
-      "summary_th": "AIS ร่วมกับกรมควบคุมมลพิษ และองค์การบริหารจัดการก๊าซเรือนกระจก เปิดตัว E-Waste Calculator Platform แพลตฟอร์มคำนวณและวัดผลขยะอิเล็กทรอนิกส์ เครื่องมือนี้ช่วยประเมินปริมาณการรวบรวมขยะอิเล็กทรอนิกส์ และผลลัพธ์ในการลดผลกระทบต่อสิ่งแวดล้อมได้อย่างชัดเจน"
-    },
-    {
-      "source": "Brand Inside",
-      "category": "economy",
-      "title": "Disney เตรียมปลดพนักงานหลายพันคน เอาเงินไปลงทุนหนัง ซีรีส์ และสวนสนุก",
-      "link": "https://brandinside.asia/disney-eyes-thousands-of-layoffs-with-managers-asked-to-cut-20/",
-      "summary_raw": "สำนักข่าว Bloomberg รายงานโดยอ้างอิงแหล่งข่าวใกล้ชิดว่า Walt Disney กำลังวางแผนลดต้นทุนครั้งใหญ่ โดยขอให้ผู้บริหารบางส่วนตั้งเป้าลดค่าใช้จ่ายปีละ 20% ซึ่งอาจหมายถึงการปลดพนักงานหลายพันคนทั่วทั้งองค์กร The post Disney เตรียมปลดพนักงานหลายพันคน เอาเงินไปลงทุนหนัง ซีรีส์ และสวนสนุก first appeared on Brand Inside .",
-      "published": "2026-11-04T14:16:17+00:00",
-      "summary_th": "Bloomberg รายงานว่า Walt Disney วางแผนลดต้นทุนครั้งใหญ่ โดยตั้งเป้าลดค่าใช้จ่าย 20% ต่อปี ซึ่งอาจนำไปสู่การปลดพนักงานหลายพันคนทั่วโลก เพื่อนำเงินไปลงทุนในภาพยนตร์ ซีรีส์ และสวนสนุก เพื่อขับเคลื่อนการเติบโตในระยะยาวของบริษัท"
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "summary_raw": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "published": "2026-11-05T19:06:12+00:00",
+      "summary_th": ""
     },
     {
       "source": "Dezeen",
       "category": "design",
-      "title": "OEB Architects channels 1980s interiors for London extension",
-      "link": "https://www.dezeen.com/2026/11/04/oeb-architects-london-tropical-house-extension/",
-      "summary_raw": "Glossy ceramic tiles, a glass-block wall and a leafy garden feature in this extension to a Victorian terrace in London by OEB Architects. The post OEB Architects channels 1980s interiors for London extension appeared first on Dezeen .",
-      "published": "2026-11-04T11:30:00+00:00",
-      "summary_th": "OEB Architects ได้ออกแบบส่วนต่อเติมบ้านสไตล์วิคตอเรียในลอนดอน โดยนำการตกแต่งภายในยุค 1980s กลับมาใช้ใหม่ โดดเด่นด้วยกระเบื้องเซรามิกมันวาว ผนังบล็อกแก้ว และสวนที่เต็มไปด้วยต้นไม้"
+      "title": "Fragile lighting collection by Marset among 15 new products on Dezeen Showroom",
+      "link": "https://www.dezeen.com/2026/11/05/fragile-lighting-marset-furniture-tiles-products-dezeen-showroom/",
+      "summary_raw": "A lighting range comprising repeatable spherical and pyramidal forms made from delicate glass is among recent products published on our furniture directory. Fragile lighting collection by Jaume Ramírez for Marset A simple table lamp, created by designer Jaume Ramírez for Marset, comprising a round base and pointed shade, has been spun out into a larger [&#8230;] The post Fragile lighting collection by Marset among 15 new products on Dezeen Showroom appeared first on Dezeen .",
+      "published": "2026-11-05T19:00:00+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "stock",
+      "title": "Jim Cramer says the AI trade is not going away as Nasdaq enters correction",
+      "link": "https://www.cnbc.com/investingclub/2026/11/05/cramer-says-the-ai-trade-is-not-going-away-as-nasdaq-enters-correction.html",
+      "summary_raw": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "published": "2026-11-05T18:46:23+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+      "link": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
+      "summary_raw": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all recently rumored to be among those interested in buying Letterboxd. The negotiations with the Times Company have included [&#8230;]",
+      "published": "2026-11-05T18:45:10-05:00",
+      "summary_th": ""
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
+      "link": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+      "summary_raw": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim H&#246;ttges says he takes the Elon Musk-owned company \"super serious,\" but that it will cost at least $200 billion to pull off: He [&#8230;]",
+      "published": "2026-11-05T18:17:10-05:00",
+      "summary_th": ""
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "summary_raw": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+      "published": "2026-11-05T18:02:27+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Studio Shea designs South Carolina library as \"community living room\"",
+      "link": "https://www.dezeen.com/2026/11/05/studio-shea-south-carolina-library/",
+      "summary_raw": "Brooklyn-based practice Studio Shea has completed a metal-clad library with a central atrium that draws on the civic and industrial context of its site in South Carolina, USA. The post Studio Shea designs South Carolina library as &quot;community living room&quot; appeared first on Dezeen .",
+      "published": "2026-11-05T18:00:00+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Perplexity launches its own take on AI agents for work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "summary_raw": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device [&#8230;]",
+      "published": "2026-11-05T17:26:50-05:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "gustaf westman gives disney’s mickey & friends his signature chunky, colorful forms",
+      "link": "https://www.designboom.com/design/gustaf-westman-disney-mickey-mouse-chunky-colorful-furniture/",
+      "summary_raw": "the swedish designer translates familiar cartoon silhouettes into rounded household objects from colorful tableware to collectible furniture. The post gustaf westman gives disney&#8217;s mickey &#038; friends his signature chunky, colorful forms appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-11-05T16:59:01+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "stock",
+      "title": "We're raising our price target on Cardinal Health after another stellar quarter of profits",
+      "link": "https://www.cnbc.com/investingclub/2026/11/05/were-raising-our-price-target-on-cardinal-health-after-another-stellar-quarter-of-profits.html",
+      "summary_raw": "The drug distributor also raised its full-year earnings guidance.",
+      "published": "2026-11-05T16:51:58+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Linehouse reimagines industrial aesthetics for Jen Hangzhou hotel in Kohn Pedersen Fox-designed building",
+      "link": "https://www.dezeen.com/2026/11/05/linehouse-jen-hotel-hangzhou/",
+      "summary_raw": "International studio Linehouse has completed the interiors of the Jen hotel in Hangzhou, China, which features details that nod to local craft and the area's industrial heritage. The post Linehouse reimagines industrial aesthetics for Jen Hangzhou hotel in Kohn Pedersen Fox-designed building appeared first on Dezeen .",
+      "published": "2026-11-05T11:30:00+00:00",
+      "summary_th": ""
     },
     {
       "source": "Brand Inside",
       "category": "economy",
-      "title": "AnotherDot x Plan B-Wisesight-iAM เปิดตัวแพลตฟอร์ม Influencer Marketing ใช้ AI ช่วยทำทั้งแคมเปญ ทั้งเช็กอินไซต์ ประสานงาน และสรุปผลแคมเปญ",
-      "link": "https://brandinside.asia/anotherdot-influencer-marketing-platform/",
-      "summary_raw": "จุดเปลี่ยนวงการครีเอเตอร์! AnotherDot ผนึก Plan B, Wisesight และ iAM เปิดตัว AI แพลตฟอร์ม Influencer Marketing ครบวงจร ปักเป้า 300 ล้านปี 2028 The post AnotherDot x Plan B-Wisesight-iAM เปิดตัวแพลตฟอร์ม Influencer Marketing ใช้ AI ช่วยทำทั้งแคมเปญ ทั้งเช็กอินไซต์ ประสานงาน และสรุปผลแคมเปญ first appeared on Brand Inside .",
-      "published": "2026-11-04T11:00:34+00:00",
-      "summary_th": "AnotherDot ร่วมกับ Plan B, Wisesight และ iAM เปิดตัวแพลตฟอร์ม AI Influencer Marketing ครบวงจร เพื่อพลิกโฉมอุตสาหกรรมครีเอเตอร์ แพลตฟอร์มนี้ช่วยจัดการตั้งแต่การวางแผนแคมเปญ การวิเคราะห์อินไซต์ การประสานงาน ไปจนถึงสรุปผล ตั้งเป้ารายได้ 300 ล้านบาทภายในปี 2028"
+      "title": "ปิดตำนาน “อะไรดี บุ๋มก็ว่าดี” เบนเนท ประกาศยุติบทบาท ‘บุ๋ม-ปนัดดา’ ในฐานะพรีเซ็นเตอร์ พร้อมถอดโฆษณาทุกช่องทาง",
+      "link": "https://brandinside.asia/bennett-cuts-ties-with-longtime-spokesperson-boom/",
+      "summary_raw": "พาภิญโญ กรุ๊ป ผู้ผลิตและจัดจำหน่ายผลิตภัณฑ์แบรนด์ เบนเนท ประกาศยุติบทบาท บุ๋ม-ปนัดดา วงศ์ผู้ดี ในฐานะพรีเซ็นเตอร์ของแบรนด์ พร้อมถอดสื่อโฆษณาที่ปรากฏภาพของ บุ๋ม ออกจากทุกช่องทางการสื่อสารของบริษัท The post ปิดตำนาน “อะไรดี บุ๋มก็ว่าดี” เบนเนท ประกาศยุติบทบาท ‘บุ๋ม-ปนัดดา’ ในฐานะพรีเซ็นเตอร์ พร้อมถอดโฆษณาทุกช่องทาง first appeared on Brand Inside .",
+      "published": "2026-11-05T10:57:38+00:00",
+      "summary_th": ""
     }
   ]
 }
