@@ -1,411 +1,465 @@
 {
-  "updated_at": "2026-11-10T06:48:41.364959+00:00",
-  "date": "2026-11-10",
-  "count": 45,
+  "updated_at": "2026-11-11T05:34:59.825617+00:00",
+  "date": "2026-11-11",
+  "count": 51,
   "items": [
     {
       "source": "CNBC Top News",
       "category": "economy",
-      "title": "Trump’s C-SPAN call marks latest surprise post-midterm appearance",
-      "link": "https://www.cnbc.com/2026/11/10/trump-cspan-call-elections.html",
-      "summary_raw": "Trump called C-SPAN's new primetime show unannounced after a surprise White House briefing-room and ballroom appearances.",
-      "published": "2026-11-10T06:19:09+00:00",
+      "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
+      "link": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+      "summary_raw": "During Xi's September visit, Washington and Beijing agreed to launch an AI dialogue with a communications channel to help defuse serious incidents.",
+      "published": "2026-11-11T05:15:50+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Hugging Face Blog",
+      "category": "ai",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "link": "https://huggingface.co/blog/qvac/botpsy",
+      "summary_raw": "",
+      "published": "2026-11-11T05:01:16+00:00",
       "summary_th": ""
     },
     {
       "source": "ประชาชาติธุรกิจ",
       "category": "stock",
-      "title": "ราคาทองวันนี้ (10 พ.ย. 69) คงที่ ทองรูปพรรณบาทละ 65,900 บาท",
-      "link": "https://www.prachachat.net/finance/news-2093846",
-      "summary_raw": "อัพเดตล่าสุด 10 พ.ย. 2569 เวลา 12.54 น. ราคาทองคำวันนี้ (10 พ.ย. 2569) คงที่ เมื่อเทียบกับราคาปิดวานนี้ ทองรูปพรรณขายออกที่บาทละ 65,900 บาท อ้างอิงข้อมูลล่าสุดจากสมาคมค้าทองคำ ที่เผยแพร่ผ่านทางเว็บไซต์ เมื่อเวลา 12.54 ที่ผ่านมา ทองคำแท่งมีราคารับซื้อ &#8230; อ่านข่าวต้นฉบับ: ราคาทองวันนี้ (10 พ.ย. 69) คงที่ ทองรูปพรรณบาทละ 65,900 บาท",
-      "published": "2026-11-10T06:18:22+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "ศาลสั่งเบรกขายโรงแรมรอยัล ออคิดฯ ROH ต้องวางประกัน 4,873 ล้านใน 7 วัน",
-      "link": "https://www.prachachat.net/finance/news-2094121",
-      "summary_raw": "ศาลแพ่งกรุงเทพใต้สั่งระงับดีลขายโรงแรมรอยัล ออคิด เชอราตัน ชั่วคราว หลัง ROH ยื่นคำร้อง กำหนดวางเงินประกัน 4,873 ล้านบาทภายใน 7 วัน ด้าน บลจ.วรรณ เตรียมยื่นเพิกถอนคำสั่งศาล หวั่นผู้ถือหน่วยทรัสต์รับเงินคืนล่าช้า นายอลงกรณ์ ประธานราษฎร์นิกร ประธานเจ้า &#8230; อ่านข่าวต้นฉบับ: ศาลสั่งเบรกขายโรงแรมรอยัล ออคิดฯ ROH ต้องวางประกัน 4,873 ล้านใน 7 วัน",
-      "published": "2026-11-10T06:12:45+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "FETCO เผยดัชนีความเชื่อมั่นนักลงทุน ต.ค. ทรงตัว กังวลความขัดแย้งระหว่างประเทศมากสุด",
-      "link": "https://www.prachachat.net/finance/news-2094117",
-      "summary_raw": "FETCO เผยดัชนีความเชื่อมั่นนักลงทุน ต.ค. กลับมาทรงตัว ที่ระดับ 100.86 นักลงทุนมองผลประกอบการบริษัทจดทะเบียนเป็นแรงหนุน จับตาการเลือกตั้งสหรัฐ นโยบายดอกเบี้ยเฟด กำหนดทิศทางเงินทุนต่างชาติ ส่วนปัจจัยที่ฉุดความเชื่อมั่นมากสุด เป็นเรื่องสถานการณ์ความขัดแ &#8230; อ่านข่าวต้นฉบับ: FETCO เผยดัชนีความเชื่อมั่นนักลงทุน ต.ค. ทรงตัว กังวลความขัดแย้งระหว่างประเทศมากสุด",
-      "published": "2026-11-10T06:09:06+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-      "summary_raw": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=50436640 Points: 14 # Comments: 3",
-      "published": "2026-11-10T06:01:08+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Gustaf Westman unveils full Disney collection featuring Donald Duck bookstand and Pluto mirror",
-      "link": "https://www.dezeen.com/2026/11/10/gustaf-westman-full-disney-collection-donald-duck-bookstand/",
-      "summary_raw": "Swedish designer Gustaf Westman's full collaboration with media company Disney, which saw him reimagine familiar Disney details \"through his own design language\", has been revealed. The post Gustaf Westman unveils full Disney collection featuring Donald Duck bookstand and Pluto mirror appeared first on Dezeen .",
-      "published": "2026-11-10T06:00:00+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "TSMC's October sales jump as global chip boom rolls on",
-      "link": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
-      "summary_raw": "TSMC reports its monthly sales figures for October on Tuesday.",
-      "published": "2026-11-10T05:42:42+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "‘โกลบอลเพย์เมนท์’ งัดระบบสกัดภัยไซเบอร์ เฝ้าระวัง 24 ชม. ย้ำไร้รายงานเหตุโจมตี",
-      "link": "https://www.prachachat.net/finance/news-2094077",
-      "summary_raw": "&#8220;โกลบอลเพย์เมนท์&#8221; ชูระบบตรวจจับธุรกรรมผิดปกติ เสริมเกราะป้องกันทุจริตผ่าน OTP พร้อมทีมเฝ้าระวังทั่วโลก 24 ชั่วโมง ระบุยังไม่ได้รับรายงานเหตุโจมตีระบบ นางสาวชนัญภัค แก้วจำบัง ผู้จัดการประจำประเทศไทย โกลบอลเพย์เมนท์ (Global Payments) เปิดเผ &#8230; อ่านข่าวต้นฉบับ: &#8216;โกลบอลเพย์เมนท์&#8217; งัดระบบสกัดภัยไซเบอร์ เฝ้าระวัง 24 ชม. ย้ำไร้รายงานเหตุโจมตี",
-      "published": "2026-11-10T05:33:10+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Your TV can see through walls",
-      "link": "https://maurycyz.com/projects/fading/",
-      "summary_raw": "Article URL: https://maurycyz.com/projects/fading/ Comments URL: https://news.ycombinator.com/item?id=50436410 Points: 18 # Comments: 0",
-      "published": "2026-11-10T05:24:45+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "ก.ล.ต.เฮียริ่งเกณฑ์ค่าฟี Crowdfunding สูงสุด 80% หนุน SMEs ระดมทุน",
-      "link": "https://www.prachachat.net/finance/news-2094070",
-      "summary_raw": "ก.ล.ต.เปิดรับฟังความเห็นปรับลดค่าธรรมเนียมนายทะเบียนหลักทรัพย์สำหรับ Funding Portal หั่นค่าใบอนุญาต 50% และค่าธรรมเนียมรายปี 80% หวังลดต้นทุน หนุน SMEs ระดมทุนผ่าน Crowdfunding เปิดรับฟังความเห็นถึง 8 ธ.ค. 69 ผู้สื่อข่าวรายงานข่าวว่า สำนักงานคณะกรรมก &#8230; อ่านข่าวต้นฉบับ: ก.ล.ต.เฮียริ่งเกณฑ์ค่าฟี Crowdfunding สูงสุด 80% หนุน SMEs ระดมทุน",
-      "published": "2026-11-10T04:59:30+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
-      "link": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html",
-      "summary_raw": "President Trump signaled optimism for the end of Russia's war in Ukraine ahead of trilateral negotiation talks set to commence later today in Abu Dhabi.",
-      "published": "2026-11-10T04:46:37+00:00",
+      "title": "Global Payments รุกตลาดชำระเงินไทย จับมือ Beam เจาะร้านค้ารายย่อย",
+      "link": "https://www.prachachat.net/finance/news-2094731",
+      "summary_raw": "Global Payments ขยายธุรกิจรับชำระเงินในไทย หลังได้รับใบอนุญาตจาก ธปท. จับมือ Beam พันธมิตรรายแรก พร้อมเจาะตลาดโรงแรม ค้าปลีก และสุขภาพ มั่นใจรายได้ในไทยโตต่อเนื่อง นางสาวชนัญภัค แก้วจำบัง ผู้จัดการประจำประเทศไทย บริษัท โกลบอลเพย์เมนท์ (Global Payment &#8230; อ่านข่าวต้นฉบับ: Global Payments รุกตลาดชำระเงินไทย จับมือ Beam เจาะร้านค้ารายย่อย",
+      "published": "2026-11-11T04:44:46+00:00",
       "summary_th": ""
     },
     {
       "source": "Brand Inside",
       "category": "economy",
-      "title": "คาร์บอนเครดิตคืออะไร? โอกาสและแนวทางที่ SME ควรรู้",
-      "link": "https://brandinside.asia/carbon-credit/",
-      "summary_raw": "คาร์บอนเครดิตคือปริมาณการลดหรือกักเก็บก๊าซเรือนกระจกที่ได้รับการรับรอง ซึ่งสามารถนำไปใช้ชดเชยการปล่อยก๊าซเรือนกระจกหรือซื้อขายในตลาดคาร์บอนภาคสมัครใจได้ The post คาร์บอนเครดิตคืออะไร? โอกาสและแนวทางที่ SME ควรรู้ first appeared on Brand Inside .",
-      "published": "2026-11-10T04:35:02+00:00",
+      "title": "เอเจนซียุคนี้ ต้องเก่งมากกว่าแค่ทำโฆษณา Omnicom รวม 4 เอเจนซีไทย ใช้ AI ช่วยแบรนด์วางกลยุทธ์ ดันยอดขายให้โต",
+      "link": "https://brandinside.asia/omnicom-launches-thailand-group-uniting-4-top-agencies/",
+      "summary_raw": "Omnicom เปิดตัว Omnicom Advertising Thailand &#038; PR กลุ่มเอเจนซีที่รวม 4 บริษัทชั้นนำในไทย ได้แก่ McCann Thailand, TBWA Thailand, BBDO Bangkok, และ FleishmanHillard Thailand เข้าด้วยกัน The post เอเจนซียุคนี้ ต้องเก่งมากกว่าแค่ทำโฆษณา Omnicom รวม 4 เอเจนซีไทย ใช้ AI ช่วยแบรนด์วางกลยุทธ์ ดันยอดขายให้โต first appeared on Brand Inside .",
+      "published": "2026-11-11T04:29:05+00:00",
       "summary_th": ""
     },
     {
       "source": "Hacker News",
       "category": "tech",
-      "title": "Ultorg: The User Interface for Relational Databases",
-      "link": "https://www.ultorg.com/",
-      "summary_raw": "Article URL: https://www.ultorg.com/ Comments URL: https://news.ycombinator.com/item?id=50435898 Points: 18 # Comments: 4",
-      "published": "2026-11-10T03:59:39+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "summary_raw": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 94 # Comments: 38",
-      "published": "2026-11-10T03:20:06+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Formalizing CPython",
-      "link": "https://broyojo.com/python-formalization/",
-      "summary_raw": "Article URL: https://broyojo.com/python-formalization/ Comments URL: https://news.ycombinator.com/item?id=50435105 Points: 30 # Comments: 8",
-      "published": "2026-11-10T01:56:48+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "summary_raw": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-      "published": "2026-11-10T01:27:12+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "fujifilm’s disposable quicksnap camera gets second life as full-scale LEGO model",
-      "link": "https://www.designboom.com/technology/lego-ideas-fujifilm-quicksnap-disposable-camera/",
-      "summary_raw": "a life-size replica brings the nostalgia of analog photography back into focus, recreating the familiar disposable camera with a working film wheel, transparent viewfinder and matching retail box. The post fujifilm&#8217;s disposable quicksnap camera gets second life as full-scale LEGO model appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-11-10T00:34:02+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-      "summary_raw": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-      "published": "2026-11-09T23:28:37+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "CNBC Markets",
-      "category": "stock",
-      "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
-      "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
-      "summary_raw": "The updates came alongside a third-quarter earnings report for the legacy Paramount Skydance.",
-      "published": "2026-11-09T23:14:38+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "CNBC Markets",
-      "category": "stock",
-      "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
-      "link": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
-      "summary_raw": "The quarterly results are the first since Lucid CEO Silvio Napoli, who started leading the company in June, announced a restructuring plan.",
-      "published": "2026-11-09T23:05:53+00:00",
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "summary_raw": "Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/ Comments URL: https://news.ycombinator.com/item?id=50449748 Points: 22 # Comments: 5",
+      "published": "2026-11-11T04:28:57+00:00",
       "summary_th": ""
     },
     {
       "source": "CNBC Top News",
       "category": "economy",
-      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-      "link": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
-      "summary_raw": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet.",
-      "published": "2026-11-09T22:56:39+00:00",
+      "title": "Bessent reportedly moved to military base over Iranian threats on his life",
+      "link": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
+      "summary_raw": "The move comes as the Department of Justice said late Tuesday that three Iranian nationals have been indicted on terrorism-related charges.",
+      "published": "2026-11-11T04:06:47+00:00",
       "summary_th": ""
     },
     {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "summary_raw": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "published": "2026-11-09T22:46:09+00:00",
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "ราคาทองวันนี้ (11 พ.ย. 69) ปรับลง 250 บาท ทองรูปพรรณบาทละ 65,200 บาท",
+      "link": "https://www.prachachat.net/finance/news-2094631",
+      "summary_raw": "อัพเดตล่าสุด 11 พ.ย. 2569 เวลา 10.11 น. ราคาทองคำวันนี้ (11 พ.ย. 2569) ปรับลง 250 บาท เมื่อเทียบกับราคาปิดวานนี้ ทองรูปพรรณขายออกที่บาทละ 65,200 บาท อ้างอิงข้อมูลล่าสุดจากสมาคมค้าทองคำ ที่เผยแพร่ผ่านทางเว็บไซต์ เมื่อเวลา 10.11 ที่ผ่านมา ทองคำแท่งมีรา &#8230; อ่านข่าวต้นฉบับ: ราคาทองวันนี้ (11 พ.ย. 69) ปรับลง 250 บาท ทองรูปพรรณบาทละ 65,200 บาท",
+      "published": "2026-11-11T03:26:39+00:00",
       "summary_th": ""
     },
     {
       "source": "CNBC Top News",
       "category": "economy",
-      "title": "Hegseth impeachment articles introduced by Rep. Massie",
-      "link": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
-      "summary_raw": "The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth filed by Republican Rep. Thomas Masie.",
-      "published": "2026-11-09T22:41:12+00:00",
+      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+      "summary_raw": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+      "published": "2026-11-11T03:08:17+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "link": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "summary_raw": "Article URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna Comments URL: https://news.ycombinator.com/item?id=50449275 Points: 32 # Comments: 13",
+      "published": "2026-11-11T02:57:08+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "transparent surfboard uses carbon-fiber ribs and clear panels to reveal the ocean below",
+      "link": "https://www.designboom.com/design/transparent-surfboard-carbon-fiber-ribs-clear-panels-ocean-igor-dzukovski-tidal-wave/",
+      "summary_raw": "developed as an exploration of experience rather than pure performance, the project uses transparency to make the changing sea, light and reflections part of the surfboard itself. The post transparent surfboard uses carbon-fiber ribs and clear panels to reveal the ocean below appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-11-11T02:55:11+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "แนวโน้มราคาทองวันนี้ (11 พ.ย. 69) บทวิเคราะห์โดย YLG Bullion",
+      "link": "https://www.prachachat.net/finance/news-2094670",
+      "summary_raw": "แนวโน้มราคาทองวันนี้ บริษัท วายแอลจี บูลเลี่ยน อินเตอร์เนชั่นแนล จำกัด รายงานราคาทองคำประจำวันที่ 11 พ.ย. 2569 คำแนะนำ • วานนี้ ราคาปรับตัวลงหลังเกิดสัญญาณ Bearish Divergence พร้อมกับหลุด $4,100 ซึ่งเป็นสัญญาณการพักตัว สำหรับวันนี้จับตาการดีดตัวหากไม &#8230; อ่านข่าวต้นฉบับ: แนวโน้มราคาทองวันนี้ (11 พ.ย. 69) บทวิเคราะห์โดย YLG Bullion",
+      "published": "2026-11-11T02:48:05+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "CIMB THAI เข้มเฝ้าระวังภัยไซเบอร์ 24 ชั่วโมง ใช้ข่าวกรองเครือข่ายอาเซียน พร้อมรายงานภัยคุกคามส่ง ธปท. ทุกเช้า",
+      "link": "https://www.prachachat.net/finance/news-2094639",
+      "summary_raw": "CIMB THAI ผนึก CIMB Group เข้มยกระดับการป้องกันภัยไซเบอร์เชิงรุก ใช้ Regional Cyber Threat Intelligence เฝ้าระวังภัยคุกคามทั่วภูมิภาค ติดตามความเสี่ยง 24 ชั่วโมง พร้อมรายงานสถานการณ์ให้ ธปท. ทุกเช้า นายไพศาล ธรรมโพธิทอง Head ,Digital, Operations and &#8230; อ่านข่าวต้นฉบับ: CIMB THAI เข้มเฝ้าระวังภัยไซเบอร์ 24 ชั่วโมง ใช้ข่าวกรองเครือข่ายอาเซียน พร้อมรายงานภัยคุกคามส่ง ธปท. ทุกเช้า",
+      "published": "2026-11-11T02:15:17+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "แบงก์ชาติ ชี้ระบบธนาคารปกติ-ไม่จำเป็นต้องถอนเงินสดมาเก็บ",
+      "link": "https://www.prachachat.net/finance/news-2094632",
+      "summary_raw": "แบงก์ชาติ ชี้แจงประชาชน กรณีมีการโจมตีทางไซเบอร์ถี่ขึ้น ยันระบบธนาคารปกติ-ไม่จำเป็นต้องถอนเงินสดมาเก็บ รายงานจากธนาคารแห่งประเทศไทย (ธปท.) ระบุว่า ธปท. ชี้แจงระบบธนาคารปกติไม่จำเป็นต้องถอนเงินสดมาเก็บ โดยธปท. กำชับทุกธนาคารเพิ่มความเข้มงวดมาตรการด้าน &#8230; อ่านข่าวต้นฉบับ: แบงก์ชาติ ชี้ระบบธนาคารปกติ-ไม่จำเป็นต้องถอนเงินสดมาเก็บ",
+      "published": "2026-11-11T02:13:30+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "A great old-timey game-programming hack (2013)",
+      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "summary_raw": "Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html Comments URL: https://news.ycombinator.com/item?id=50448921 Points: 74 # Comments: 10",
+      "published": "2026-11-11T01:56:31+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
+      "link": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+      "summary_raw": "Anthropic opened its Australia retail IPO offering on Wednesday, allowing individual investors to apply for shares ahead of its planned IPO.",
+      "published": "2026-11-11T01:52:56+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "link": "https://tis-100.wincon.dev/",
+      "summary_raw": "Article URL: https://tis-100.wincon.dev/ Comments URL: https://news.ycombinator.com/item?id=50448340 Points: 26 # Comments: 3",
+      "published": "2026-11-11T00:37:05+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+      "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "summary_raw": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 35 # Comments: 14",
+      "published": "2026-11-11T00:15:33+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "summary_raw": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+      "published": "2026-11-10T23:30:56+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "stock",
+      "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+      "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+      "summary_raw": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
+      "published": "2026-11-10T23:16:15+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+      "link": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+      "summary_raw": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair.",
+      "published": "2026-11-10T23:11:34+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "The US military seems to be getting nervous about the launch supply crunch",
+      "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+      "summary_raw": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+      "published": "2026-11-10T23:02:39+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "stock",
+      "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
+      "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
+      "summary_raw": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy.",
+      "published": "2026-11-10T22:39:30+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "summary_raw": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "published": "2026-11-10T22:35:01+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+      "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+      "summary_raw": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+      "published": "2026-11-10T21:55:26+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "water becomes a way of understanding the world in this powerhouse parramatta installation",
+      "link": "https://www.designboom.com/art/water-way-understanding-world-powerhouse-parramatta-installation-emily-mcdaniel-tyrrell-studio/",
+      "summary_raw": "developed around stories and cultural practices shared by seven aboriginal organizations across new south wales, 'overflow' turns water, light and ancient sandstone into an environment that visitors experience barefoot. The post water becomes a way of understanding the world in this powerhouse parramatta installation appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-11-10T21:35:23+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "summary_raw": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "published": "2026-11-10T21:12:59+00:00",
       "summary_th": ""
     },
     {
       "source": "TechCrunch AI",
       "category": "ai",
-      "title": "The race is on to sue Nvidia",
-      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-      "summary_raw": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
-      "published": "2026-11-09T22:23:42+00:00",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "summary_raw": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "published": "2026-11-10T21:08:52+00:00",
       "summary_th": ""
     },
     {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
-      "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
-      "summary_raw": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
-      "published": "2026-11-09T21:55:35+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Designboom",
+      "source": "Dezeen",
       "category": "design",
-      "title": "crafted from anti-bird spikes and 3D-printed scaffolds, nests reveal a posthuman architecture",
-      "link": "https://www.designboom.com/design/anti-bird-spikes-3d-printed-scaffolds-nests-posthuman/",
-      "summary_raw": "bird nests built from human debris and experimental structures point toward a shared model of construction shaped across species. The post crafted from anti-bird spikes and 3D-printed scaffolds, nests reveal a posthuman architecture appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-11-09T21:44:34+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
-      "link": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
-      "summary_raw": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
-      "published": "2026-11-09T21:13:39+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "A Sam Altman parody offers an amusing lesson in memory management",
-      "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
-      "summary_raw": "We verified the RAM numbers are real without sending any emails to OpenAI.",
-      "published": "2026-11-09T20:49:09+00:00",
+      "title": "Shaw Contract Design Awards name top interiors of 2026",
+      "link": "https://www.dezeen.com/2026/11/10/shaw-contract-best-globe/",
+      "summary_raw": "A Japanese office intended to evoke a tree canopy, and a revived US concert hall are among the interior design projects to win Best of Globe at this year’s Shaw Contract Design Awards. The upgrade of an athletics clubhouse in the US, a legal workplace in the UK and a large three-story office in India [&#8230;] The post Shaw Contract Design Awards name top interiors of 2026 appeared first on Dezeen .",
+      "published": "2026-11-10T21:00:00+00:00",
       "summary_th": ""
     },
     {
       "source": "TechCrunch AI",
       "category": "ai",
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "summary_raw": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-      "published": "2026-11-09T20:09:06+00:00",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "summary_raw": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "published": "2026-11-10T20:52:13+00:00",
       "summary_th": ""
     },
     {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-      "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-      "summary_raw": "\"*sshole\" poses a serious threat to Internet security.",
-      "published": "2026-11-09T19:41:34+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-      "summary_raw": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to [&#8230;]",
-      "published": "2026-11-09T19:28:49-05:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "perforated corten steel curbs reimagine street boundaries letting urban vegetation grow through",
-      "link": "https://www.designboom.com/design/perforated-corten-steel-curbs-street-boundaries-urban-vegetation-sara-fernandes/",
-      "summary_raw": "introducing openings into corten steel curbs, this intervention plays with the idea of letting nature through, turning an otherwise rigid boundary into an opportunity for growth. The post perforated corten steel curbs reimagine street boundaries letting urban vegetation grow through appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-11-09T19:10:48+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Pentagon mulls placing fleet of military satellites around the Moon",
-      "link": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
-      "summary_raw": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
-      "published": "2026-11-09T19:08:37+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Dezeen Awards trophy updated using \"one of humanity's oldest natural materials\"",
-      "link": "https://www.dezeen.com/2026/11/09/dezeen-awards-2026-trophy-cork-amorim-corticeira/",
-      "summary_raw": "Portuguese manufacturer Corticeira Amorim has used sustainably harvested cork to refresh the latest edition of Dezeen's iconic D-shaped trophy. The post Dezeen Awards trophy updated using &quot;one of humanity&#039;s oldest natural materials&quot; appeared first on Dezeen .",
-      "published": "2026-11-09T19:00:00+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "What could China get from Jensen Huang?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "summary_raw": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about [&#8230;]",
-      "published": "2026-11-09T18:51:58-05:00",
-      "summary_th": ""
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-      "summary_raw": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"&#8203;&#8203;unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New [&#8230;]",
-      "published": "2026-11-09T18:47:46-05:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "sculptural portals and golden guardians arrive at giza for art d’égypte",
-      "link": "https://www.designboom.com/art/sculptural-portals-golden-guardians-giza-art-degypte-forever-now-06/",
-      "summary_raw": "art d’égypte brings eight installations to the pyramids of giza for 'forever Is now 06', featuring works that explore ancient mythology. The post sculptural portals and golden guardians arrive at giza for art d’égypte appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-11-09T18:12:39+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary_raw": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to [&#8230;]",
-      "published": "2026-11-09T18:07:59-05:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Carsten Höller installs \"largest\" of his slides in Mexico City",
-      "link": "https://www.dezeen.com/2026/11/09/carsten-holler-mexico-city/",
-      "summary_raw": "Carsten Höller has installed the largest-ever version of his architectural slides as part of a development in Mexico City led by the architecture studio Sordo Madaleno. The post Carsten Höller installs &quot;largest&quot; of his slides in Mexico City appeared first on Dezeen .",
-      "published": "2026-11-09T18:00:00+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
-      "link": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
-      "summary_raw": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP of $399.99. MSI’s 27-inch screen is well-featured [&#8230;]",
-      "published": "2026-11-09T16:43:41-05:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "balzar arquitectos pairs 19th-century modernist interiors with wabi-sabi materiality in valencia apartment renovation",
-      "link": "https://www.designboom.com/architecture/balzar-arquitectos-19th-century-modernist-interiors-wabi-sabi-materiality-valencia-apartment-renovation-ciutat-vella-apartment/",
-      "summary_raw": "the restoration of the 1890 residence balances original nolla mosaics, wrought iron, and plaster moldings with lime wash, travertine, and curated contemporary furnishings. The post balzar arquitectos pairs 19th-century modernist interiors with wabi-sabi materiality in valencia apartment renovation appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-11-09T16:15:58+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Hugging Face Blog",
+      "source": "TechCrunch AI",
       "category": "ai",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "summary_raw": "",
-      "published": "2026-11-09T15:05:57+00:00",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "summary_raw": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "published": "2026-11-10T19:57:52+00:00",
       "summary_th": ""
     },
     {
-      "source": "Hugging Face Blog",
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "summary_raw": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR [&#8230;]",
+      "published": "2026-11-10T19:34:24-05:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "a giant circle frames NIKO’s timber guesthouse and tiny curved sauna in japan",
+      "link": "https://www.designboom.com/architecture/giant-circle-niko-timber-guesthouse-tiny-curved-sauna-japan-marumi/",
+      "summary_raw": "NIKO design studio's 'marumi house' in japan features a giant circular facade opening, exposed cedar logs, and a tiny sauna. The post a giant circle frames NIKO&#8217;s timber guesthouse and tiny curved sauna in japan appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-11-10T19:25:57+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "TechCrunch AI",
       "category": "ai",
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "summary_raw": "",
-      "published": "2026-11-09T12:34:29+00:00",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "summary_raw": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "published": "2026-11-10T19:23:34+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "summary_raw": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "published": "2026-11-10T19:03:52+00:00",
       "summary_th": ""
     },
     {
       "source": "Dezeen",
       "category": "design",
-      "title": "EBBA Architects transforms former agricultural barn in Cornwall into a \"calm sanctuary\"",
-      "link": "https://www.dezeen.com/2026/11/09/ebba-architects-dutch-barn/",
-      "summary_raw": "London studio EBBA Architects has updated and extended a house within a converted barn in Cornwall, stripping away previous alterations to create open, pared-back interiors. The post EBBA Architects transforms former agricultural barn in Cornwall into a &quot;calm sanctuary&quot; appeared first on Dezeen .",
-      "published": "2026-11-09T11:30:00+00:00",
+      "title": "PPAA creates twin houses in Mexico as an \"argument for building less\"",
+      "link": "https://www.dezeen.com/2026/11/10/ppaa-creates-twin-houses-in-mexico-as-an-argument-for-building-less/",
+      "summary_raw": "Pérez Palacios Arquitectos Asociados has completed twin houses that combine concrete with glued-laminated timber in the forests of Valle de Bravo, Mexico. The post PPAA creates twin houses in Mexico as an &quot;argument for building less&quot; appeared first on Dezeen .",
+      "published": "2026-11-10T18:00:00+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+      "summary_raw": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated [&#8230;]",
+      "published": "2026-11-10T17:00:00-05:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "exposed steel trusses and corrugated metal envelope shape riverfront kogaa’s šmeral art factory",
+      "link": "https://www.designboom.com/art/exposed-steel-trusses-corrugated-metal-envelope-riverfront-kogaas-smeral-art-factory/",
+      "summary_raw": "by opening the formerly inaccessible complex to the riverside, the project extends its role beyond the gallery itself, contributing to the ongoing transformation of the svitava river corridor and to the cultural life of the city. The post exposed steel trusses and corrugated metal envelope shape riverfront kogaa’s šmeral art factory appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-11-10T16:45:55+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+      "summary_raw": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their [&#8230;]",
+      "published": "2026-11-10T16:40:31-05:00",
+      "summary_th": ""
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Sony cancels live-service shooter Fairgames",
+      "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+      "summary_raw": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down [&#8230;]",
+      "published": "2026-11-10T16:06:12-05:00",
       "summary_th": ""
     },
     {
       "source": "Dezeen",
       "category": "design",
-      "title": "Oshinówò Studio tops Lutyens-designed war memorial with glass prism to honour Sierra Leone's Carrier Corps",
-      "link": "https://www.dezeen.com/2026/11/09/freetown-memorial-sierra-leone-carrier-corps-tosin-oshinowo/",
-      "summary_raw": "The Commonwealth War Graves Commission has unveiled a memorial to the Sierra Leone Carrier Corps in Freetown, Sierra Leone. The post Oshinówò Studio tops Lutyens-designed war memorial with glass prism to honour Sierra Leone&#039;s Carrier Corps appeared first on Dezeen .",
-      "published": "2026-11-09T11:00:00+00:00",
+      "title": "Mori AI home robot \"resembles a contemporary table lamp\"",
+      "link": "https://www.dezeen.com/2026/11/10/okaq-mori-ai-home-robot-lamp/",
+      "summary_raw": "Robotics start-up OKA has released a lamp-shaped artificial intelligence robot designed to offer companionship by greeting people returning home, dancing to music, or playing nature-inspired sounds. The post Mori AI home robot &quot;resembles a contemporary table lamp&quot; appeared first on Dezeen .",
+      "published": "2026-11-10T15:00:00+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "The PlayStation Plus PC app is shutting down next month",
+      "link": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+      "summary_raw": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people are using that perk: With a very small number of eligible PlayStation Plus [&#8230;]",
+      "published": "2026-11-10T14:40:52-05:00",
+      "summary_th": ""
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "stock",
+      "title": "Polymarket says annualized revenue has topped $1.8 billion",
+      "link": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
+      "summary_raw": "Amid growth of its U.S. exchange, the prediction market platform’s current annual run-rate is $1.8 billion.",
+      "published": "2026-11-10T13:00:01+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "arts at CERN translate the mechanics of the universe into creative installations",
+      "link": "https://www.designboom.com/art/arts-at-cern-translate-the-mechanics-of-the-universe-into-creative-installations/",
+      "summary_raw": "art and physics meet through works that translate invisible particles, experimental data, and abstract dimensions into sensory experiences. The post arts at CERN translate the mechanics of the universe into creative installations appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-11-10T11:50:01+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Brand Inside",
+      "category": "economy",
+      "title": "ถ้า NVIDIA ไม่มี ‘เจนเซ่น หวง’ ใครจะพาอาณาจักรล้านล้านเดินหน้าต่อ ในวันที่ AI ยังโตไม่หยุด?",
+      "link": "https://brandinside.asia/nvidia-ceo-jensen-huang-succession-executives-analysts/",
+      "summary_raw": "แม้ NVIDIA ยืนยันว่า ตอนนี้ยังไม่มีหลักฐานว่าข้อมูลรั่วไหล แต่ตลาดก็เริ่มตั้งคำถามว่า หากวันหนึ่ง หวง ต้องลงจากตำแหน่ง อาณาจักจะเดินหน้าต่ออย่างไร The post ถ้า NVIDIA ไม่มี ‘เจนเซ่น หวง’ ใครจะพาอาณาจักรล้านล้านเดินหน้าต่อ ในวันที่ AI ยังโตไม่หยุด? first appeared on Brand Inside .",
+      "published": "2026-11-10T11:47:47+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Brand Inside",
+      "category": "economy",
+      "title": "เครือ MK มี ‘ราเมน’ ขายแล้ว ราคาเริ่มต้นแค่ 89 บาท แบรนด์ชื่อ TORA RAMEN ตั้งเป้าเปิด 15 สาขา กวาด 100 ล้านภายใน 1 ปี",
+      "link": "https://brandinside.asia/mk-group-launch-tora-ramen/",
+      "summary_raw": "‘MK Group’ ก็เป็นอีกเจ้าที่ประกาศเปิดตัวแบรนด์น้องใหม่ในตลาดราเมนอย่าง ‘TORA RAMEN’ ซึ่งเปิดให้บริการแล้ววันนี้ที่ ทรู ดิจิทัล พาร์ค ในราคาเริ่มต้นเพียง 89 บาท The post เครือ MK มี ‘ราเมน’ ขายแล้ว ราคาเริ่มต้นแค่ 89 บาท แบรนด์ชื่อ TORA RAMEN ตั้งเป้าเปิด 15 สาขา กวาด 100 ล้านภายใน 1 ปี first appeared on Brand Inside .",
+      "published": "2026-11-10T11:33:13+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Viking legend informs ring-like viewpoint on Icelandic mountain ridge",
+      "link": "https://www.dezeen.com/2026/11/10/ring-bjolfur-arkibygg-architects-esja/",
+      "summary_raw": "Ring of Bjólfur is a mountain viewpoint in Iceland, designed by local studios Arkibygg Architects and Esja Architecture to evoke a giant silver ring left on the alleged burial site of a legendary Viking. The post Viking legend informs ring-like viewpoint on Icelandic mountain ridge appeared first on Dezeen .",
+      "published": "2026-11-10T11:30:00+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "ZAV Architects extends house in Iran with ombre \"architectural limbs\"",
+      "link": "https://www.dezeen.com/2026/11/10/golmorad-extension-zav-architects/",
+      "summary_raw": "A series of overlapping arches shifts in colour from terracotta to blue on this home extension on the outskirts of Tehran, designed by Iranian studio ZAV Architects. The post ZAV Architects extends house in Iran with ombre &quot;architectural limbs&quot; appeared first on Dezeen .",
+      "published": "2026-11-10T11:00:00+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Brand Inside",
+      "category": "economy",
+      "title": "สยามพิวรรธน์ สร้างมาตรฐานใหม่ พา NEXTOPIA คว้าที่ 1 โลก จากเวที MAPIC Awards 2026 ชูโมเดลธุรกิจความยั่งยืน ที่เน้นคุณค่าร่วม",
+      "link": "https://brandinside.asia/siam-piwat-nextopia-mapic-awards-2026/",
+      "summary_raw": "เป็นอีกครั้งที่ ‘กลุ่มสยามพิวรรธน์’ สร้างความภาคภูมิใจให้กับประเทศไทย ด้วยการคว้ารางวัลอันดับ 1 บนเวทีโลก ‘NEXTOPIA’ คือเมืองต้นแบบแห่งโลกอนาคต ซึ่งตั้งอยู่ในศูนย์การค้าสยามพารากอน หนึ่งในธุรกิจเครือกลุ่มสยามพิวรรธน์ แม้ NEXTOPIA จะเพิ่งเปิดให้บริการในเดือนพฤศจิกายน 2025 แต่ล่าสุด ก็ถูกรับเลือกให้เป็นผู้ชนะรางวัลอันดับ 1 ของโลก ในสาขา Best Refurbishment Project จาก MAPIC Awards 2026 ซึ่งเป็นเวทีระดับโลกด้านอสังหาริมทรัพย์ รางวัล Best Refurbishment Project มีไว้เพื่อยกย่องโครงการพื้นที่ค้าปลีก ที",
+      "published": "2026-11-10T10:30:51+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Brand Inside",
+      "category": "economy",
+      "title": "ทำไม AIS ถึงเลือกเล่าเรื่องคนแทนเทคโนโลยี? ถอดแนวคิด “วันที่ดีของคุณ คือหน้าที่ของเรา” จากโฆษณาสู่เรื่องจริงของคนทำงาน",
+      "link": "https://brandinside.asia/ais-your-good-day/",
+      "summary_raw": "ไม่เน้นขายสปีดแต่ขายความใส่ใจ! ถอดรหัสโฆษณา วันที่ดีของคุณ คือหน้าที่ของเรา จาก AIS บทพิสูจน์การคิดเผื่อเพื่อลูกค้าในทุกมิติ The post ทำไม AIS ถึงเลือกเล่าเรื่องคนแทนเทคโนโลยี? ถอดแนวคิด “วันที่ดีของคุณ คือหน้าที่ของเรา” จากโฆษณาสู่เรื่องจริงของคนทำงาน first appeared on Brand Inside .",
+      "published": "2026-11-10T10:00:27+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "stock",
+      "title": "SoftBank swings to $7 billion loss after U.S. data center hit and Intel share decline",
+      "link": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+      "summary_raw": "SoftBank Group announces fiscal second-quarter results for the year ending March 31, 2027.",
+      "published": "2026-11-10T09:01:37+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "CNBC Markets",
+      "category": "stock",
+      "title": "TSMC's October sales jump as global chip boom rolls on",
+      "link": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
+      "summary_raw": "TSMC reports its monthly sales figures for October on Tuesday.",
+      "published": "2026-11-10T05:42:42+00:00",
       "summary_th": ""
     }
   ]
