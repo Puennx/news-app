@@ -1,438 +1,420 @@
 {
-  "updated_at": "2026-11-20T06:37:59.747419+00:00",
-  "date": "2026-11-20",
-  "count": 48,
+  "updated_at": "2026-11-21T06:29:42.497444+00:00",
+  "date": "2026-11-21",
+  "count": 46,
   "items": [
     {
-      "source": "Brand Inside",
-      "category": "economy",
-      "title": "ครั้งแรกในไทย! ทีทีบี จับมือ อิเกีย เปิดตัว “บัตรเครดิต ttb IKEA” สร้างความคุ้มค่าใหม่ในการแต่งบ้าน จ่ายน้อยลงที่อิเกียได้ทุกวัน",
-      "link": "https://brandinside.asia/ikea-thailand-ttb/",
-      "summary_raw": "แต่งบ้านในสไตล์ที่ใช่ได้คล่องตัวกว่าเดิม! อิเกีย ประเทศไทย ผนึกทีทีบี ส่งบัตรเครดิตเพื่อคนรักบ้าน รับคะแนน 3 เท่า เครดิตเงินคืน 13% และ Surprise Gift ที่ร้านอาหารอิเกียทุกเดือน The post ครั้งแรกในไทย! ทีทีบี จับมือ อิเกีย เปิดตัว “บัตรเครดิต ttb IKEA” สร้างความคุ้มค่าใหม่ในการแต่งบ้าน จ่ายน้อยลงที่อิเกียได้ทุกวัน first appeared on Brand Inside .",
-      "published": "2026-11-20T06:25:19+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
-      "summary_raw": "Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry.",
-      "published": "2026-11-20T06:00:01+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Bennetts Associates revives Victorian hospital for University of Edinburgh",
-      "link": "https://www.dezeen.com/2026/11/20/bennetts-associates-edinburgh-futures-institute-rias-doolan-award/",
-      "summary_raw": "The conversion of a Victorian hospital into facilities for the University of Edinburgh, shortlisted for the RIAS Andrew Doolan Best Building in Scotland Award, features in this video by photographer Jim Stephenson. The film forms part of a series being published by Dezeen in collaboration with the Royal Incorporation of Architects in Scotland (RIAS) to [&#8230;] The post Bennetts Associates revives Victorian hospital for University of Edinburgh appeared first on Dezeen .",
-      "published": "2026-11-20T06:00:00+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Jujutsu Primer",
-      "link": "https://ethanlowman.com/posts/jj-primer/",
-      "summary_raw": "Article URL: https://ethanlowman.com/posts/jj-primer/ Comments URL: https://news.ycombinator.com/item?id=50570628 Points: 4 # Comments: 0",
-      "published": "2026-11-20T05:46:01+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-      "link": "https://grapheneos.social/@GrapheneOS/117645038299496084",
-      "summary_raw": "Article URL: https://grapheneos.social/@GrapheneOS/117645038299496084 Comments URL: https://news.ycombinator.com/item?id=50570479 Points: 104 # Comments: 10",
-      "published": "2026-11-20T05:21:02+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
-      "link": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
-      "summary_raw": "In the global spirits markets, while the U.S., Europe, and China are facing volume contraction, India will add nearly 100 million consumers in the next five years.",
-      "published": "2026-11-20T05:09:52+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Framery's flexible pod subscription tackles office furniture waste issue",
-      "link": "https://www.dezeen.com/2026/11/20/framerys-flexible-office-pod-subscription-office-needs/",
-      "summary_raw": "According to office pod brand Framery, when companies resize or move, desks and meeting-room furniture often aren't deemed \"worth the cost of moving\" and are discarded during the process. Framery explained that the EU and US discard 11 million tonnes of furniture a year.&#160; Specifically, the brand points to a study for the European Environmental [&#8230;] The post Framery&#039;s flexible pod subscription tackles office furniture waste issue appeared first on Dezeen .",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "CNBC Top News",
-      "category": "economy",
-      "title": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
-      "summary_raw": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
-      "published": "2026-11-20T04:51:28+00:00",
-      "summary_th": ""
-    },
-    {
       "source": "ประชาชาติธุรกิจ",
       "category": "stock",
-      "title": "ราคาทองวันนี้ (20 พ.ย. 69) ร่วงลง 3,000 บาท ทองรูปพรรณบาทละ 57,700 บาท",
-      "link": "https://www.prachachat.net/finance/news-2099510",
-      "summary_raw": "อัพเดตล่าสุด 20 พ.ย. 2569 เวลา 11.43 น. ราคาทองคำวันนี้ (20 พ.ย. 2569) ร่วงลง 3,000 บาท เมื่อเทียบกับราคาปิดวานนี้ ทองรูปพรรณขายออกที่บาทละ 57,700 บาท อ้างอิงข้อมูลล่าสุดจากสมาคมค้าทองคำ ที่เผยแพร่ผ่านทางเว็บไซต์ เมื่อเวลา 11.43 น. ที่ผ่านมา ทองคำแท่ &#8230; อ่านข่าวต้นฉบับ: ราคาทองวันนี้ (20 พ.ย. 69) ร่วงลง 3,000 บาท ทองรูปพรรณบาทละ 57,700 บาท",
-      "published": "2026-11-20T04:48:54+00:00",
+      "title": "กบข.ดันแก้ไขกฎหมาย เพิ่มทางเลือกผู้เกษียณออม คาดบังคับใช้ปี’70",
+      "link": "https://www.prachachat.net/finance/news-2100237",
+      "summary_raw": "กบข. จับมือ กระทรวงการคลัง ผลักดันการแก้ไขกฎหมาย กบข. เปิดทางผู้รับบำเหน็จบำนาญ และเบี้ยหวัด ที่เคยเป็นสมาชิกนำเงินกลับมาออม พร้อมขยายแนวทางการบริหารเงินกองสำรอง ที่เป็นหลักประกันการจ่ายบำเหน็จบำนาญข้าราชการ ให้ลงทุนหลากหลาย กระจายความเสี่ยง เน้นสินท &#8230; อ่านข่าวต้นฉบับ: กบข.ดันแก้ไขกฎหมาย เพิ่มทางเลือกผู้เกษียณออม คาดบังคับใช้ปี&#8217;70",
+      "published": "2026-11-21T05:06:24+00:00",
       "summary_th": ""
     },
     {
       "source": "Brand Inside",
       "category": "economy",
-      "title": "AFTERKLASS Fin-Kareer Sandbox ให้คนรุ่นใหม่ ได้ลองทำงานจริง สัมผัสงานด้านการเงิน ตั้งแต่ยังไม่เข้ามหาวิทยาลัย ทั้งวิเคราะห์ข้อมูล พัฒนาแอป บริหารกองทุน จนถึงงาน ESG",
-      "link": "https://brandinside.asia/kbank-afterklass-fin-kareer-sandbox-2026/",
-      "summary_raw": "หมดปัญหาเลือกคณะเรียนแบบเดาสุ่ม! ส่องกิจกรรม Job Shadowing จาก AFTERKLASS เปิดพื้นที่ให้เยาวชนอายุ 15–20 ปี ลองเป็นนักจัดการกองทุนและนักพัฒนาแอปนาน 3 สัปดาห์ The post AFTERKLASS Fin-Kareer Sandbox ให้คนรุ่นใหม่ ได้ลองทำงานจริง สัมผัสงานด้านการเงิน ตั้งแต่ยังไม่เข้ามหาวิทยาลัย ทั้งวิเคราะห์ข้อมูล พัฒนาแอป บริหารกองทุน จนถึงงาน ESG first appeared on Brand Inside .",
-      "published": "2026-11-20T04:30:20+00:00",
+      "title": "เปิดตำนาน ‘ไอศกรีมโอ่ง’ จากเมื่อก่อน ลูกค้าไม่ชอบ สู่ภาพจำของ Mo-Mo-Paradise ลูกค้ากินกันทีละหลายโอ่ง มีรสใหม่ๆ นำเสนอตลอดปี",
+      "link": "https://brandinside.asia/mo-mo-paradise-ice-cream/",
+      "summary_raw": "ตั้งแต่เมื่อไรไม่รู้ที่ ‘Mo-Mo-Paradise’ (โมโมพาราไดซ์) ร้านชาบู-สุกี้ยากี้ชื่อดังจากประเทศญี่ปุ่น กลายเป็นภาพจำของคนไทยในฐานะ ‘ไอศกรีมโอ่ง’ สุดซิกเนเจอร์ The post เปิดตำนาน ‘ไอศกรีมโอ่ง’ จากเมื่อก่อน ลูกค้าไม่ชอบ สู่ภาพจำของ Mo-Mo-Paradise ลูกค้ากินกันทีละหลายโอ่ง มีรสใหม่ๆ นำเสนอตลอดปี first appeared on Brand Inside .",
+      "published": "2026-11-21T05:00:52+00:00",
       "summary_th": ""
     },
     {
-      "source": "Brand Inside",
-      "category": "economy",
-      "title": "Nara Group เจ้าของเชน ‘ร้านอาหารไทย’ ที่คนไทยไม่ค่อยรู้จัก แต่ต่างชาติรัก มีสาขาทั่วโลก งัดแผนลุยตลาดไทย ลงทุน ‘แบรนด์แมส’ ตอนนี้มี 14 แบรนด์แล้ว",
-      "link": "https://brandinside.asia/nara-group-start-expand-brand/",
-      "summary_raw": "ถ้าพูดถึง ‘ร้านอาหารไทย’ ที่คนไทยไม่ค่อยคุ้นเคยเท่าไร แต่เป็นที่รักของนักท่องเที่ยวทุกสัญชาติ คุณจะคิดถึงร้านอะไร ถ้าถามเรา เรานึกถึง Nara Thai Cuisine ร้านอาหารไทยที่ภาพลักษณ์ก็ไทย ขายอาหารก็ไทย บริการก็ไทย เรียกว่าเป็นตัวแทนของอาหารไทยพรีเมี่ยมในทุกๆ ด้าน The post Nara Group เจ้าของเชน ‘ร้านอาหารไทย’ ที่คนไทยไม่ค่อยรู้จัก แต่ต่างชาติรัก มีสาขาทั่วโลก งัดแผนลุยตลาดไทย ลงทุน ‘แบรนด์แมส’ ตอนนี้มี 14 แบรนด์แล้ว first appeared on Brand Inside .",
-      "published": "2026-11-20T04:16:49+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Hacker News",
-      "category": "tech",
-      "title": "FFmpeg 9.1 'Gauss'",
-      "link": "https://ffmpeg.org/download.html#release_9.1",
-      "summary_raw": "Article URL: https://ffmpeg.org/download.html#release_9.1 Comments URL: https://news.ycombinator.com/item?id=50569998 Points: 29 # Comments: 8",
-      "published": "2026-11-20T04:02:39+00:00",
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "Pet Economy สะท้อนสังคมไทยเปลี่ยน 7.3 ล้านชีวิตสี่ขา โตสวนทางเด็กเกิดใหม่",
+      "link": "https://www.prachachat.net/finance/news-2100220",
+      "summary_raw": "วิจัยกรุงศรีชี้ 7.3 ล้านชีวิตสี่ขา โตสวนทางเด็กเกิดใหม่ จาก “สัตว์เลี้ยง” สู่ “สมาชิกสำคัญของบ้าน” ขยาย Pet Economy ในทุกมิติของชีวิต เปลี่ยนนิยามครอบครัว-วิถีชีวิตคนไทย รายงานจากวิจัยกรุงศรี เปิดเผยว่า วันนี้ “สัตว์เลี้ยง” ไม่ได้เป็นเพียงเพื่อนคลายเ &#8230; อ่านข่าวต้นฉบับ: Pet Economy สะท้อนสังคมไทยเปลี่ยน 7.3 ล้านชีวิตสี่ขา โตสวนทางเด็กเกิดใหม่",
+      "published": "2026-11-21T03:28:57+00:00",
       "summary_th": ""
     },
     {
       "source": "Hacker News",
       "category": "tech",
-      "title": "GIMP now has UI tests",
-      "link": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
-      "summary_raw": "Article URL: https://www.gimp.org/news/2026/11/16/gimp-ui-tests/ Comments URL: https://news.ycombinator.com/item?id=50569985 Points: 67 # Comments: 46",
-      "published": "2026-11-20T04:00:24+00:00",
+      "title": "BlackBlaze now explicitly states selling your data for advertisement",
+      "link": "https://www.backblaze.com/company/policy/privacy",
+      "summary_raw": "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 109 # Comments: 26",
+      "published": "2026-11-21T03:23:16+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "summary_raw": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 36 # Comments: 6",
+      "published": "2026-11-21T02:40:39+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "ราคาทองวันนี้ (21 พ.ย.) ปรับลง 450 บาท ทองรูปพรรณบาทละ 57,950.00 บาท",
+      "link": "https://www.prachachat.net/finance/news-2100202",
+      "summary_raw": "ราคาทองวันนี้ (21 พ.ย. 69) ปรับลง 450 บาท ทองรูปพรรณ รับซื้ออบาทละ 55,803.96 บาท ขายออกบาทละ 57,950.00 บาท ราคาทองวันนี้ (21 พฤศจิกายน 2569) ปรับลง 450 บาท เมื่อเปรียบเทียบกับราคาปิดวานนี้ โดยราคาทองรูปพรรณขยับมาอยู่ที่บาทละ 57,950.00 บาท ตามข้อมูลล่ &#8230; อ่านข่าวต้นฉบับ: ราคาทองวันนี้ (21 พ.ย.) ปรับลง 450 บาท ทองรูปพรรณบาทละ 57,950.00 บาท",
+      "published": "2026-11-21T02:23:59+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
+      "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+      "summary_raw": "Article URL: https://spectrum.ieee.org/fighting-back-against-deep-fakes Comments URL: https://news.ycombinator.com/item?id=50584429 Points: 27 # Comments: 4",
+      "published": "2026-11-21T00:33:40+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "Serious cyberattack thought backed by wealthy operators",
+      "link": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+      "summary_raw": "Article URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411 Comments URL: https://news.ycombinator.com/item?id=50583856 Points: 54 # Comments: 30",
+      "published": "2026-11-20T23:29:30+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Hacker News",
+      "category": "tech",
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "summary_raw": "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=50583768 Points: 78 # Comments: 16",
+      "published": "2026-11-20T23:19:44+00:00",
       "summary_th": ""
     },
     {
       "source": "CNBC Top News",
       "category": "economy",
-      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
-      "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
-      "summary_raw": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
-      "published": "2026-11-20T03:56:17+00:00",
+      "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+      "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+      "summary_raw": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+      "published": "2026-11-20T22:59:33+00:00",
       "summary_th": ""
     },
     {
-      "source": "Hacker News",
+      "source": "ประชาชาติธุรกิจ",
+      "category": "stock",
+      "title": "ราคาบิตคอยน์วันนี้ (21 พ.ย.) ร่วงลง 5.02% อยู่ที่ 59,054 เหรียญสหรัฐ",
+      "link": "https://www.prachachat.net/finance/news-2100174",
+      "summary_raw": "ราคาบิตคอยน์ประจำวันนี้ (21 พ.ย. 69) ปรับลง -5.02% เมื่อเทียบกับราคาเมื่อ 24 ชั่วโมงก่อน มาอยู่ที่ 59,054 เหรียญสหรัฐ หรือราว 2,003,701.76 บาท เปลี่ยนแปลง 13.58% ในช่วงเวลา 7 วัน ตามข้อมูลล่าสุด เมื่อเวลา 5.44 น. ที่ผ่านมา ขณะที่เหรียญดิจิทัลคริปโตเค &#8230; อ่านข่าวต้นฉบับ: ราคาบิตคอยน์วันนี้ (21 พ.ย.) ร่วงลง 5.02% อยู่ที่ 59,054 เหรียญสหรัฐ",
+      "published": "2026-11-20T22:53:51+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Ars Technica",
       "category": "tech",
-      "title": "PostgreSQL 19",
-      "link": "https://www.postgresql.org/docs/release/19.0/",
-      "summary_raw": "Article URL: https://www.postgresql.org/docs/release/19.0/ Comments URL: https://news.ycombinator.com/item?id=50569890 Points: 66 # Comments: 2",
-      "published": "2026-11-20T03:45:45+00:00",
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+      "summary_raw": "FCC preempts state rules that require AT&#038;T to keep offering home phone service.",
+      "published": "2026-11-20T22:28:24+00:00",
       "summary_th": ""
     },
     {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "หุ้นไทยเสี่ยงเจอแรงขาย คาดดัชนี 1,450-1,480 จุด ชู 12 หุ้น Value รับมือผันผวน",
-      "link": "https://www.prachachat.net/finance/news-2099479",
-      "summary_raw": "บล.พายประเมินหุ้นไทยวันนี้เสี่ยงเผชิญแรงขายตามตลาดโลก หลังหุ้นสหรัฐฯ ร่วงหนัก กังวลทิศทางดอกเบี้ย Fed และแรงขายหุ้น AI คาด SET แกว่งในกรอบ 1,450-1,480 จุด แนะนักลงทุนรับความเสี่ยงต่ำชะลอลงทุน พร้อมคัด 12 หุ้น Value ชู TU-TIDLOR เด่น บริษัทหลักทรัพย์ &#8230; อ่านข่าวต้นฉบับ: หุ้นไทยเสี่ยงเจอแรงขาย คาดดัชนี 1,450-1,480 จุด ชู 12 หุ้น Value รับมือผันผวน",
-      "published": "2026-11-20T03:19:09+00:00",
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "summary_raw": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "published": "2026-11-20T22:16:51+00:00",
       "summary_th": ""
     },
     {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "ก.ล.ต.ชี้ลด Tick Size หั่นต้นทุนเทรดหุ้น พบ 74% ติดข้อจำกัดช่วงราคา",
-      "link": "https://www.prachachat.net/finance/news-2099474",
-      "summary_raw": "ก.ล.ต.เปิดผลศึกษาพบตลาดหุ้นไทยมี Tick Size เฉลี่ยสูงสุดในภูมิภาค หุ้น 74% ถูกจำกัดด้วยช่วงราคาขั้นต่ำ ชี้การปรับลด Tick Size ช่วยลดส่วนต่างราคาซื้อขาย ลดต้นทุนนักลงทุน พร้อมเพิ่มสภาพคล่องและประสิทธิภาพตลาดทุนไทย นายเอนก อยู่ยืน รองเลขาธิการและโฆษกสำน &#8230; อ่านข่าวต้นฉบับ: ก.ล.ต.ชี้ลด Tick Size หั่นต้นทุนเทรดหุ้น พบ 74% ติดข้อจำกัดช่วงราคา",
-      "published": "2026-11-20T03:13:06+00:00",
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "summary_raw": "Google search is making it even easier to access AI tools on the search page.",
+      "published": "2026-11-20T21:58:29+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Ars Technica",
+      "category": "tech",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "summary_raw": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "published": "2026-11-20T21:47:10+00:00",
       "summary_th": ""
     },
     {
       "source": "Designboom",
       "category": "design",
-      "title": "corrugated metal and sawtooth roofs wrap occupational center in northern portugal",
-      "link": "https://www.designboom.com/architecture/corrugated-metal-sawtooth-roofs-occupational-center-northern-portugal-salto-studio-caci-5-3-8/",
-      "summary_raw": "an inclusive occupational center for disabled people in vila nova de paiva, designed by salto studio, explores the psychological potential of a building’s iconography. The post corrugated metal and sawtooth roofs wrap occupational center in northern portugal appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-11-20T03:10:46+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "ไทย-ญี่ปุ่นเปิดเกมลงทุนรอบใหม่ ดัน “Second Take-off” ปั้นฐานผลิตเทคโนโลยีขั้นสูง",
-      "link": "https://www.prachachat.net/finance/news-2099469",
-      "summary_raw": "ทีมไทยแลนด์ถก 38 บริษัทญี่ปุ่นบนเวที Keidanren เดินหน้าความร่วมมือลงทุนรอบใหม่ “Second Take-off” ยกระดับฐานผลิตเดิมสู่อุตสาหกรรมอนาคต ทั้งเซมิคอนดักเตอร์ แบตเตอรี่ พลังงานสะอาด และ Data Center ภาคเอกชนชูโมเดล “Made with Thailand” ดึงเงินทุน-เทคโนโลยี &#8230; อ่านข่าวต้นฉบับ: ไทย-ญี่ปุ่นเปิดเกมลงทุนรอบใหม่ ดัน “Second Take-off” ปั้นฐานผลิตเทคโนโลยีขั้นสูง",
-      "published": "2026-11-20T02:52:32+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "ประชาชาติธุรกิจ",
-      "category": "stock",
-      "title": "ทองดิ่งนรก ! ไร้แรงต้าน หลุด 3,700 เหรียญ ทองแท่งร่วงไปอยู่ระดับ 57,000 บาทแล้ว",
-      "link": "https://www.prachachat.net/finance/news-2099455",
-      "summary_raw": "ฮั่วเซ่งเฮง โกลด์ฟิวเจอร์ส ชี้ทองร่วงไร้แรงต้าน ทองคำโลกร่วงต่อ หลุด 3,700 เหรียญ แรงขายลามจากหุ้นสหรัฐฯ ขณะที่ตลาดยังกลัว &#8220;เฟด&#8221; ขึ้นดอกเบี้ย ส่วนทองไทยจ่อหลุด 57,000 บาท รายงานจากฮั่วเซ่งเฮง โกลด์ฟิวเจอร์ส เปิดเผยว่า สถานการณ์ล่าสุด ทองร &#8230; อ่านข่าวต้นฉบับ: ทองดิ่งนรก ! ไร้แรงต้าน หลุด 3,700 เหรียญ ทองแท่งร่วงไปอยู่ระดับ 57,000 บาทแล้ว",
-      "published": "2026-11-20T02:32:46+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "summary_raw": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "published": "2026-11-20T00:56:01+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "summary_raw": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "published": "2026-11-20T00:43:50+00:00",
+      "title": "angelo renna’s eight principles for welcoming non-human life back into our cities",
+      "link": "https://www.designboom.com/architecture/angelo-renna-eight-principles-welcoming-non-human-life-back-into-our-cities-guest-essays/",
+      "summary_raw": "challenging decades of sanitized, anthropocentric urbanism, angelo renna proposes a shift from development to co-evolution, offering strategies to welcome plants, insects, birds, and wildlife back into everyday city life. The post angelo renna’s eight principles for welcoming non-human life back into our cities appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-11-20T21:35:56+00:00",
       "summary_th": ""
     },
     {
       "source": "CNBC Top News",
       "category": "economy",
-      "title": "AMD dives on short seller report of alleged China exposure",
-      "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-      "summary_raw": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law.",
-      "published": "2026-11-20T00:08:34+00:00",
+      "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+      "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+      "summary_raw": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
+      "published": "2026-11-20T21:35:24+00:00",
       "summary_th": ""
     },
     {
       "source": "CNBC Markets",
       "category": "stock",
-      "title": "Gap names new Athleta CEO, lowers full-year guidance",
+      "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
       "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
       "summary_raw": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
-      "published": "2026-11-19T23:54:20+00:00",
+      "published": "2026-11-20T21:04:48+00:00",
       "summary_th": ""
     },
     {
       "source": "Ars Technica",
       "category": "tech",
-      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-      "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-      "summary_raw": "Amazon now uses its shopping platform for political purposes.",
-      "published": "2026-11-19T22:16:37+00:00",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "summary_raw": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "published": "2026-11-20T20:59:08+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+      "summary_raw": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
+      "published": "2026-11-20T20:47:58+00:00",
       "summary_th": ""
     },
     {
       "source": "TechCrunch AI",
       "category": "ai",
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "summary_raw": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "published": "2026-11-19T21:58:06+00:00",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "summary_raw": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "published": "2026-11-20T19:53:41+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "A massive bearish trade just happened in the chip stocks",
+      "link": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
+      "summary_raw": "Options traders place big bets that semiconductor stocks have further to fall",
+      "published": "2026-11-20T19:33:31+00:00",
       "summary_th": ""
     },
     {
       "source": "TechCrunch AI",
       "category": "ai",
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "summary_raw": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "published": "2026-11-19T21:42:31+00:00",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "summary_raw": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "published": "2026-11-20T19:32:08+00:00",
       "summary_th": ""
     },
     {
       "source": "Designboom",
       "category": "design",
-      "title": "when bees and humans make art together",
-      "link": "https://www.designboom.com/art/when-bees-humans-make-art-together/",
-      "summary_raw": "from encaustic painting to interspecies sculpture, ava roth's work draws on bees, natural materials and the possibilities of collaborative making The post when bees and humans make art together appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-11-19T21:35:28+00:00",
+      "title": "mercedes-benz built this orange, gullwing-doored supercar as an experiment in 1970",
+      "link": "https://www.designboom.com/technology/mercedes-benz-orange-gullwing-supercar-1970-c-111-ii-rm-sothebys/",
+      "summary_raw": "the 1970 prototype shows a wankel engine, orange fiberglass body and houndstooth interior as it heads to auction with RM sotheby's. The post mercedes-benz built this orange, gullwing-doored supercar as an experiment in 1970 appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-11-20T18:45:24+00:00",
       "summary_th": ""
     },
     {
-      "source": "Ars Technica",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Chips can survive the space environment — can their financing?",
+      "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "summary_raw": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "published": "2026-11-20T17:40:01+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "The Verge",
       "category": "tech",
-      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-      "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
-      "summary_raw": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
-      "published": "2026-11-19T21:19:12+00:00",
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+      "summary_raw": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave [&#8230;]",
+      "published": "2026-11-20T15:43:52-05:00",
       "summary_th": ""
     },
     {
-      "source": "CNBC Markets",
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Atelier Manferdini uses digital glitches to shape tile-and-metal facade of Virginia power station",
+      "link": "https://www.dezeen.com/2026/11/20/atelier-manferdini-virginia-power-station/",
+      "summary_raw": "Atelier Manferdini has created an expressive facade system for an electrical substation in Virginia, USA, using metal and colourful tile to represent the flow of electrical power within. The post Atelier Manferdini uses digital glitches to shape tile-and-metal facade of Virginia power station appeared first on Dezeen .",
+      "published": "2026-11-20T14:59:09+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "summary_raw": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to [&#8230;]",
+      "published": "2026-11-20T14:55:44+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "link": "https://www.theverge.com/games/1036279/gta-vi-sales",
+      "summary_raw": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand [&#8230;]",
+      "published": "2026-11-20T14:35:06-05:00",
+      "summary_th": ""
+    },
+    {
+      "source": "CNBC Top News",
+      "category": "economy",
+      "title": "The bull market has a new problem. The 'smart money' is selling",
+      "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
+      "summary_raw": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.",
+      "published": "2026-11-20T14:15:29+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
+      "link": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
+      "summary_raw": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy&#8217;s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at Amazon, Best Buy, or directly from Eufy [&#8230;]",
+      "published": "2026-11-20T14:15:00-05:00",
+      "summary_th": ""
+    },
+    {
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "summary_raw": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "published": "2026-11-20T14:00:00+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "The Verge",
+      "category": "tech",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "summary_raw": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a [&#8230;]",
+      "published": "2026-11-20T13:50:19-05:00",
+      "summary_th": ""
+    },
+    {
+      "source": "ประชาชาติธุรกิจ",
       "category": "stock",
-      "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
-      "link": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
-      "summary_raw": "Palo Alto Networks reported better-than-expected first-quarter results and inked a $4.5 billion deal for AI startup Applied Compute",
-      "published": "2026-11-19T21:00:57+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Cosentino supports architectural creativity with Ēclos mineral surface",
-      "link": "https://www.dezeen.com/2026/11/19/cosentino-eclos-surface-architecture-creativity/",
-      "summary_raw": "Cosentino aims to put the creative freedom of architects and designers front and centre with its Ēclos surface, designed for three-dimensional compositions with refined edges, corners and waterfall ends. Ēclos is the Spanish brand’s latest mineral surface material, made with advanced methods to emulate the look of natural stone and be free of crystalline silica. [&#8230;] The post Cosentino supports architectural creativity with Ēclos mineral surface appeared first on Dezeen .",
-      "published": "2026-11-19T21:00:00+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-      "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
-      "summary_raw": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
-      "published": "2026-11-19T20:29:46+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "summary_raw": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
-      "published": "2026-11-19T20:19:28+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary_raw": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "published": "2026-11-19T20:18:49+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "CNBC Markets",
-      "category": "stock",
-      "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
-      "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-      "summary_raw": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
-      "published": "2026-11-19T19:58:30+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Ars Technica",
-      "category": "tech",
-      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-      "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
-      "summary_raw": "\"Project Suncatcher is a long-term moonshot.\"",
-      "published": "2026-11-19T19:52:54+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "GRRIZ’s moiré sculpture set atop paris parking entrance moves only when people walk past it",
-      "link": "https://www.designboom.com/art/grriz-moire-sculpture-paris-la-defense-parking-entrance-cromawaltz/",
-      "summary_raw": "installed on the parvis de la grande arche, grriz’s moiré sculpture relies is activated by the movement of passersby and heightened at a commuter’s walking speed. The post GRRIZ’s moiré sculpture set atop paris parking entrance moves only when people walk past it appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-11-19T19:15:17+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "derrick adams invites miami art week visitors to build a giant LEGO unicorn pool float",
-      "link": "https://www.designboom.com/art/derrick-adams-miami-week-build-giant-lego-unicorn-pool-float-party-avant-gallery/",
-      "summary_raw": "during miami art week, visitors can help artist derrick adams build a nine-foot LEGO unicorn at 1111 lincoln road. The post derrick adams invites miami art week visitors to build a giant LEGO unicorn pool float appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-11-19T18:01:37+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "Sid Lee Architecture references \"rhythm of the vine\" for curved Ontario hotel",
-      "link": "https://www.dezeen.com/2026/11/19/clayfield-hotel-sid-lee-architecture-ontario/",
-      "summary_raw": "Canadian studio Sid Lee Architecture designed a curved glass hotel that looks out to the wine region of Ontario. The post Sid Lee Architecture references &quot;rhythm of the vine&quot; for curved Ontario hotel appeared first on Dezeen .",
-      "published": "2026-11-19T18:00:00+00:00",
+      "title": "สรรพากร ออกมาตรการช่วยประชาชน 7 พื้นที่ ได้รับผลกระทบจากชายแดนไทย-กัมพูชา",
+      "link": "https://www.prachachat.net/finance/news-2100151",
+      "summary_raw": "กรมสรรพากร ออก 3 มาตรการช่วยประชาชน 7 พื้นที่ ได้รับผลกระทบจากสถานการณ์ฉุกเฉินด้านความมั่นคงบริเวณชายแดนไทย-กัมพูชา จากกรณีที่คณะรัฐมนตรีมีมติเมื่อวันที่ 17 พฤศจิกายน 2569 อนุมัติหลักการร่างกฎหมายตามมาตรการภาษีเพื่อช่วยเหลือประชาชนในพื้นที่ที่ได้รับผ &#8230; อ่านข่าวต้นฉบับ: สรรพากร ออกมาตรการช่วยประชาชน 7 พื้นที่ ได้รับผลกระทบจากชายแดนไทย-กัมพูชา",
+      "published": "2026-11-20T13:34:56+00:00",
       "summary_th": ""
     },
     {
       "source": "The Verge",
       "category": "tech",
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "summary_raw": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
-      "published": "2026-11-19T17:31:41-05:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Dezeen",
-      "category": "design",
-      "title": "SHoP Architects designs Novak Djokovic-backed Miami supertall skyscraper",
-      "link": "https://www.dezeen.com/2026/11/19/shop-architects-novak-djokovic-atma-miami-supertall-skyscraper/",
-      "summary_raw": "SHoP Architects has released designs for a heavily articulated supertall skyscraper in Miami, announced alongside the launch of a luxury brand for which Serbian tennis player Novak Djokovic is developing amenity facilities. The post SHoP Architects designs Novak Djokovic-backed Miami supertall skyscraper appeared first on Dezeen .",
-      "published": "2026-11-19T17:00:00+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "summary_raw": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings [&#8230;]",
-      "published": "2026-11-19T16:59:35-05:00",
-      "summary_th": ""
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Meta now sells 3D movies on Quest VR headsets",
-      "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
-      "summary_raw": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie [&#8230;]",
-      "published": "2026-11-19T16:12:06-05:00",
-      "summary_th": ""
-    },
-    {
-      "source": "Designboom",
-      "category": "design",
-      "title": "perkins&will and estúdio campana wrap são paulo airport lounge in amazon river-inspired timber installation",
-      "link": "https://www.designboom.com/architecture/perkinswill-estudio-campana-sao-paulo-airport-lounge-amazon-river-inspired-timber-installation-pedra-preta/",
-      "summary_raw": "inside terminal 3 of são paulo’s guarulhos international airport, perkins&#038;will and estúdio campana design the 1,400-sqm pedra preta lounge, anchored by a curved timber entrance installation modeled on the amazon’s juruá river and espírito santo stone interiors. The post perkins&#038;will and estúdio campana wrap são paulo airport lounge in amazon river-inspired timber installation appeared first on designboom | architecture &amp; design magazine .",
-      "published": "2026-11-19T15:55:47+00:00",
-      "summary_th": ""
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Meta’s Muse Charm might cost $300",
-      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "summary_raw": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [&#8230;]",
-      "published": "2026-11-19T15:22:17-05:00",
-      "summary_th": ""
-    },
-    {
-      "source": "The Verge",
-      "category": "tech",
-      "title": "Google is putting AI chats right on the homepage",
-      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "summary_raw": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the [&#8230;]",
-      "published": "2026-11-19T15:05:06-05:00",
+      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
+      "link": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
+      "summary_raw": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying around, have faster read and write speeds. Thankfully, Samsung’s 256GB model has dropped to $44.99 at Amazon ahead of [&#8230;]",
+      "published": "2026-11-20T13:15:00-05:00",
       "summary_th": ""
     },
     {
       "source": "Brand Inside",
       "category": "economy",
-      "title": "ตั๋วเครื่องบินไปฮอกไกโด เช็กราคาและเทคนิคการจองตั๋วให้คุ้ม",
-      "link": "https://brandinside.asia/bangkok-to-hokkaido-tickets/",
-      "summary_raw": "จองตั๋วเครื่องบินไปฮอกไกโด เตรียมเที่ยวญี่ปุ่นให้พร้อม เช็กราคา สายการบินตรง ช่วงเวลาน่าเที่ยว และพิกัดยอดนิยม พร้อมเทคนิคเลือกเที่ยวบินให้คุ้มกับแอป Traveloka The post ตั๋วเครื่องบินไปฮอกไกโด เช็กราคาและเทคนิคการจองตั๋วให้คุ้ม first appeared on Brand Inside .",
-      "published": "2026-11-19T10:30:43+00:00",
+      "title": "คนไทยแห่เล่น Pickleball พุ่ง! กรุงเทพฯ มี 20 สนามก็ยังไม่พอ ‘เซ็นทรัล’ ลุยเปิด ‘คอร์ทบนห้าง’ ที่แรก Central Westville เริ่มต้นชั่วโมงละ 300 บาท",
+      "link": "https://brandinside.asia/pickleball-courtside-central/",
+      "summary_raw": "ยุคนี้ถ้าไม่ใช่วิ่ง ถ้าไม่ใช่ไฮร็อกซ์ ถ้าไม่ใช่เทนนิส ก็ต้อง Pickleball หรือ พิกเคิลบอล แล้วรึเปล่า? เพราะนี่คือหนึ่งในกีฬามาแรงแห่งยุคสมัยที่มีจำนวนผู้เล่นเพิ่มขึ้นทั่วโลก โดยเฉพาะในแถบเอเชียที่ความนิยมพุ่งสูงขึ้นอย่างมีนัยสำคัญในช่วงที่ผ่านมา จนกระทั่งเจ้าของห้างใหญ่อย่าง ‘เซ็นทรัลพัฒนา’ ยังอดไม่ไหว ตัดสินใจเปิดคอร์ท Pickleball ของตัวเองแล้ว The post คนไทยแห่เล่น Pickleball พุ่ง! กรุงเทพฯ มี 20 สนามก็ยังไม่พอ ‘เซ็นทรัล’ ลุยเปิด ‘คอร์ทบนห้าง’ ที่แรก Central Westville เริ่มต้นชั่วโมงละ 300 บาท f",
+      "published": "2026-11-20T13:00:34+00:00",
       "summary_th": ""
     },
     {
       "source": "Brand Inside",
       "category": "economy",
-      "title": "ตั๋วเครื่องบินไปปักกิ่ง ราคาคุ้ม เตรียมตัวให้พร้อม ก่อนบินเที่ยวจีน",
-      "link": "https://brandinside.asia/bangkok-to-beijing-tickets/",
-      "summary_raw": "ตั๋วเครื่องบินไปปักกิ่ง ราคาดี เช็กราคาตั๋วเครื่องบินไปปักกิ่ง จองผ่านแอป Traveloka ง่าย ๆ คุ้มค่า พร้อมไกด์สนามบิน ค่าใช้จ่าย และที่เที่ยวห้ามพลาดในปักกิ่ง The post ตั๋วเครื่องบินไปปักกิ่ง ราคาคุ้ม เตรียมตัวให้พร้อม ก่อนบินเที่ยวจีน first appeared on Brand Inside .",
-      "published": "2026-11-19T09:59:57+00:00",
+      "title": "AXTRA Club มาแล้ว! ห้างโมเดล ‘ซื้อได้เฉพาะสมาชิก’ จาก CP AXTRA ต้องเสียตังค์สมัครก่อน ถึงซื้อของได้ เน้นสินค้านำเข้า ได้ราคาถูกกว่า ลดสูงสุด 60% เลย",
+      "link": "https://brandinside.asia/axtra-club-launch/",
+      "summary_raw": "วันนี้ประเทศไทยเองก็มี 'ห้างระบบสมาชิก' หรือ Member Purchase Only บ้างแล้วเหมือนกัน เพราะ CP AXTRA เจ้าของ Makro และ lotus’s เปิดตัว ‘ห้างค้าปลีกระบบสมาชิก’ ที่ชื่อว่า 'AXTRA Club' เป็นศูนย์รวมสินค้าพรีเมี่ยมจากประเทศไทยและทั่วทุกมุมโลกอย่างเป็นทางการแล้ว The post AXTRA Club มาแล้ว! ห้างโมเดล ‘ซื้อได้เฉพาะสมาชิก’ จาก CP AXTRA ต้องเสียตังค์สมัครก่อน ถึงซื้อของได้ เน้นสินค้านำเข้า ได้ราคาถูกกว่า ลดสูงสุด 60% เลย first appeared on Brand Inside .",
+      "published": "2026-11-20T12:25:22+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "united artists for climate calls for art and culture to take stronger role in climate action at COP31",
+      "link": "https://www.designboom.com/art/united-artists-climate-art-culture-stronger-role-climate-action-cop31-artofchange21/",
+      "summary_raw": "launched by art of change 21, the international movement brings together contemporary artists to advocate for more ambitious climate commitments, cultural representation in policymaking, and a socially just transition. The post united artists for climate calls for art and culture to take stronger role in climate action at COP31 appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-11-20T11:50:54+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "CAN combines eclectic references for eccentric revamp of London house",
+      "link": "https://www.dezeen.com/2026/11/20/can-house-tropicalia/",
+      "summary_raw": "Towers of concrete drainage tubes and colourful exposed steel elements are among the eclectic features of House-Tropicália, a “very personal” London residence recently extended by local architecture studio CAN. The post CAN combines eclectic references for eccentric revamp of London house appeared first on Dezeen .",
+      "published": "2026-11-20T11:44:58+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Brand Inside",
+      "category": "economy",
+      "title": "จากซอสบนโต๊ะอาหาร สู่ Global Cult Favorite เปิดกลยุทธ์ ‘Exotic Food’ กับเป้าหมายรายได้ 4,000 ล้านบาท",
+      "link": "https://brandinside.asia/exotic-food-xo-flying-goose-global/",
+      "summary_raw": "จากโซน Ethnic สู่เชลฟ์หลักทั่วโลก! ถอดสูตร Exotic Food ปั้นซอสห่านบินบุก 80 ประเทศ ทุ่ม 1,299 ล้านสร้างโรงงาน 4 ปูทางเป้ารายได้ 4,000 ล้าน The post จากซอสบนโต๊ะอาหาร สู่ Global Cult Favorite เปิดกลยุทธ์ ‘Exotic Food’ กับเป้าหมายรายได้ 4,000 ล้านบาท first appeared on Brand Inside .",
+      "published": "2026-11-20T11:30:51+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Brand Inside",
+      "category": "economy",
+      "title": "สยามพิวรรธน์ ตอกย้ำผู้นำ Luxury Retail นำ ‘ไอคอนสยาม’ คว้ารางวัล 2026 BEST OF THE BEST อันดับ 1 จุดหมายปลายทางแบรนด์หรูระดับโลก",
+      "link": "https://brandinside.asia/iconsiam-best-luxury-2026/",
+      "summary_raw": "ผงาดเวทีลักชัวรีโลก! ไอคอนสยาม คว้าอันดับ 1 Best Luxury Shopping Destination 2026 จาก Robb Report ชูโมเดล Co-creation รวม 48 แบรนด์ดังริมเจ้าพระยา The post สยามพิวรรธน์ ตอกย้ำผู้นำ Luxury Retail นำ ‘ไอคอนสยาม’ คว้ารางวัล 2026 BEST OF THE BEST อันดับ 1 จุดหมายปลายทางแบรนด์หรูระดับโลก first appeared on Brand Inside .",
+      "published": "2026-11-20T11:18:16+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Meet Lanza Atelier, Frida Escobedo's pick for the most influential architect of the next 20 years",
+      "link": "https://www.dezeen.com/2026/11/20/lanza-atelier-interview-frida-escobedo-20x20/",
+      "summary_raw": "They started the year crowned the 2026 Serpentine Pavilion architects and are ending it as trailblazer Frida Escobedo's pick for the practitioners who will shape the next two decades. In this interview for Dezeen’s 20x20 series sponsored by Kohler, Lanza Atelier discuss the bathrooms that brought them together, the yin and yang of their partnership, [&#8230;] The post Meet Lanza Atelier, Frida Escobedo&#039;s pick for the most influential architect of the next 20 years appeared first on Dezeen .",
+      "published": "2026-11-20T11:15:00+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "Unprecedented Design Museum exhibition surveys \"the beauty and the depth of Black design\"",
+      "link": "https://www.dezeen.com/2026/11/20/the-nue-black-aesthetic-exhibition/",
+      "summary_raw": "Work from 16 of the most exciting Black designers working today has been brought together under one roof for the first time as part of The Nue Black Aesthetic exhibition at London's Design Museum. The post Unprecedented Design Museum exhibition surveys &quot;the beauty and the depth of Black design&quot; appeared first on Dezeen .",
+      "published": "2026-11-20T11:00:00+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Dezeen",
+      "category": "design",
+      "title": "\"All over the world, buildings designed to be explored in 3D are subject to restrictions\"",
+      "link": "https://www.dezeen.com/2026/11/20/shanghai-opera-house-controversy-aaron-betsky-opinion/",
+      "summary_raw": "Controversy over visitors having to pay to access the walkable roof at the new Shanghai Grand Opera House highlights the need for architects to be realistic about how buildings operate, writes Aaron Betksy. The post &quot;All over the world, buildings designed to be explored in 3D are subject to restrictions&quot; appeared first on Dezeen .",
+      "published": "2026-11-20T10:30:00+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "how ifi lighting awakens human senses through precise illumination",
+      "link": "https://www.designboom.com/architecture/ifi-lighting/",
+      "summary_raw": "treating light as an invisible building material, ifi lighting does not simply illuminate architecture, it illuminates the senses, giving physical form to atmospheres felt as much as seen. The post how ifi lighting awakens human senses through precise illumination appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-11-20T09:30:00+00:00",
+      "summary_th": ""
+    },
+    {
+      "source": "Designboom",
+      "category": "design",
+      "title": "marguerite humeau discusses myth-making, spirituality and our connection to other forms of life",
+      "link": "https://www.designboom.com/art/marguerite-humeau-myth-making-spirituality-connection-other-forms-life-interview/",
+      "summary_raw": "the artist reflects on how animal intelligence, ancient rituals and alternative forms of knowledge can expand our understanding of life beyond the human. The post marguerite humeau discusses myth-making, spirituality and our connection to other forms of life appeared first on designboom | architecture &amp; design magazine .",
+      "published": "2026-11-20T08:45:01+00:00",
       "summary_th": ""
     }
   ]
